@@ -1,0 +1,69 @@
+# === 不受欢迎的软件列表 ===
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 流氓大王2345
+DOMAIN-SUFFIX,2345.com
+DOMAIN-SUFFIX,2345.cc
+DOMAIN-SUFFIX,2345.cn
+DOMAIN-SUFFIX,2345.net
+DOMAIN-SUFFIX,2345cdn.net
+
+# 小鸟壁纸
+DOMAIN-SUFFIX,bizhi.360.cn
+DOMAIN-SUFFIX,shanhutech.cn
+
+# 鲁大师
+DOMAIN-SUFFIX,ludashi.com
+DOMAIN-SUFFIX,monidashi.cn
+
+# 360
+DOMAIN-SUFFIX,360safe.com
+DOMAIN-SUFFIX,qhupdate.com
+DOMAIN,c.sayhi.360.cn
+DOMAIN-SUFFIX,360shuke.com
+DOMAIN-SUFFIX,xjietiao.com
+DOMAIN-SUFFIX,360jrkt.com
+
+# 金山
+DOMAIN-SUFFIX,ijinshan.com
+DOMAIN-SUFFIX,duba.net
+DOMAIN-SUFFIX,pc120.com
+DOMAIN-SUFFIX,duba.com
+DOMAIN-SUFFIX,cmcmcdn.com
+DOMAIN-SUFFIX,zhhainiao.com
+DOMAIN-SUFFIX,liebao.cn
+DOMAIN-SUFFIX,drivergenius.com
+
+# 快压
+DOMAIN-SUFFIX,kuaizip.com
+DOMAIN-SUFFIX,kkdownload.com
+DOMAIN-SUFFIX,glzip.com
+
+# abc看图
+DOMAIN-SUFFIX,7654.com
+DOMAIN-SUFFIX,abckantu.com
+
+# 展盟
+DOMAIN-SUFFIX,shzhanmeng.com
+
+# 电脑管家
+DOMAIN-SUFFIX,guanjia.qq.com
+DOMAIN-SUFFIX,gj.qq.com
+
+# 驱动人生
+DOMAIN-SUFFIX,160.com
+
+# UC浏览器
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,uczzd.com
+
+# 屏蔽思杰马克丁，诈骗网站
+# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Marketing.list

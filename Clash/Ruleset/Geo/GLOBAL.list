@@ -1,0 +1,35 @@
+# === 全球节点服务器连接的地址 ===
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 阿根廷顶级域
+DOMAIN-SUFFIX,ar
+# 土耳其顶级域
+DOMAIN-SUFFIX,tr
+# 韩国顶级域
+DOMAIN-SUFFIX,kr
+
+# 欧洲联盟顶级域
+DOMAIN-SUFFIX,eu
+# 西欧-英国 GBR 顶级域
+DOMAIN-SUFFIX,uk
+# 西欧-法国 FRA 顶级域
+DOMAIN-SUFFIX,fr
+# 中欧-德国 DEU 顶级域
+DOMAIN-SUFFIX,de
+# 欧洲-亚洲-俄罗斯 RUS 顶级域
+DOMAIN-SUFFIX,ru
+# 中欧-波兰 POL 顶级域
+DOMAIN-SUFFIX,pl
+# 西北-荷兰 NLD 顶级域
+DOMAIN-SUFFIX,nl
+# 西南-西班牙 ESP 顶级域
+DOMAIN-SUFFIX,es
+# 北欧-丹麦 DNK 顶级域
+DOMAIN-SUFFIX,dk

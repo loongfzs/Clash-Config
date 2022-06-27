@@ -1,0 +1,34 @@
+# === 本地/局域网/保留地址 ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# https://en.wikipedia.org/wiki/Reserved_IP_addresses
+# 本地或保留地址
+DOMAIN-SUFFIX,ip6-localhost
+DOMAIN-SUFFIX,ip6-loopback
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,localhost
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,198.18.0.0/16,no-resolve
+IP-CIDR,224.0.0.0/4,no-resolve
+IP-CIDR,240.0.0.0/4,no-resolve
+IP-CIDR,255.255.255.255/32,no-resolve
+IP-CIDR6,::/128,no-resolve
+IP-CIDR6,::1/128,no-resolve
+IP-CIDR6,fc00::/7,no-resolve
+IP-CIDR6,fe80::/10,no-resolve
+IP-CIDR6,fd00::/8,no-resolve
+
+# 路由器管理域名
+DOMAIN,tplogin.cn

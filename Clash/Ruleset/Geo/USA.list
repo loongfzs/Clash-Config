@@ -1,0 +1,22 @@
+# === 仅使用美国服务器连接的地址 ===
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 美国顶级域
+DOMAIN-SUFFIX,us
+
+# 极限巅峰（游戏内域名）
+DOMAIN,lb-rdv-steep.ubisoft.com
+DOMAIN,useast1-public-ubiservices.ubi.com
+
+# GoogleVoice
+# https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Google/GoogleVoice.list
+DOMAIN,lens.l.google.com
+# GoogleVoice 拨号连接
+DOMAIN-SUFFIX,stun.l.google.com

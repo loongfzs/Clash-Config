@@ -1,0 +1,34 @@
+# === 仅在中国大陆连接的地址（直连列表） ===
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 顶级域列表
+DOMAIN-SUFFIX,cn
+
+# speedtest
+DOMAIN-SUFFIX,speedtest.net
+
+# 中移
+DOMAIN-SUFFIX,139.com
+DOMAIN-SUFFIX,chinamobile.com
+
+# 金融服务
+DOMAIN-SUFFIX,paypal.com
+
+# P2P下载
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
+
+# 贝锐
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,orayimg.com
+
+DOMAIN-SUFFIX,cibntv.net

@@ -1,0 +1,22 @@
+# === 节点选择白名单（无屏蔽） ===
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# ACL4SSR Unbreak 白名单 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+
+# 正常使用 Google Play 必备
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,gstatic.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,google.cn
+
+# Edge 标签页
+# https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 210 line
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,bing.com

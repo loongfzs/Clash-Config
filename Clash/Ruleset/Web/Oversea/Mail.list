@@ -1,0 +1,30 @@
+# === 国际邮箱服务 ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 邮箱发信
+DOMAIN-SUFFIX,smtp
+
+# M365
+DOMAIN,outlook.office365.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,smtp.office365.com
+DOMAIN,imap-mail.outlook.com
+DOMAIN,pop-mail.outlook.com
+DOMAIN,smtp-mail.outlook.com
+
+# Gmail
+DOMAIN,pop.gmail.com
+DOMAIN,smtp.gmail.com
+DOMAIN,imap.gmail.com
+
+# 苹果邮箱
+DOMAIN-SUFFIX,mail.me.com
+DOMAIN-SUFFIX,mail.me.com

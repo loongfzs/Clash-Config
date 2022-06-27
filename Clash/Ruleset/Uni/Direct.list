@@ -1,0 +1,36 @@
+# === 直连白名单（无屏蔽） ===
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# ACL4SSR Unbreak 白名单
+# 更新日期：2021年
+# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+# Getui地震速报
+DOMAIN-SUFFIX,dizhensubao.getui.com
+# Umeng
+DOMAIN,msg.umeng.com
+
+# 2345天气
+DOMAIN,tianqi.2345.com
+DOMAIN,img1.2345.com
+DOMAIN,tianqi-stream.2345cdn.net
+
+# === 特殊服务 ===
+# 邮箱服务端口
+DST-PORT,993
+DST-PORT,25
+DST-PORT,995
+DST-PORT,110
+DST-PORT,143
+DST-PORT,109
+DST-PORT,465
+DST-PORT,587
+
+# NTP（网络时间同步）服务
+DST-PORT,123

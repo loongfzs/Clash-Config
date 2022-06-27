@@ -1,0 +1,31 @@
+# === 这个列表里的内容始终会被屏蔽 ===
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 火狐（国内版）
+DOMAIN-SUFFIX,firefox.com.cn
+
+# 重橙
+# https://www.zhihu.com/question/281163698/answer/441388130
+DOMAIN-SUFFIX,flash.cn
+DOMAIN,geo2.adobe.com
+DOMAIN-SUFFIX,izhongcheng.cn
+
+# 屏蔽WIFI万能钥匙
+DOMAIN-SUFFIX,wifi.com
+DOMAIN-SUFFIX,51y5.net
+DOMAIN-SUFFIX,wifi188.com
+DOMAIN-SUFFIX,lsttnews.com
+DOMAIN-SUFFIX,ieeewifi.com
+DOMAIN-SUFFIX,wkanx.com
+# 连尚开放平台
+DOMAIN-SUFFIX,lianmeng.link
+
+# 
+DST-PORT,65535

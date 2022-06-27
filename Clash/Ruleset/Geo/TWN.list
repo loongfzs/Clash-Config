@@ -1,0 +1,23 @@
+# === 仅使用中国台湾省服务器连接的地址 ===
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 中国台湾省顶级域
+DOMAIN-SUFFIX,tw
+
+# 中華電信
+DOMAIN-SUFFIX,hinet.net
+
+# 中華電信影音平台
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,litv.tv
+
+# linkedin国际版
+# ！！https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 209 line
+DOMAIN-SUFFIX,linkedin.com

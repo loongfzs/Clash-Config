@@ -1,0 +1,27 @@
+# === 苹果公司 ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 苹果 IP 地址块 
+# https://support.apple.com/zh-cn/HT210060
+IP-CIDR,17.0.0.0/8
+
+# Apple 官网
+# ！！https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 211 line
+DOMAIN,www.apple.com
+DOMAIN,tv.apple.com
+
+# App Store
+# ！！https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 225-229 237-242 lines
+# DOMAIN-SUFFIX,mzstatic.com
+# DOMAIN-SUFFIX,itunes.apple.com
+# DOMAIN-SUFFIX,phobos.apple.com
+# DOMAIN-SUFFIX,aaplimg.com
+# DOMAIN,apps.apple.com

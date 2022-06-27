@@ -1,0 +1,33 @@
+# === Google中国 列表 ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 225-235 lines
+
+DOMAIN-SUFFIX,c.android.clients.google.com
+DOMAIN-SUFFIX,cache.pack.google.com
+DOMAIN-SUFFIX,dl.l.google.com
+DOMAIN-SUFFIX,imasdk.googleapis.com
+DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
+DOMAIN-SUFFIX,toolbarqueries.google.com
+DOMAIN-SUFFIX,tools.google.com
+DOMAIN-SUFFIX,tools.l.google.com
+DOMAIN-SUFFIX,www-googletagmanager.l.google.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,translate.googleapis.com
+DOMAIN,clientservices.googleapis.com
+DOMAIN,www.gstatic.com
+DOMAIN,crl.pki.goog
+DOMAIN,dl.google.com
+DOMAIN,fonts.googleapis.com
+DOMAIN,fonts.gstatic.com
+DOMAIN,ocsp.pki.goog
+DOMAIN,ssl.gstatic.com
+DOMAIN,update.googleapis.com

@@ -1,0 +1,26 @@
+# === 快手短视频 ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Kuaishou.list
+# https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/KuaiShou.list
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,inkuai.com
+DOMAIN-SUFFIX,ksapisrv.com
+DOMAIN-SUFFIX,kspkg.com
+DOMAIN-SUFFIX,kuaiapps.com
+DOMAIN-SUFFIX,kwai666.com
+DOMAIN-SUFFIX,kwailai.com
+DOMAIN-SUFFIX,kwaitalk.com
+DOMAIN-SUFFIX,kwaitv.com
+DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,yximgs.com
+DOMAIN-SUFFIX,yxixy.com
+DOMAIN-SUFFIX,kwaicdn.com
