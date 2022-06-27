@@ -11,7 +11,6 @@
 # ACL4SSR Unbreak 白名单 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 
 # 正常使用 Google Play 必备
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,google.cn
@@ -19,4 +18,3 @@ DOMAIN-SUFFIX,google.cn
 # Edge 标签页
 # https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 210 line
 DOMAIN-SUFFIX,msn.cn
-DOMAIN-SUFFIX,bing.com
