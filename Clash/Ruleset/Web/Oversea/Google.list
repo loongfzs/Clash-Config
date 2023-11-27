@@ -1,0 +1,38 @@
+# === Google ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 在fallback-filter列表
+DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,goog
+DOMAIN-SUFFIX,google
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,gvt5.com
+DOMAIN-SUFFIX,gvt6.com
+DOMAIN-SUFFIX,gvt7.com
+DOMAIN-SUFFIX,gvt9.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,withgoogle.com

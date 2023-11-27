@@ -1,0 +1,32 @@
+# === 文件下载 ===
+# +++ only in clash +++  
+
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# steam游戏下载
+DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,steampipe-kr.akamaized.net
+DOMAIN-SUFFIX,steampipe-partner.akamaized.net
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,hwcdn.net
+
+# EpicGames游戏下载
+DOMAIN,fastly-download.epicgames.com
+
+# Xbox游戏下载
+DOMAIN,dlassets.xboxlive.com
+
+# R星游戏下载
+
+# b社游戏下载
+DOMAIN,download.cdp.bethesda.net
+DOMAIN,content.cdp.bethesda.net

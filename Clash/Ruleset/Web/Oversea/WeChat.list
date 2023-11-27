@@ -1,0 +1,31 @@
+# === WeChat （微信国际版）服务器地址（WeChat International Pte. Ltd.）（不包含欧盟） ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,wechatlegal.net
+DOMAIN-SUFFIX,wechatpay.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,weixinsxy.com
+
+# 新加坡 IP
+IP-CIDR,101.32.104.4/32,no-resolve
+IP-CIDR,101.32.104.41/32,no-resolve
+IP-CIDR,101.32.104.56/32,no-resolve
+IP-CIDR,101.32.118.25/32,no-resolve
+IP-CIDR,101.32.133.16/32,no-resolve
+IP-CIDR,101.32.133.53/32,no-resolve
+IP-CIDR,101.32.133.209/32,no-resolve
+IP-CIDR,129.226.3.47/32,no-resolve
+IP-CIDR,129.226.107.244/32,no-resolve
+IP-CIDR,43.130.192.0/19,no-resolve
+IP-CIDR,43.156.192.0/18,no-resolve
+IP-CIDR,129.226.0.0/16,no-resolve
+# IP-CIDR,101.32.0.0/16,no-resolve

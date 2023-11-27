@@ -1,0 +1,52 @@
+# === 海外游戏平台 ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# Uplay
+DOMAIN-KEYWORD,ubisoft
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubi.li
+
+# EPIC 虚幻游戏平台
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,unrealengine.com
+
+# GOG游戏平台
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog-statics.com
+
+# Sony
+# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
+# 在fallback-filter列表
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+DOMAIN-SUFFIX,playstation.net
+
+# 任天堂 switch
+# https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset/Extra/Game
+DOMAIN-KEYWORD,nintendo
+
+# EA游戏平台
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,origin.com
+# 聊天/好友服务
+DOMAIN-SUFFIX,tnt-ea.com
+
+# R星游戏
+DOMAIN-SUFFIX,rockstargames.com
+
+# B社
+DOMAIN-SUFFIX,bethesda.net
+
+# Hitman
+DOMAIN-SUFFIX,ioi.dk
+DOMAIN-SUFFIX,hitman.io

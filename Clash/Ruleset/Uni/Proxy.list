@@ -1,0 +1,33 @@
+# === 节点选择白名单（高优先级） ===
+# +++ only in clash +++  
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# Google CN
+# 在fallback-filter列表
+DOMAIN-SUFFIX,gstatic.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,google.cn
+
+# 微软
+# 在fallback-filter列表
+DOMAIN-SUFFIX,msn.cn
+
+# Apkpure
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,apkpure.net
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,winudf.com
+
+# Uptodown
+DOMAIN-SUFFIX,utdstc.com
+DOMAIN-SUFFIX,uptodown.com
+
+# Vmware
+DOMAIN-SUFFIX,vmware.com

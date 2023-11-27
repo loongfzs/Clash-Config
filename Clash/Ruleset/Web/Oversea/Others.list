@@ -1,0 +1,228 @@
+# === 需要代理 ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+### A 
+# Atlassian
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,bitbucket.org
+
+# ASUS
+DOMAIN-SUFFIX,asus.com
+
+# AVAST
+DOMAIN-SUFFIX,avast.com
+
+# AWS
+DOMAIN-SUFFIX,amazonaws.com
+
+# Akamai
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaistream.net
+
+### B 
+
+### C 
+# Cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflarewarp.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,warp.plus
+DOMAIN-SUFFIX,workers.dev
+
+# CDN
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
+
+### D
+# Duckduckgo
+DOMAIN-SUFFIX,duckduckgo.com
+
+### E 
+
+### F 
+
+### G
+# Github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+
+# Goodnotes
+DOMAIN-SUFFIX,goodnotes.com
+DOMAIN-SUFFIX,goodnotescloud.com
+DOMAIN-SUFFIX,goodnotesplatform.com
+
+### H 
+# Hcaptcha
+DOMAIN-SUFFIX,hcaptcha.com
+
+### I 
+# Intel
+DOMAIN-SUFFIX,intel.com
+
+# Internet Archive
+DOMAIN-SUFFIX,archive.org
+
+# IMDB
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,media-imdb.com
+
+# Imgur 图床
+DOMAIN-SUFFIX,imgur.com
+
+### J 
+
+### K 
+
+### L 
+
+### M 
+# 名字生成器
+DOMAIN-SUFFIX,qmsjmfb.com
+
+# Meta (Facebook Instagram)
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+
+### N 
+# Notion
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+
+# Nvidia
+DOMAIN-SUFFIX,nvidia.com
+
+### O 
+# Ookla
+DOMAIN-SUFFIX,downdetector.com
+DOMAIN-SUFFIX,downdetectorapi.com
+
+### P 
+# Pinterest
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.com
+
+# Pornhub
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,doppiocdn.org
+
+### Q 
+# Quora
+DOMAIN-SUFFIX,quora.com
+
+# Quantumult X APP
+DOMAIN-SUFFIX,quantumult.app
+
+### R 
+# Reddit
+DOMAIN-SUFFIX,redditstatic.com
+
+# RoboForm
+DOMAIN-SUFFIX,roboform.com
+
+### S 
+# SMS-activate
+DOMAIN-SUFFIX,sms-activate.org
+
+# Sukka
+DOMAIN-SUFFIX,skk.moe
+
+### T 
+# Tumblr
+DOMAIN-SUFFIX,tumblr.com
+
+# Tor
+DOMAIN-SUFFIX,torproject.org
+
+# Twitch
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+
+# Twitter
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
+
+### U 
+
+### V 
+# V2EX
+DOMAIN-SUFFIX,v2ex.com
+
+### W 
+# Wikipedia 维基百科
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
+
+# Whatsapp
+DOMAIN-KEYWORD,whatsapp
+
+### X 
+# Xmind
+DOMAIN-SUFFIX,xmind.app
+
+# Xvideos
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+
+### Y 
+# Yahoo
+DOMAIN-KEYWORD,yahoo
+DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,yusercontent.com
+
+### Z 
+
+### 0 
+
+### 1 
+# 1Password
+DOMAIN-SUFFIX,1password.com
+
+### 2 
+
+### 3 
+
+### 4 
+
+### 5 
+
+### 6 
+
+### 7 
+
+### 8 
+
+### 9 
+
+### 其他
+# CDN/DNS
+# 在fallback-filter列表
+DOMAIN-SUFFIX,edgekey.net
+
+### 特殊 
+
+### 测试
+DOMAIN-SUFFIX,whoer.net

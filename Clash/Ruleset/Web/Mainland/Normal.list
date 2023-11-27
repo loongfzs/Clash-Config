@@ -1,0 +1,420 @@
+# === 直连列表 ===
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+### 顶级域列表
+DOMAIN-SUFFIX,cn
+
+### A 
+# 阿里巴巴补充
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,taopiaopiao.com
+# 阿里云
+DOMAIN-SUFFIX,myalicdn.com
+# 阿里云盘
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,aliyundrive.net
+# 菜鸟
+DOMAIN-SUFFIX,cainiao.com
+# 优酷
+DOMAIN-SUFFIX,cibntv.net
+# 飞猪旅行
+DOMAIN-SUFFIX,fliggy.com
+
+# 爱奇艺
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,71edge.com
+DOMAIN-SUFFIX,ppsimg.com
+DOMAIN-SUFFIX,qy.net
+
+### B 
+# 贝锐
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,orayimg.com
+
+# 哔哩哔哩
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+
+# Blued
+DOMAIN-SUFFIX,blued.com
+DOMAIN-SUFFIX,bldimg.com
+
+# 百词斩
+DOMAIN-SUFFIX,baicizhan.com
+
+### C
+# 彩云天气
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,caiyuncdn.com
+DOMAIN-SUFFIX,colorfulclouds.net
+
+# CCTV
+DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctvpic.com
+
+# 潮汐APP
+DOMAIN-SUFFIX,moreless.io
+
+# 酷安
+DOMAIN-SUFFIX,coolapk.com
+
+# CSDN
+DOMAIN-SUFFIX,csdn.net
+
+### D 
+# 抖音
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,volceapplog.com
+DOMAIN-SUFFIX,volcsirius.com
+DOMAIN-SUFFIX,volcsiriusbd.com
+
+# 滴滴
+DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,kuaidadi.com
+DOMAIN-SUFFIX,udache.com
+DOMAIN-SUFFIX,xiaojukeji.com
+
+# 豆瓣
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,doubanio.com
+
+# DDNS
+DOMAIN,fzscellular.dynv6.net
+DOMAIN,fzsnas.dynv6.net
+DOMAIN,fzs5gcpe.dynv6.net
+DOMAIN,loongfzshome.dynv6.net
+
+# Days Matter 倒数日
+DOMAIN-SUFFIX,2q10.com
+DOMAIN-SUFFIX,appcloudcdn.com
+
+# 丁香园
+DOMAIN-SUFFIX,dxycdn.com
+
+### E 
+
+### F 
+# 粉笔教育（含同类网站）
+DOMAIN-SUFFIX,fenbi.com
+# 新途径在线
+DOMAIN-SUFFIX,xtj.pub
+# 中公教育
+DOMAIN-SUFFIX,eoffcn.com
+DOMAIN-SUFFIX,offcn.com
+DOMAIN-SUFFIX,offcncloud.com
+# 华图教育
+DOMAIN-SUFFIX,huatu.com
+# 半月谈
+DOMAIN-SUFFIX,banyuetanapp.com
+
+### G 
+# 国铁吉讯
+DOMAIN-SUFFIX,ccrgt.com
+
+# 过期啦
+DOMAIN-SUFFIX,guoqi365.com
+
+### H 
+# 华为补充
+DOMAIN-SUFFIX,dbankcloud.com
+DOMAIN-SUFFIX,myhuaweicloud.com
+
+# 火山引擎
+# 官网
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,volccdn.com
+# 镜像站
+DOMAIN-SUFFIX,volces.com
+# 字节跳动小程序SDK
+DOMAIN-SUFFIX,ctobsnssdk.com
+# 日志
+DOMAIN-SUFFIX,volceapplog.com
+# 接口
+DOMAIN-SUFFIX,volcengineapi.com
+
+# 虎嗅
+DOMAIN-SUFFIX,huxiu.com
+DOMAIN-SUFFIX,huxiucdn.com
+
+### I 
+# IPIP
+DOMAIN-SUFFIX,ipip.net
+
+# IP138
+DOMAIN-SUFFIX,ip138.com
+
+# IT之家
+DOMAIN-SUFFIX,ithome.com
+DOMAIN-SUFFIX,ruanmei.com
+
+### J 
+# 京东
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,jdcloud.com
+DOMAIN-SUFFIX,jcloudstatic.com
+DOMAIN-SUFFIX,jcloudstatic.net
+
+# 简书
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,jianshuapi.com
+
+# 尽简衣橱
+DOMAIN-SUFFIX,jinjian.tech
+
+### K 
+# 酷狗音乐
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,tencentmusic.com
+
+# 快递100
+DOMAIN-SUFFIX,kuaidi100.com
+
+# 快懂百科
+DOMAIN-SUFFIX,baike.com
+
+### L 
+# 蓝点网
+DOMAIN-SUFFIX,landiannews.com
+DOMAIN-SUFFIX,lancdn.com
+
+### M 
+# 美团
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,dpfile.com
+DOMAIN-SUFFIX,sankuai.com
+# 猫眼
+DOMAIN-SUFFIX,maoyan.com
+
+# 蜜雪冰城
+DOMAIN-SUFFIX,mxbc.net
+
+# 幕布
+DOMAIN-SUFFIX,mubu.com
+DOMAIN-SUFFIX,mubucm.com
+
+### N 
+
+### O 
+# OneDNS
+DOMAIN-SUFFIX,onedns.net
+
+# Ookla Speedtest
+DOMAIN-SUFFIX,speedtest.net
+
+### P 
+# 拼多多
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pinduoduo.net
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pddugc.com
+DOMAIN-SUFFIX,yangkeduo.com
+
+# 品果科技
+DOMAIN-SUFFIX,camera360.com
+
+### Q 
+# 去哪儿旅行
+DOMAIN-SUFFIX,qunar.com
+DOMAIN-SUFFIX,qunarzz.com
+DOMAIN-SUFFIX,qunarcdn.com
+
+### R 
+# 瑞幸咖啡
+DOMAIN-SUFFIX,lkcoffee.com
+DOMAIN-SUFFIX,luckincoffeecdn.com
+
+### S 
+# 硕方打印
+DOMAIN-SUFFIX,supvan.com
+
+# 少数派
+DOMAIN-SUFFIX,sspai.com
+
+# 什么值得买
+DOMAIN-SUFFIX,smzdm.com
+DOMAIN-SUFFIX,zdmimg.com
+
+# 顺丰快递
+DOMAIN-SUFFIX,sf-express.com
+
+# 搜狗
+DOMAIN-SUFFIX,sogou.com
+
+### T 
+# 通信人家园
+DOMAIN-SUFFIX,txrjy.com
+
+# 途牛旅行
+DOMAIN-SUFFIX,tuniu.com
+DOMAIN-SUFFIX,tuniu.net
+DOMAIN-SUFFIX,tuniucdn.com
+
+# 同程旅行
+DOMAIN-SUFFIX,ly.com
+DOMAIN-SUFFIX,elong.com
+DOMAIN-SUFFIX,17usoft.com
+
+### U 
+
+### V 
+
+### W 
+
+### X 
+# 新浪微博
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
+
+# 小红书
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+
+# 下厨房
+DOMAIN-SUFFIX,xiachufang.com
+DOMAIN-SUFFIX,chuimg.com
+
+# 小米
+DOMAIN-SUFFIX,kuaipandata.com
+DOMAIN-SUFFIX,huami.com
+
+# 喜马拉雅
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com
+
+# 携程旅行
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,c-ctrip.com
+
+# 新途径在线
+DOMAIN-SUFFIX,xtj.pub
+
+# 迅雷
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,sandai.com
+
+### Y 
+# 雨时（和风天气）
+DOMAIN-SUFFIX,qweather.com
+
+# 易有云
+DOMAIN-SUFFIX,ddnsto.com
+DOMAIN-SUFFIX,linkease.com
+
+# 猿辅导
+DOMAIN-SUFFIX,yuanfudao.com
+
+### Z 
+# 站长工具
+DOMAIN-SUFFIX,chinaz.com
+DOMAIN-SUFFIX,chinaz.net
+
+# 作业帮
+DOMAIN-SUFFIX,zuoyebang.com
+
+# 中国银联
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,unionpay.com
+
+# 中国农业银行
+DOMAIN-SUFFIX,abchina.com
+
+# 中国移动
+DOMAIN-SUFFIX,139.com
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,zone139.com
+DOMAIN-SUFFIX,cmicapm.com
+# 咪咕
+DOMAIN-SUFFIX,cmread.com
+DOMAIN-SUFFIX,migufun.com
+DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,migucloud.com
+
+# 中国广电
+# 直播中国
+DOMAIN-SUFFIX,yueshitv.com
+
+# 中国联通
+DOMAIN-SUFFIX,10010.com
+
+# 知乎
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+
+### 0 
+
+### 1 
+# 115
+DOMAIN-SUFFIX,115.com
+
+### 2 
+
+### 3 
+# 36氪
+DOMAIN-SUFFIX,36kr.com
+DOMAIN-SUFFIX,36krcdn.com
+
+# 3DMGAME
+DOMAIN-SUFFIX,3dmgame.com
+
+# 360
+DOMAIN-SUFFIX,360.com
+DOMAIN-SUFFIX,dhrest.com
+DOMAIN-SUFFIX,qhres.com
+DOMAIN-SUFFIX,qhstatic.com
+DOMAIN-SUFFIX,qhupdate.com
+DOMAIN-SUFFIX,qihucdn.com
+DOMAIN-SUFFIX,so.com
+
+# 3Dbody
+DOMAIN-SUFFIX,3dbody.com
+
+### 4 
+
+### 5 
+
+### 6 
+
+### 7 
+
+### 8 
+
+### 9 
+
+### 其他 
+
+### 特殊
+# iCloud 邮件
+DOMAIN-SUFFIX,mail.me.com
+
+# 海外支付平台
+# Paypal（贝宝）
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,paypal-mktg.com
+# VISA
+DOMAIN-SUFFIX,visa.com
+
+# 证书验证
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,sectigochina.com
+
+### 测试 
+DOMAIN-SUFFIX,ipleak.net

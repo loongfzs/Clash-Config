@@ -1,0 +1,39 @@
+# === 公共DNS服务器 ===
+# +++ only in clash +++  
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/128
+
+# Google Public DNS
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+
+# Cloudflare DNS
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+
+# Quad9 DNS
+DOMAIN-SUFFIX,quad9.net
+IP-CIDR,9.9.9.9/32,no-resolve
+IP-CIDR,149.112.112.112/32,no-resolve
+
+# Cisco OpenDNS
+DOMAIN,doh.opendns.com
+IP-CIDR,146.112.41.2/32,no-resolve
+
+# Adguard DNS
+DOMAIN-SUFFIX,adguard-dns.com
+IP-CIDR,94.140.14.14/32,no-resolve
+IP-CIDR,94.140.15.15/32,no-resolve
+IP-CIDR,94.140.14.15/32,no-resolve
+IP-CIDR,94.140.15.16/32,no-resolve
+IP-CIDR,94.140.14.140/32,no-resolve
+IP-CIDR,94.140.14.141/32,no-resolve
+
+# Next DNS
+DOMAIN-SUFFIX,nextdns.io

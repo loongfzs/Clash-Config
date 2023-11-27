@@ -1,0 +1,65 @@
+# === 微软 Microsoft ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 在fallback-filter列表
+DOMAIN-SUFFIX,ms
+
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azureiotcentral.com
+DOMAIN-SUFFIX,azurerms.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,cloudapp.net
+DOMAIN-SUFFIX,cloudappsecurity.com
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,lync.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftapp.net
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,msappproxy.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msft.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,msftidentity.com
+DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msocdn.com
+DOMAIN-SUFFIX,msocsp.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,sway-cdn.com
+DOMAIN-SUFFIX,sway-extensions.com
+DOMAIN-SUFFIX,sway.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsazure.com

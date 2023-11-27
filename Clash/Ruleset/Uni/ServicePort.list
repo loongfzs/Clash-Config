@@ -1,0 +1,61 @@
+# === 特殊端口，用于基础服务 ===
+# +++ only in clash +++  
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 邮箱服务端口
+# 发送端口
+# SMTP 非加密端口
+DST-PORT,25
+# SMTP 加密端口
+DST-PORT,465
+# SMTP 端口
+DST-PORT,587
+# 接收端口
+# POP3 非加密端口
+DST-PORT,110
+# IMAP 非加密端口
+DST-PORT,143
+# IMAP 加密端口
+DST-PORT,993
+# POP3 加密端口
+DST-PORT,995
+
+# SSH Secure Shell (SSH)、SSH 文件传输协议 (SFTP) 和安全复制 (scp)
+DST-PORT,22
+
+# 网络时间协议 (NTP)
+DST-PORT,123
+
+# Windows 互联网名称服务 (WINS)
+DST-PORT,137
+
+# NETBIOS 数据报服务 Windows 数据报服务、Windows 网上邻居
+DST-PORT,138
+
+# TCP	服务器信息块 (SMB) 文件共享和 Windows 打印服务
+DST-PORT,139
+
+# Microsoft SMB 域服务器
+DST-PORT,445
+
+# APN/XMPP 
+# https://support.apple.com/zh-cn/102266
+# https://support.apple.com/zh-cn/HT202944
+DST-PORT,2195
+DST-PORT,2196
+DST-PORT,2197
+DST-PORT,5223
+
+# 远程桌面
+# Windows
+DST-PORT,3389
+# Mac
+DST-PORT,3283
+DST-PORT,5900

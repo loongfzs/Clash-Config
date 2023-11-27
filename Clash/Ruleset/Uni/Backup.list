@@ -1,0 +1,134 @@
+# pikpak网盘
+DOMAIN,vod0393-aliyun18-vip-lixian.mypikpak.com
+DOMAIN,vod0394-aliyun18-vip-lixian.mypikpak.com
+DOMAIN,vod0395-aliyun18-vip-lixian.mypikpak.com
+DOMAIN,dl-a10b-0393.mypikpak.com
+DOMAIN,dl-a10b-0394.mypikpak.com
+DOMAIN,dl-a10b-0395.mypikpak.com
+DOMAIN,dl-a10b-0480.mypikpak.com
+DOMAIN,dl-a10b-0481.mypikpak.com
+DOMAIN,dl-a10b-0482.mypikpak.com
+DOMAIN,dl-a10b-0483.mypikpak.com
+DOMAIN,dl-a10b-0484.mypikpak.com
+
+DOMAIN,instant.arubanetworks.com
+DOMAIN,setmeup.arubanetworks.com
+DOMAIN,router.asus.com
+DOMAIN,www.asusrouter.com
+DOMAIN-SUFFIX,hiwifi.com
+DOMAIN-SUFFIX,leike.cc
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,my.router
+DOMAIN-SUFFIX,p.to
+DOMAIN-SUFFIX,peiluyou.com
+DOMAIN-SUFFIX,phicomm.me
+DOMAIN-SUFFIX,router.ctc
+DOMAIN-SUFFIX,routerlogin.com
+DOMAIN-SUFFIX,tendawifi.com
+DOMAIN-SUFFIX,zte.home
+DOMAIN-SUFFIX,tplogin.cn
+DOMAIN-SUFFIX,wifi.cmcc
+
+# NAS
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,synocommunity.com
+DOMAIN-SUFFIX,qnap.com
+DOMAIN-SUFFIX,myqnapcloud.com
+
+; Apple 推送通知服务 (APNS)
+ruleset=DIRECT,https://raw.githubusercontent.com/loongfzs/Clash-Config/main/Clash/Ruleset/Web/Oversea/ApplePush.list
+
+; 禁止HttpDNS
+ruleset=REJECT,https://raw.githubusercontent.com/loongfzs/Clash-Config/main/Clash/Ruleset/Uni/HttpDNS.list
+
+HKG@亚洲-华南-香港 HKG
+TWN@亚洲-华东-台湾 TWN
+SGP@亚洲-东南亚-新加坡 SGP
+KOR@亚洲-东亚-韩国 KOR
+JPN@亚洲-东亚-日本 JPN
+USA@美洲-北美-美国 USA
+IND@亚洲-南亚-印度 IND
+AUS@大洋洲-澳大拉西亚-澳大利亚 AUS
+DEU@欧洲-中欧-德国 DEU
+FRA@欧洲-西欧-法国 FRA
+POL@欧洲-中欧-波兰 POL
+NLD@欧洲-西北-荷兰 NLD
+ESP@欧洲-南欧-西班牙 ESP
+RUS@亚洲-北亚-俄罗斯 RUS
+ISL@欧洲-北欧-冰岛 ISL
+DNK@欧洲-北欧-丹麦 DNK
+CAN@美洲-北美-加拿大 CAN
+GBR@欧洲-西欧-英国 GBR
+THA@亚洲-东南亚-泰国 THA
+PHL@亚洲-东南亚-菲律宾 PHL
+TUR@亚洲-西亚-土耳其 TUR
+IDN@亚洲-东南亚-印度尼西亚 IDN
+VNM@亚洲-东南亚-越南 VNM
+
+DOMAIN,ubisoft-avatars.akamaized.net
+DOMAIN-SUFFIX,ubisoftconnect.com
+DOMAIN-SUFFIX,ubisoft.com
+
+# Snapchat
+DOMAIN-SUFFIX,snapchat.com
+
+# Taptap
+DOMAIN-SUFFIX,taptap.io
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,tapimg.net
+
+# Arkoselabs
+DOMAIN-SUFFIX,arkoselabs.com
+
+# BBC 
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+
+# Flickr
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,staticflickr.com
+
+# Zotero
+DOMAIN-SUFFIX,zotero.org
+
+# 500PX
+DOMAIN-SUFFIX,500px.com
+
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msocsp.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsazure.com
+DOMAIN-SUFFIX,microsoft.com
+
+# Algolia
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,algolianet.com
+
+IP-CIDR,9.9.9.11/32,no-resolve
+IP-CIDR,149.112.112.11/32,no-resolve
+IP-CIDR,9.9.9.10/32,no-resolve
+IP-CIDR,149.112.112.10/32,no-resolve

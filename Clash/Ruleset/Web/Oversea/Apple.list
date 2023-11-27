@@ -1,0 +1,38 @@
+# === Apple ===
+# 项目主页：https://github.com/loongfzs/Clash-Config
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 苹果 IP 地址块 
+# https://support.apple.com/zh-cn/HT210060
+IP-CIDR,17.0.0.0/8
+
+# 在fallback-filter列表！
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+
+DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+
+DOMAIN-SUFFIX,apple
+
+# DOMAIN-SUFFIX,applemusic.com
+# DOMAIN-SUFFIX,safebrowsing.apple

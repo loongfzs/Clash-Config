@@ -1,0 +1,41 @@
+# === 直连白名单（高优先级） ===
+# +++ only in clash +++  
+
+# 规则编写示例
+# DOMAIN,123.cn
+# DOMAIN-SUFFIX,123.com
+# DOMAIN-KEYWORD,fool
+# IP-CIDR,223.5.5.5/32（包括域名）
+# IP-CIDR,223.5.5.5/32,no-resolve（单IP）
+# IP-CIDR6,2620:149:a44::/48
+
+# 2345天气
+DOMAIN,tianqi.2345.com
+DOMAIN,img1.2345.com
+DOMAIN,tianqi-stream.2345cdn.net
+
+# 连接测试
+DOMAIN,captive.apple.com
+# Microsoft NCSI
+# https://learn.microsoft.com/en-US/troubleshoot/windows-client/networking/internet-explorer-edge-open-connect-corporate-public-network
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,msftconnecttest.com
+IP-CIDR6,2a01:111:2003::52/128,no-resolve
+
+# Umeng 消息推送
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+
+# Windows NTP
+DOMAIN-SUFFIX,time.windows.com
+# Apple NTP
+DOMAIN,time.apple.com
+DOMAIN,time-ios.apple.com
+DOMAIN,time.asia.apple.com
+DOMAIN,time.euro.apple.com
+# 
+DOMAIN-SUFFIX,pool.ntp.org
+# Cloudflare
+DOMAIN,time.cloudflare.com
+# AWS
+DOMAIN,time.aws.com
