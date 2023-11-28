@@ -132,3 +132,7 @@ IP-CIDR,9.9.9.11/32,no-resolve
 IP-CIDR,149.112.112.11/32,no-resolve
 IP-CIDR,9.9.9.10/32,no-resolve
 IP-CIDR,149.112.112.10/32,no-resolve
+
+# Firebase Crashlytics
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com

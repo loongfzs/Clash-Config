@@ -44,6 +44,7 @@ DOMAIN,boxer.baidu.com
 # 腾讯
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,btrace.qq.com
+DOMAIN-SUFFIX,mtrace.qq.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
@@ -77,9 +78,6 @@ DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,mobileads.google.com
-# Firebase Crashlytics
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN,firebaselogging-pa.googleapis.com
 
 # 国外统计网站
 DOMAIN-SUFFIX,abtasty.com
