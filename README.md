@@ -8,6 +8,6 @@ Pure self-use rules!
 
 ### 访问量
 
-![](http://profile-counter.glitch.me/evilbutcher/count.svg)
+![](http://profile-counter.glitch.me/loongfzs/count.svg)
 
-【2023年11月28日 UTC+8 更新】【版本 V_510】
+【2023年11月30日 UTC+8 更新】【版本 V_511】

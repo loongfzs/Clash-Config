@@ -73,6 +73,9 @@ DOMAIN-SUFFIX,goodnotesplatform.com
 # Hcaptcha
 DOMAIN-SUFFIX,hcaptcha.com
 
+# Healthcare Communications Network (HCN)
+DOMAIN-SUFFIX,hcn.health
+
 ### I 
 # Intel
 DOMAIN-SUFFIX,intel.com
@@ -102,6 +105,9 @@ DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
+
+# 妙佑医疗国际医学教育与研究基金会 （MFMER）
+DOMAIN-SUFFIX,mayoclinic.org
 
 ### N 
 # Notion
