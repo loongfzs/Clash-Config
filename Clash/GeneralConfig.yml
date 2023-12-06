@@ -153,7 +153,7 @@ dns:
       - 255.255.255.255/32
     domain:
       # 一定要对齐，不然会出BUG
-      # 复制到Windows记事本时，前方4个空格
+      # 复制到Windows记事本时，前方打4个空格
       # google cn
       - '+.gstatic.cn'
       - '+.google.cn'
