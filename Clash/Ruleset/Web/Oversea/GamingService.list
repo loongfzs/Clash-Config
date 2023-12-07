@@ -12,11 +12,6 @@
 # udp stun测试
 DOMAIN,stun.syncthing.net
 DOMAIN,stun.bige0.com
-DOMAIN,stun.l.google.com
-DOMAIN,stun1.l.google.com
-DOMAIN,stun2.l.google.com
-DOMAIN,stun3.l.google.com
-DOMAIN,stun4.l.google.com
 DOMAIN,stun.nextcloud.com
 DOMAIN,meet-jit-si-turnrelay.jitsi.net
 DOMAIN,stun.cloudflare.com

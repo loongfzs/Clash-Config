@@ -11,7 +11,7 @@
 
 # 苹果 IP 地址块 
 # https://support.apple.com/zh-cn/HT210060
-IP-CIDR,17.0.0.0/8
+IP-CIDR,17.0.0.0/8,no-resolve
 
 # 在fallback-filter列表！
 DOMAIN-SUFFIX,aaplimg.com
@@ -33,6 +33,3 @@ DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 
 DOMAIN-SUFFIX,apple
-
-# DOMAIN-SUFFIX,applemusic.com
-# DOMAIN-SUFFIX,safebrowsing.apple

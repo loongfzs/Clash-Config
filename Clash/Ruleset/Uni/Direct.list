@@ -26,16 +26,11 @@ IP-CIDR6,2a01:111:2003::52/128,no-resolve
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 
-# Windows NTP
-DOMAIN-SUFFIX,time.windows.com
-# Apple NTP
-DOMAIN,time.apple.com
-DOMAIN,time-ios.apple.com
-DOMAIN,time.asia.apple.com
-DOMAIN,time.euro.apple.com
-# 
-DOMAIN-SUFFIX,pool.ntp.org
-# Cloudflare
+# Windows Time service
+DOMAIN,time.windows.com
+
+# Cloudflare Time Services
 DOMAIN,time.cloudflare.com
-# AWS
+
+# Amazon Time Sync
 DOMAIN,time.aws.com

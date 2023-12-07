@@ -401,6 +401,9 @@ DOMAIN-SUFFIX,3dbody.com
 ### 其他 
 
 ### 特殊
+# NTP 时间同步
+DOMAIN-SUFFIX,pool.ntp.org
+
 # iCloud 邮件
 DOMAIN-SUFFIX,mail.me.com
 
