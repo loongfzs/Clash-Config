@@ -9,12 +9,12 @@
 # IP-CIDR,223.5.5.5/32,no-resolve（单IP）
 # IP-CIDR6,2620:149:a44::/48
 
-# i3D HK
-IP-CIDR,43.239.137.210/32,no-resolve
+# I3D HK
+IP-CIDR,43.239.137.0/24,no-resolve
 
-# i3D JP
-IP-CIDR,103.194.164.199/32,no-resolve
+# I3D JP
+IP-CIDR,103.194.164.0/24,no-resolve
 
-# i3D US
-IP-CIDR,138.128.137.228/32,no-resolve
-IP-CIDR,162.244.53.18/32,no-resolve
+# I3D US
+IP-CIDR,138.128.137.0/24,no-resolve
+IP-CIDR,162.244.53.0/24,no-resolve
