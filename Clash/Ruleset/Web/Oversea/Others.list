@@ -93,6 +93,9 @@ DOMAIN-SUFFIX,imgur.com
 # IP-API
 DOMAIN-SUFFIX,ip-api.com
 
+# IP.SB
+DOMAIN-SUFFIX,ip.sb
+
 ### J 
 
 ### K 
@@ -187,9 +190,6 @@ DOMAIN-SUFFIX,v2ex.com
 # Wikipedia 维基百科
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
-
-# Whatsapp
-DOMAIN-KEYWORD,whatsapp
 
 ### X 
 # Xmind

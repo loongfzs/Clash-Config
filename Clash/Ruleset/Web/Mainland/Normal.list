@@ -240,6 +240,9 @@ DOMAIN-SUFFIX,qunarcdn.com
 DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,luckincoffeecdn.com
 
+# 人民日报
+DOMAIN-SUFFIX,peopleapp.com
+
 ### S 
 # 硕方打印
 DOMAIN-SUFFIX,supvan.com
@@ -253,9 +256,6 @@ DOMAIN-SUFFIX,zdmimg.com
 
 # 顺丰快递
 DOMAIN-SUFFIX,sf-express.com
-
-# 搜狗
-DOMAIN-SUFFIX,sogou.com
 
 ### T 
 # 通信人家园
@@ -375,13 +375,16 @@ DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,3dmgame.com
 
 # 360
+DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,360.com
-DOMAIN-SUFFIX,dhrest.com
+DOMAIN-SUFFIX,360.net
+DOMAIN-SUFFIX,360tres.com
+DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,qhres.com
+DOMAIN-SUFFIX,qhres2.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,qihucdn.com
-DOMAIN-SUFFIX,so.com
 
 # 3Dbody
 DOMAIN-SUFFIX,3dbody.com
