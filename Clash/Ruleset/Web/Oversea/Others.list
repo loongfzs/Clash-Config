@@ -125,6 +125,9 @@ DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,downdetector.com
 DOMAIN-SUFFIX,downdetectorapi.com
 
+# OMDb API
+DOMAIN-SUFFIX,omdbapi.com
+
 ### P 
 # Pinterest
 DOMAIN-SUFFIX,pinimg.com
