@@ -1,0 +1,33 @@
+HKG@香港
+HongKong@香港
+Hong Kong@香港
+TWN@台湾
+Taiwan@台湾
+SGP@新加坡
+Singapore@新加坡
+KOR@韩国
+South Korea@韩国
+JPN@日本
+Japan@日本
+USA@美国
+United States@美国
+IND@印度
+AUS@澳大利亚
+DEU@德国
+Germany@德国
+FRA@法国
+POL@波兰
+NLD@荷兰
+ESP@西班牙
+RUS@俄罗斯
+Russia@俄罗斯
+ISL@冰岛
+DNK@丹麦
+CAN@加拿大
+GBR@英国
+Great Britain@英国
+THA@泰国
+PHL@菲律宾
+TUR@土耳其
+IDN@印度尼西亚
+VNM@越南

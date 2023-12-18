@@ -8,30 +8,6 @@ DOMAIN-SUFFIX,myqnapcloud.com
 ; 禁止HttpDNS
 ruleset=REJECT,https://raw.githubusercontent.com/loongfzs/Clash-Config/main/Clash/Ruleset/Uni/HttpDNS.list
 
-HKG@亚洲-华南-香港 HKG
-TWN@亚洲-华东-台湾 TWN
-SGP@亚洲-东南亚-新加坡 SGP
-KOR@亚洲-东亚-韩国 KOR
-JPN@亚洲-东亚-日本 JPN
-USA@美洲-北美-美国 USA
-IND@亚洲-南亚-印度 IND
-AUS@大洋洲-澳大拉西亚-澳大利亚 AUS
-DEU@欧洲-中欧-德国 DEU
-FRA@欧洲-西欧-法国 FRA
-POL@欧洲-中欧-波兰 POL
-NLD@欧洲-西北-荷兰 NLD
-ESP@欧洲-南欧-西班牙 ESP
-RUS@亚洲-北亚-俄罗斯 RUS
-ISL@欧洲-北欧-冰岛 ISL
-DNK@欧洲-北欧-丹麦 DNK
-CAN@美洲-北美-加拿大 CAN
-GBR@欧洲-西欧-英国 GBR
-THA@亚洲-东南亚-泰国 THA
-PHL@亚洲-东南亚-菲律宾 PHL
-TUR@亚洲-西亚-土耳其 TUR
-IDN@亚洲-东南亚-印度尼西亚 IDN
-VNM@亚洲-东南亚-越南 VNM
-
 DOMAIN-SUFFIX,ubisoftconnect.com
 DOMAIN-SUFFIX,ubisoft.com
 
