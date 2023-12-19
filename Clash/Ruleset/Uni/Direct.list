@@ -38,8 +38,5 @@ DOMAIN,time.cloudflare.com
 # Amazon Time Sync
 DOMAIN,time.aws.com
 
-# AdGuardHome
-PROCESS-NAME,AdGuardHome
-
 # ddnstod
 PROCESS-NAME,ddnstod

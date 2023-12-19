@@ -22,8 +22,8 @@ DOMAIN,httpdns-sc.aliyuncs.com
 # Baidu
 DOMAIN,httpsdns.baidu.com
 DOMAIN,httpdns.baidu.com
-# BaiduBCE
 DOMAIN,httpdns.baidubce.com
+DOMAIN,httpdns.bcelive.com
 # Huawei
 DOMAIN,httpdns.c.cdnhwc2.com
 # JD
