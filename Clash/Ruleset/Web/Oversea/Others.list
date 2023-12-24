@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaistream.net
 
-### B 
+### B
 
 ### C 
 # Cloudflare
@@ -98,6 +98,9 @@ DOMAIN-SUFFIX,ip-api.com
 
 # IP.SB
 DOMAIN-SUFFIX,ip.sb
+
+# ipify.org
+DOMAIN-SUFFIX,ipify.org
 
 ### J 
 

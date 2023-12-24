@@ -205,6 +205,7 @@ dns:
       - '+.cloudapp.net'
       - '+.cloudappsecurity.com'
       - '+.edgesuite.net'
+      - '+.footprintdns.com'
       - '+.hotmail.com'
       - '+.live.com'
       - '+.live.net'
