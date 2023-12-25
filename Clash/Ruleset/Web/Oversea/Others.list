@@ -31,6 +31,8 @@ DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaistream.net
+# 在fallback-filter列表
+DOMAIN-SUFFIX,edgekey.net
 
 ### B
 
@@ -99,9 +101,6 @@ DOMAIN-SUFFIX,ip-api.com
 # IP.SB
 DOMAIN-SUFFIX,ip.sb
 
-# ipify.org
-DOMAIN-SUFFIX,ipify.org
-
 ### J 
 
 ### K 
@@ -118,8 +117,9 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
 
-# 妙佑医疗国际医学教育与研究基金会 （MFMER）
+# 妙佑医疗国际医学教育与研究基金会 （MFMER）（梅奥诊所）
 DOMAIN-SUFFIX,mayoclinic.org
+DOMAIN-SUFFIX,mayoclinichealthsystem.org
 
 ### N 
 # Notion
@@ -238,9 +238,6 @@ DOMAIN-SUFFIX,1password.com
 ### 9 
 
 ### 其他
-# CDN/DNS
-# 在fallback-filter列表
-DOMAIN-SUFFIX,edgekey.net
 
 ### 特殊 
 

@@ -37,6 +37,3 @@ DOMAIN,time.cloudflare.com
 
 # Amazon Time Sync
 DOMAIN,time.aws.com
-
-# ddnstod
-PROCESS-NAME,ddnstod

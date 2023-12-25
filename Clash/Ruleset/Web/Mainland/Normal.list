@@ -75,14 +75,7 @@ DOMAIN-SUFFIX,coolapk.com
 # CSDN
 DOMAIN-SUFFIX,csdn.net
 
-### D 
-# 抖音
-DOMAIN-SUFFIX,ecombdapi.com
-DOMAIN-SUFFIX,idouyinvod.com
-DOMAIN-SUFFIX,volceapplog.com
-DOMAIN-SUFFIX,volcsirius.com
-DOMAIN-SUFFIX,volcsiriusbd.com
-
+### D
 # 滴滴
 DOMAIN-SUFFIX,didistatic.com
 DOMAIN-SUFFIX,kuaidadi.com
@@ -96,7 +89,6 @@ DOMAIN-SUFFIX,doubanio.com
 # DDNS
 DOMAIN,fzscellular.dynv6.net
 DOMAIN,fzsnas.dynv6.net
-DOMAIN,fzs5gcpe.dynv6.net
 DOMAIN,loongfzshome.dynv6.net
 
 # Days Matter 倒数日
@@ -130,22 +122,16 @@ DOMAIN-SUFFIX,ccrgt.com
 DOMAIN-SUFFIX,guoqi365.com
 
 ### H 
-# 华为补充
+# 华为
+DOMAIN-SUFFIX,dbankcdn.com
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,huaweicloud.com
+DOMAIN-SUFFIX,hwccpc.com
+DOMAIN-SUFFIX,vmall.com
+DOMAIN-SUFFIX,vmallres.com
 DOMAIN-SUFFIX,dbankcloud.com
 DOMAIN-SUFFIX,myhuaweicloud.com
-
-# 火山引擎
-# 官网
-DOMAIN-SUFFIX,volcengine.com
-DOMAIN-SUFFIX,volccdn.com
-# 镜像站
-DOMAIN-SUFFIX,volces.com
-# 字节跳动小程序SDK
-DOMAIN-SUFFIX,ctobsnssdk.com
-# 日志
-DOMAIN-SUFFIX,volceapplog.com
-# 接口
-DOMAIN-SUFFIX,volcengineapi.com
 
 # 虎嗅
 DOMAIN-SUFFIX,huxiu.com
@@ -157,10 +143,6 @@ DOMAIN-SUFFIX,ipip.net
 
 # IP138
 DOMAIN-SUFFIX,ip138.com
-
-# IT之家
-DOMAIN-SUFFIX,ithome.com
-DOMAIN-SUFFIX,ruanmei.com
 
 ### J 
 # 京东
@@ -302,10 +284,6 @@ DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xiachufang.com
 DOMAIN-SUFFIX,chuimg.com
 
-# 小米
-DOMAIN-SUFFIX,kuaipandata.com
-DOMAIN-SUFFIX,huami.com
-
 # 喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
@@ -317,9 +295,8 @@ DOMAIN-SUFFIX,c-ctrip.com
 # 新途径在线
 DOMAIN-SUFFIX,xtj.pub
 
-# 迅雷
-DOMAIN-SUFFIX,xunlei.com
-DOMAIN-SUFFIX,sandai.com
+# 星域CDN
+DOMAIN-SUFFIX,xycdn.com
 
 ### Y 
 # 雨时（和风天气）
@@ -332,7 +309,27 @@ DOMAIN-SUFFIX,linkease.com
 # 猿辅导
 DOMAIN-SUFFIX,yuanfudao.com
 
-### Z 
+### Z
+# 字节跳动
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ndcpp.com
+DOMAIN-SUFFIX,toutiaovod.com
+DOMAIN-SUFFIX,volcsirius.com
+DOMAIN-SUFFIX,volcsiriusbd.com
+# 火山引擎
+# 官网
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,volccdn.com
+# 镜像站
+DOMAIN-SUFFIX,volces.com
+# 字节跳动小程序SDK
+DOMAIN-SUFFIX,ctobsnssdk.com
+# 日志
+DOMAIN-SUFFIX,volceapplog.com
+# 接口
+DOMAIN-SUFFIX,volcengineapi.com
+
 # 站长工具
 DOMAIN-SUFFIX,chinaz.com
 DOMAIN-SUFFIX,chinaz.net

@@ -1,4 +1,4 @@
-## === P2P下载 ===
+## === Process 游戏 ===
 ## +++ only in clash +++
 
 ## 规则编写示例
@@ -13,11 +13,3 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# 迅雷
-DOMAIN-SUFFIX,xunlei.com
-DOMAIN-SUFFIX,sandai.com
-
-# BitTorrent协议
-DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
