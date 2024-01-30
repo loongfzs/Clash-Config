@@ -26,6 +26,8 @@ DOMAIN,httpdns.baidubce.com
 DOMAIN,httpdns.bcelive.com
 # Huawei
 DOMAIN,httpdns.c.cdnhwc2.com
+# 快手
+DOMAIN,httpdns.kwd.inkuai.com
 # JD
 DOMAIN,dns.jd.com
 # NetEase
