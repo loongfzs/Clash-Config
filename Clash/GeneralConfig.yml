@@ -67,11 +67,11 @@ log-level: debug
 hosts:
    'www.huaweimobilewifi.com': 192.168.8.1
    #'ipv6.msftconnecttest.com': '2a01:111:2003::52'
-   'onu01.localareanetwork.com': 192.168.1.1
-   'cuonu00.localareanetwork.com': 192.168.1.1
-   #'router.localareanetwork.com': 100.64.10.18
-   #'innerspeedtest.localareanetwork.com': 100.69.21.97
-   #'router.localareanetwork.com': 172.18.210.253
+   'onu01.internal': 192.168.1.1
+   'cuonu00.internal': 192.168.1.1
+   #'router.internal': 100.64.10.18
+   #'innerspeedtest.internal': 100.69.21.97
+   #'router.internal': 172.18.210.253
 #profile:
   # Store the `select` results in $HOME/.config/clash/.cache
   # set false If you don't want this behavior
