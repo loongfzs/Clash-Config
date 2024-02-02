@@ -101,11 +101,13 @@ DOMAIN-SUFFIX,ip-api.com
 # IP.SB
 DOMAIN-SUFFIX,ip.sb
 
-### J 
+### J
+# jQuery,a fast, small, and feature-rich JavaScript library
+DOMAIN-SUFFIX,jquery.com
 
 ### K 
 
-### L 
+### L
 
 ### M 
 # 名字生成器
@@ -240,6 +242,24 @@ DOMAIN-SUFFIX,1password.com
 ### 其他
 
 ### 特殊 
+# 证书验证
+# Amazon Trust Services
+DOMAIN-SUFFIX,amazontrust.com
+
+# DigiCert
+DOMAIN-SUFFIX,digicert.com
+
+# Let's Encrypt
+DOMAIN-SUFFIX,lencr.org
+
+# ocsp-certum
+DOMAIN-SUFFIX,ocsp-certum.com
+
+# Sectigo
+DOMAIN-SUFFIX,sectigo.com
+
+# Comodo UserTrust
+DOMAIN-SUFFIX,usertrust.com
 
 ### 测试
 DOMAIN-SUFFIX,whoer.net

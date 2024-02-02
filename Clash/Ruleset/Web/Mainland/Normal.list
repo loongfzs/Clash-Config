@@ -267,6 +267,9 @@ DOMAIN-SUFFIX,ly.com
 DOMAIN-SUFFIX,elong.com
 DOMAIN-SUFFIX,17usoft.com
 
+# 腾讯云加速
+DOMAIN-SUFFIX,cdntips.net
+
 ### U 
 
 ### V 
@@ -370,6 +373,9 @@ DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 
+# 中华网
+DOMAIN-SUFFIX,china.com
+
 # 智联星
 DOMAIN-SUFFIX,zhusiot.com
 DOMAIN-SUFFIX,smartlinkstar.com
@@ -420,23 +426,27 @@ DOMAIN-SUFFIX,3dbody.com
 ### 其他 
 
 ### 特殊
-# NTP 时间同步
+## NTP 时间同步
 DOMAIN-SUFFIX,pool.ntp.org
 
-# iCloud 邮件
+## iCloud 邮件
 DOMAIN-SUFFIX,mail.me.com
 
-# 海外支付平台
+## 海外支付平台
 # Paypal（贝宝）
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,paypal-mktg.com
+
 # VISA
 DOMAIN-SUFFIX,visa.com
 
-# 证书验证
+## 证书验证
+# GlobalSign
 DOMAIN-SUFFIX,globalsign.com
+
+# Sectigo China
 DOMAIN-SUFFIX,sectigochina.com
 
-### 测试 
+### 测试
 DOMAIN-SUFFIX,ipleak.net
