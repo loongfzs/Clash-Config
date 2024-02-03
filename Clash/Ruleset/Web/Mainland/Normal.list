@@ -267,8 +267,9 @@ DOMAIN-SUFFIX,ly.com
 DOMAIN-SUFFIX,elong.com
 DOMAIN-SUFFIX,17usoft.com
 
-# 腾讯云加速
+# 腾讯云
 DOMAIN-SUFFIX,cdntips.net
+DOMAIN-SUFFIX,tencent-cloud.com
 
 ### U 
 
@@ -372,9 +373,6 @@ DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
-
-# 中华网
-DOMAIN-SUFFIX,china.com
 
 # 智联星
 DOMAIN-SUFFIX,zhusiot.com
