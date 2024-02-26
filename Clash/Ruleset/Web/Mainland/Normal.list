@@ -15,7 +15,7 @@
 ### 顶级域列表
 DOMAIN-SUFFIX,cn
 
-### A 
+### A
 # 阿里巴巴补充
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibaba-inc.com
@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cibntv.net
 # 飞猪旅行
 DOMAIN-SUFFIX,fliggy.com
+# 闲鱼
+DOMAIN-SUFFIX,goofish.com
 
 # 爱奇艺
 DOMAIN-SUFFIX,iqiyi.com
@@ -38,7 +40,7 @@ DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,qy.net
 
-### B 
+### B
 # 贝锐
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
@@ -98,21 +100,11 @@ DOMAIN-SUFFIX,appcloudcdn.com
 # 丁香园
 DOMAIN-SUFFIX,dxycdn.com
 
-### E 
+### E
 
 ### F 
-# 粉笔教育（含同类网站）
+# 粉笔教育
 DOMAIN-SUFFIX,fenbi.com
-# 新途径在线
-DOMAIN-SUFFIX,xtj.pub
-# 中公教育
-DOMAIN-SUFFIX,eoffcn.com
-DOMAIN-SUFFIX,offcn.com
-DOMAIN-SUFFIX,offcncloud.com
-# 华图教育
-DOMAIN-SUFFIX,huatu.com
-# 半月谈
-DOMAIN-SUFFIX,banyuetanapp.com
 
 ### G 
 # 国铁吉讯
@@ -299,9 +291,6 @@ DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,c-ctrip.com
 
-# 新途径在线
-DOMAIN-SUFFIX,xtj.pub
-
 # 星域CDN
 DOMAIN-SUFFIX,xycdn.com
 
@@ -362,10 +351,6 @@ DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,migucloud.com
 
-# 中国广电
-# 直播中国
-DOMAIN-SUFFIX,yueshitv.com
-
 # 中国联通
 DOMAIN-SUFFIX,10010.com
 
@@ -377,6 +362,12 @@ DOMAIN-SUFFIX,zhimg.com
 # 智联星
 DOMAIN-SUFFIX,zhusiot.com
 DOMAIN-SUFFIX,smartlinkstar.com
+
+# 中兴 ZTELink
+DOMAIN-SUFFIX,ztems.com
+
+# 掌上公交
+DOMAIN-SUFFIX,mygolbs.com
 
 ### 0 
 

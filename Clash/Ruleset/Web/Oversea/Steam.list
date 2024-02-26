@@ -13,7 +13,7 @@
 ## SRC-PORT,7777 #匹配数据源端口
 
 # https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list
-# ？https://steamcommunity.com/discussions/forum/1/154644349172660302/
+# https://steamcommunity.com/discussions/forum/1/154644349172660302/
 DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com

@@ -44,6 +44,8 @@ DOMAIN,dns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
 # Yunxin
 DOMAIN,httpdns.yunxindns.com
+# 又拍云
+DOMAIN,httpdns.upyun.com
 
 # HTTPDNS 服务器 IP
 # Aliyun

@@ -5,6 +5,42 @@ DOMAIN-SUFFIX,synocommunity.com
 DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,myqnapcloud.com
 
+# 新途径在线
+DOMAIN-SUFFIX,xtj.pub
+# 中公教育
+DOMAIN-SUFFIX,eoffcn.com
+DOMAIN-SUFFIX,offcn.com
+DOMAIN-SUFFIX,offcncloud.com
+# 华图教育
+DOMAIN-SUFFIX,huatu.com
+# 半月谈
+DOMAIN-SUFFIX,banyuetanapp.com
+
+# 中国广电
+# 直播中国
+DOMAIN-SUFFIX,yueshitv.com
+
+# Mozilla
+DOMAIN-SUFFIX,mozilla.community
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
+# firefox
+DOMAIN-SUFFIX,firefoxusercontent.com
+# Pocket
+DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,pocket-image-cache.com
+DOMAIN-SUFFIX,mofoprod.net
+
+# Tumblr
+DOMAIN-SUFFIX,tumblr.com
+
+# Atlassian
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,bitbucket.org
+
+# AVAST
+DOMAIN-SUFFIX,avast.com
+
 ; 禁止HttpDNS
 ruleset=REJECT,https://raw.githubusercontent.com/loongfzs/Clash-Config/main/Clash/Ruleset/Uni/HttpDNS.list
 

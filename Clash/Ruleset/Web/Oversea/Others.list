@@ -13,17 +13,12 @@
 ## SRC-PORT,7777 #匹配数据源端口
 
 ### A 
-# Atlassian
-DOMAIN-SUFFIX,atlassian.com
-DOMAIN-SUFFIX,bitbucket.org
-
 # ASUS
 DOMAIN-SUFFIX,asus.com
 
-# AVAST
-DOMAIN-SUFFIX,avast.com
-
 # AWS
+DOMAIN-SUFFIX,aws.com
+DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 
 # Akamai
@@ -57,9 +52,17 @@ DOMAIN-SUFFIX,jsdelivr.net
 # Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.com
 
+# 毒奶
+DOMAIN-SUFFIX,limbopro.com
+
 ### E 
 
-### F 
+### F
+## Mozilla
+# Firefox
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
 
 ### G
 # Github
@@ -171,9 +174,6 @@ DOMAIN-SUFFIX,sms-activate.org
 DOMAIN-SUFFIX,skk.moe
 
 ### T 
-# Tumblr
-DOMAIN-SUFFIX,tumblr.com
-
 # Tor
 DOMAIN-SUFFIX,torproject.org
 
@@ -183,8 +183,7 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 
-# Twitter
-DOMAIN-SUFFIX,t.co
+# X(Twitter)
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 

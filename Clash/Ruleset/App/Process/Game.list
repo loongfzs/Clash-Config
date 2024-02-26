@@ -13,3 +13,11 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
+# Ubisoft Connect
+PROCESS-NAME,upc.exe
+PROCESS-NAME,UbisoftConnect.exe
+PROCESS-NAME,UbisoftExtension.exe
+PROCESS-NAME,UbisoftGameLauncher.exe
+PROCESS-NAME,UbisoftGameLauncher64.exe
+PROCESS-NAME,UplayService.exe
+PROCESS-NAME,UplayWebCore.exe
