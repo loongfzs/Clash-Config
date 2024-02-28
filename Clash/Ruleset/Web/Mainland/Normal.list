@@ -199,10 +199,7 @@ DOMAIN-SUFFIX,mubucm.com
 
 ### N 
 
-### O 
-# OneDNS
-DOMAIN-SUFFIX,onedns.net
-
+### O
 # Ookla Speedtest
 DOMAIN-SUFFIX,speedtest.net
 
@@ -330,9 +327,6 @@ DOMAIN-SUFFIX,volcengineapi.com
 DOMAIN-SUFFIX,chinaz.com
 DOMAIN-SUFFIX,chinaz.net
 
-# 作业帮
-DOMAIN-SUFFIX,zuoyebang.com
-
 # 中国银联
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,unionpay.com
@@ -361,7 +355,6 @@ DOMAIN-SUFFIX,zhimg.com
 
 # 智联星
 DOMAIN-SUFFIX,zhusiot.com
-DOMAIN-SUFFIX,smartlinkstar.com
 
 # 中兴 ZTELink
 DOMAIN-SUFFIX,ztems.com

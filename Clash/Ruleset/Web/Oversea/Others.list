@@ -55,6 +55,14 @@ DOMAIN-SUFFIX,duckduckgo.com
 # 毒奶
 DOMAIN-SUFFIX,limbopro.com
 
+# Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+
 ### E 
 
 ### F
@@ -195,6 +203,9 @@ DOMAIN-SUFFIX,twitter.com
 ### V 
 # V2EX
 DOMAIN-SUFFIX,v2ex.com
+
+# Vmware
+DOMAIN-SUFFIX,vmware.com
 
 ### W 
 # Wikipedia 维基百科

@@ -41,6 +41,10 @@ DOMAIN-SUFFIX,bitbucket.org
 # AVAST
 DOMAIN-SUFFIX,avast.com
 
+# 移动
+# https://dev.10086.cn/dev10086/pub/loadAttach?attachId=6EF75FD09D4F40D1973CB7C36C3DB2E2
+DOMAIN-SUFFIX,cmpassport.com
+
 ; 禁止HttpDNS
 ruleset=REJECT,https://raw.githubusercontent.com/loongfzs/Clash-Config/main/Clash/Ruleset/Uni/HttpDNS.list
 

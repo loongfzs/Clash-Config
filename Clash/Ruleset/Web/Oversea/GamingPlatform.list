@@ -12,6 +12,19 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
+# === Steam 游戏平台 ===
+# https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list
+# https://steamcommunity.com/discussions/forum/1/154644349172660302/
+DOMAIN-SUFFIX,steam-api.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,valvesoftware.com
+
 # Ubisoft
 DOMAIN-KEYWORD,ubisoft
 DOMAIN-SUFFIX,ubi.com
