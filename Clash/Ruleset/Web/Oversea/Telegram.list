@@ -12,16 +12,13 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-DOMAIN-KEYWORD,telegram
-
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telesco.pe
-
-# DOMAIN-SUFFIX,telegram.me
-# DOMAIN-SUFFIX,telegram.org
-# DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,cdn-telegram.org
 
 # https://core.telegram.org/resources/cidr.txt
 IP-CIDR,91.108.56.0/22,no-resolve

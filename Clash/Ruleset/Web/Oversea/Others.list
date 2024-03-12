@@ -55,14 +55,6 @@ DOMAIN-SUFFIX,duckduckgo.com
 # 毒奶
 DOMAIN-SUFFIX,limbopro.com
 
-# Discord
-DOMAIN-SUFFIX,discord.co
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discord.media
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
-
 ### E 
 
 ### F
@@ -88,9 +80,6 @@ DOMAIN-SUFFIX,goodnotesplatform.com
 ### H 
 # Hcaptcha
 DOMAIN-SUFFIX,hcaptcha.com
-
-# Healthcare Communications Network (HCN)
-DOMAIN-SUFFIX,hcn.health
 
 ### I 
 # Intel
@@ -130,7 +119,7 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
 
-# 妙佑医疗国际医学教育与研究基金会 （MFMER）（梅奥诊所）
+# 妙佑医疗（梅奥诊所）
 DOMAIN-SUFFIX,mayoclinic.org
 DOMAIN-SUFFIX,mayoclinichealthsystem.org
 
@@ -171,9 +160,6 @@ DOMAIN-SUFFIX,quantumult.app
 # Reddit
 DOMAIN-SUFFIX,redditstatic.com
 
-# RoboForm
-DOMAIN-SUFFIX,roboform.com
-
 # RevenueCat
 DOMAIN-SUFFIX,revenuecat.com
 
@@ -204,9 +190,6 @@ DOMAIN-SUFFIX,twitter.com
 # V2EX
 DOMAIN-SUFFIX,v2ex.com
 
-# Vmware
-DOMAIN-SUFFIX,vmware.com
-
 ### W 
 # Wikipedia 维基百科
 DOMAIN-SUFFIX,wikimedia.org
@@ -226,9 +209,7 @@ DOMAIN-KEYWORD,yahoo
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yusercontent.com
 
-### Z 
-# Zotero
-DOMAIN-SUFFIX,zotero.org
+### Z
 
 ### 0 
 

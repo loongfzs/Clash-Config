@@ -90,15 +90,11 @@ DOMAIN-SUFFIX,doubanio.com
 
 # DDNS
 DOMAIN,fzscellular.dynv6.net
-DOMAIN,fzsnas.dynv6.net
 DOMAIN,loongfzshome.dynv6.net
 
 # Days Matter 倒数日
 DOMAIN-SUFFIX,2q10.com
 DOMAIN-SUFFIX,appcloudcdn.com
-
-# 丁香园
-DOMAIN-SUFFIX,dxycdn.com
 
 ### E
 
@@ -146,11 +142,6 @@ DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jcloudstatic.com
 DOMAIN-SUFFIX,jcloudstatic.net
-
-# 简书
-DOMAIN-SUFFIX,jianshu.com
-DOMAIN-SUFFIX,jianshu.io
-DOMAIN-SUFFIX,jianshuapi.com
 
 # 尽简衣橱
 DOMAIN-SUFFIX,jinjian.tech
@@ -231,13 +222,6 @@ DOMAIN-SUFFIX,peopleapp.com
 ### S 
 # 硕方打印
 DOMAIN-SUFFIX,supvan.com
-
-# 少数派
-DOMAIN-SUFFIX,sspai.com
-
-# 什么值得买
-DOMAIN-SUFFIX,smzdm.com
-DOMAIN-SUFFIX,zdmimg.com
 
 # 顺丰快递
 DOMAIN-SUFFIX,sf-express.com
@@ -356,9 +340,6 @@ DOMAIN-SUFFIX,zhimg.com
 # 智联星
 DOMAIN-SUFFIX,zhusiot.com
 
-# 中兴 ZTELink
-DOMAIN-SUFFIX,ztems.com
-
 # 掌上公交
 DOMAIN-SUFFIX,mygolbs.com
 
@@ -370,11 +351,7 @@ DOMAIN-SUFFIX,115.com
 
 ### 2 
 
-### 3 
-# 36氪
-DOMAIN-SUFFIX,36kr.com
-DOMAIN-SUFFIX,36krcdn.com
-
+### 3
 # 3DMGAME
 DOMAIN-SUFFIX,3dmgame.com
 
@@ -413,15 +390,6 @@ DOMAIN-SUFFIX,pool.ntp.org
 
 ## iCloud 邮件
 DOMAIN-SUFFIX,mail.me.com
-
-## 海外支付平台
-# Paypal（贝宝）
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
-DOMAIN-SUFFIX,paypal-mktg.com
-
-# VISA
-DOMAIN-SUFFIX,visa.com
 
 ## 证书验证
 # GlobalSign
