@@ -12,6 +12,7 @@
 ## SRC-IP-CIDR,192.168.1.201/32 #匹配数据发起IP
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
+
 # 2345天气
 DOMAIN,tianqi.2345.com
 DOMAIN,img1.2345.com

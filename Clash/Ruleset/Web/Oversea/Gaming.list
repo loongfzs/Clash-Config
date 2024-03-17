@@ -1,4 +1,4 @@
-## === Tom Clancy's The Division 2 ===
+## === 游戏服务和反作弊平台 ===
 ## +++ only in clash +++
 
 ## 规则编写示例
@@ -13,6 +13,40 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
+# udp stun测试
+DOMAIN,stun.syncthing.net
+DOMAIN,stun.bige0.com
+DOMAIN,stun.nextcloud.com
+DOMAIN,meet-jit-si-turnrelay.jitsi.net
+DOMAIN,stun.cloudflare.com
+DOMAIN-SUFFIX,stunprotocol.org
+DOMAIN-SUFFIX,turn.peerjs.com
+DOMAIN-SUFFIX,stun.twilio.com
+
+# 反作弊平台
+# EAC
+DOMAIN-SUFFIX,easy.ac
+DOMAIN-SUFFIX,eac-cdn.com
+
+# BattlEye
+DOMAIN-SUFFIX,battleye.com
+
+# Ubisoft Connect
+PROCESS-NAME,upc.exe
+PROCESS-NAME,UbisoftConnect.exe
+PROCESS-NAME,UbisoftExtension.exe
+PROCESS-NAME,UbisoftGameLauncher.exe
+PROCESS-NAME,UbisoftGameLauncher64.exe
+PROCESS-NAME,UplayService.exe
+PROCESS-NAME,UplayWebCore.exe
+
+# The Crew 2
+DOMAIN-SUFFIX,thecrew-game-servers.com
+
+# Steep
+PROCESS-NAME,steep.exe
+
+# Tom Clancy's The Division 2
 PROCESS-NAME,TheDivision2.exe
 IP-CIDR,25.42.169.109/32,no-resolve
 IP-CIDR,13.228.0.0/16,no-resolve

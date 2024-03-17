@@ -22,13 +22,3 @@ DOMAIN-SUFFIX,google.cn
 # 微软
 # 在fallback-filter列表
 DOMAIN-SUFFIX,msn.cn
-
-# Apkpure
-DOMAIN-SUFFIX,apkpure.com
-DOMAIN-SUFFIX,apkpure.net
-DOMAIN-SUFFIX,cdnpure.com
-DOMAIN-SUFFIX,winudf.com
-
-# Uptodown
-DOMAIN-SUFFIX,utdstc.com
-DOMAIN-SUFFIX,uptodown.com
