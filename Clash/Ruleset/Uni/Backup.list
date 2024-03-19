@@ -76,3 +76,6 @@ custom_proxy_group=♻️ 自动测速`url-test`.*`http://clients1.google.com/ge
 custom_proxy_group=✅ 代理`select`[]♻️ 自动`(?!.*(RUS|AUS|MUS)).(美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)`(?!.*(SGB|RUS|AUS|MUS)).(新加坡|狮城|SG|Singapore)`港|HK|HongKong|Hong Kong`台湾|新北|台北|台中|彰化|TW|Taiwan`.*
 custom_proxy_group=🍎 苹果`select`(?!.*(RUS|AUS|MUS)).(美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)
 custom_proxy_group=🎮 游戏`select`^((?!(台湾|新北|台北|台中|彰化|TW|Taiwan|日本|川日|东京|大阪|泉日|埼玉|沪日|JP|Japan)).)*$
+
+; 全球公共DNS
+ruleset=✅ 代理,https://raw.githubusercontent.com/loongfzs/Clash-Config/main/Clash/Ruleset/Web/Oversea/DNS.list

@@ -27,7 +27,7 @@ IP-CIDR,9.9.9.9/32,no-resolve
 IP-CIDR,149.112.112.112/32,no-resolve
 
 # Cisco OpenDNS
-DOMAIN,doh.opendns.com
+DOMAIN-SUFFIX,opendns.com
 IP-CIDR,146.112.41.2/32,no-resolve
 
 # Adguard DNS
