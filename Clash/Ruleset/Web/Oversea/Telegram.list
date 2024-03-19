@@ -12,6 +12,9 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
+# Test(https://ip.skk.moe/split-tunnel)
+DOMAIN,3.ip.skk.moe
+
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph

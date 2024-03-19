@@ -12,6 +12,9 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
+# Test(https://ip.skk.moe/split-tunnel)
+DOMAIN,1.ip.skk.moe
+
 # Netflix
 # DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com

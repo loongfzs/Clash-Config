@@ -13,6 +13,9 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
+# Test(https://ip.skk.moe/split-tunnel)
+DOMAIN,4.ip.skk.moe
+
 # 隐私保护及去广告
 # 阿里
 DOMAIN-SUFFIX,mmstat.com

@@ -12,6 +12,9 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
+# Test(https://ip.skk.moe/split-tunnel)
+DOMAIN,2.ip.skk.moe
+
 # === Steam 游戏平台 ===
 # https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list
 # https://steamcommunity.com/discussions/forum/1/154644349172660302/

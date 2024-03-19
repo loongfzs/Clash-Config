@@ -406,4 +406,7 @@ DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,sectigochina.com
 
 ### 测试
+# Test(https://ip.skk.moe/split-tunnel)
+DOMAIN,0.ip.skk.moe
+
 DOMAIN-SUFFIX,ipleak.net
