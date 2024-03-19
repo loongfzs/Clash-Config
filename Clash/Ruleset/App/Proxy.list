@@ -13,5 +13,4 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# Telegram
-PROCESS-NAME,Telegram.exe
+DOMAIN,9ijm75hcn2gz76lv.com

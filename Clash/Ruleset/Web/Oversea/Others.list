@@ -98,9 +98,6 @@ DOMAIN-SUFFIX,imgur.com
 # IP-API
 DOMAIN-SUFFIX,ip-api.com
 
-# IP.SB
-DOMAIN-SUFFIX,ip.sb
-
 ### J
 # jQuery,a fast, small, and feature-rich JavaScript library
 DOMAIN-SUFFIX,jquery.com
@@ -113,17 +110,17 @@ DOMAIN-SUFFIX,jquery.com
 # 名字生成器
 DOMAIN-SUFFIX,qmsjmfb.com
 
-# Meta (Facebook Instagram)
+# Meta(Facebook Instagram)
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
 
-# 妙佑医疗（梅奥诊所）
+# 妙佑医疗
 DOMAIN-SUFFIX,mayoclinic.org
 DOMAIN-SUFFIX,mayoclinichealthsystem.org
 
-### N 
+### N
 # Notion
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
@@ -131,7 +128,7 @@ DOMAIN-SUFFIX,notion.so
 # Nvidia
 DOMAIN-SUFFIX,nvidia.com
 
-### O 
+### O
 # Ookla
 DOMAIN-SUFFIX,downdetector.com
 DOMAIN-SUFFIX,downdetectorapi.com
@@ -139,7 +136,7 @@ DOMAIN-SUFFIX,downdetectorapi.com
 # OMDb API
 DOMAIN-SUFFIX,omdbapi.com
 
-### P 
+### P
 # Pinterest
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.com

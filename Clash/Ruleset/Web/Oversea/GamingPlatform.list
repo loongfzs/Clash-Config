@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,ubi.li
 # EPIC 虚幻游戏平台
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,epicgames.dev
 
 # GOG游戏平台
 DOMAIN-SUFFIX,gog.com

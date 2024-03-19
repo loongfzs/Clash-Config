@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,banyuetanapp.com
 # 直播中国
 DOMAIN-SUFFIX,yueshitv.com
 
+# Flingtrainer
+DOMAIN-SUFFIX,flingtrainer.com
+
 # Mozilla
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
@@ -49,6 +52,10 @@ DOMAIN-SUFFIX,paypal-mktg.com
 
 # VISA
 DOMAIN-SUFFIX,visa.com
+
+# Stripe
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
 
 # 移动
 # https://dev.10086.cn/dev10086/pub/loadAttach?attachId=6EF75FD09D4F40D1973CB7C36C3DB2E2
