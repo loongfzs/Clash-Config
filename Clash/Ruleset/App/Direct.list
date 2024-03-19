@@ -15,3 +15,6 @@
 
 # ddnstod
 PROCESS-NAME,ddnstod
+
+# SmartDNS
+PROCESS-NAME,smartdns

@@ -41,6 +41,9 @@ DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,qy.net
 
 ### B
+# 百度智能云
+DOMAIN-SUFFIX,bcelive.com
+
 # 贝锐
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
@@ -205,7 +208,10 @@ DOMAIN-SUFFIX,yangkeduo.com
 # 品果科技
 DOMAIN-SUFFIX,camera360.com
 
-### Q 
+### Q
+# 七牛云
+DOMAIN-SUFFIX,hiecheimaetu.com
+
 # 去哪儿旅行
 DOMAIN-SUFFIX,qunar.com
 DOMAIN-SUFFIX,qunarzz.com
@@ -226,7 +232,12 @@ DOMAIN-SUFFIX,supvan.com
 # 顺丰快递
 DOMAIN-SUFFIX,sf-express.com
 
-### T 
+### T
+# 腾讯云
+DOMAIN-SUFFIX,cdntips.net
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,tencent-cloud.com
+
 # 通信人家园
 DOMAIN-SUFFIX,txrjy.com
 
@@ -239,10 +250,6 @@ DOMAIN-SUFFIX,tuniucdn.com
 DOMAIN-SUFFIX,ly.com
 DOMAIN-SUFFIX,elong.com
 DOMAIN-SUFFIX,17usoft.com
-
-# 腾讯云
-DOMAIN-SUFFIX,cdntips.net
-DOMAIN-SUFFIX,tencent-cloud.com
 
 ### U 
 
