@@ -211,6 +211,7 @@ dns:
       - '+.live.net'
       - '+.lync.com'
       - '+.microsoft.com'
+      - '+.microsoft.net'
       - '+.microsoftapp.net'
       - '+.microsoftonline.com'
       - '+.msappproxy.net'
