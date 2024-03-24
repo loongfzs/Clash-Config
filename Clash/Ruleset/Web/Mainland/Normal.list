@@ -328,6 +328,7 @@ DOMAIN-SUFFIX,abchina.com
 
 # 中国移动
 DOMAIN-SUFFIX,139.com
+DOMAIN-SUFFIX,139js.com
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,zone139.com
 DOMAIN-SUFFIX,cmicapm.com
