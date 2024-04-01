@@ -10,4 +10,4 @@ Pure self-use rules!
 
 ![](http://profile-counter.glitch.me/loongfzs/count.svg)
 
-【2024年3月24日 UTC+8 更新】【版本 V_546】
+【2024年4月1日 UTC+8 更新】【版本 V_547】

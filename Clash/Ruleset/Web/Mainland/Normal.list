@@ -149,6 +149,9 @@ DOMAIN-SUFFIX,jcloudstatic.net
 # 尽简衣橱
 DOMAIN-SUFFIX,jinjian.tech
 
+# 唧唧
+DOMAIN-SUFFIX,jijidown.com
+
 ### K 
 # 酷狗音乐
 DOMAIN-SUFFIX,kugou.com
@@ -331,7 +334,9 @@ DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,139js.com
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,zone139.com
+DOMAIN-SUFFIX,cmccsim.com
 DOMAIN-SUFFIX,cmicapm.com
+
 # 咪咕
 DOMAIN-SUFFIX,cmread.com
 DOMAIN-SUFFIX,migufun.com
@@ -351,6 +356,9 @@ DOMAIN-SUFFIX,zhusiot.com
 
 # 掌上公交
 DOMAIN-SUFFIX,mygolbs.com
+
+# 最美天气
+DOMAIN-SUFFIX,zuimeitianqi.com
 
 ### 0 
 
