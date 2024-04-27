@@ -66,6 +66,9 @@ DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 
+# TXT下载网
+DOMAIN-SUFFIX,upasqyw.com
+
 # APP去广告
 # 12306广告平台
 DOMAIN,ad.12306.cn
