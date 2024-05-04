@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflarewarp.com
-DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
