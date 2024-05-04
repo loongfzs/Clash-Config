@@ -54,10 +54,6 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 
-# Blued
-DOMAIN-SUFFIX,blued.com
-DOMAIN-SUFFIX,bldimg.com
-
 # 百词斩
 DOMAIN-SUFFIX,baicizhan.com
 
@@ -111,6 +107,9 @@ DOMAIN-SUFFIX,ccrgt.com
 
 # 过期啦
 DOMAIN-SUFFIX,guoqi365.com
+
+# 个推
+DOMAIN-SUFFIX,getui.com
 
 ### H 
 # 华为
@@ -297,9 +296,6 @@ DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,ddnsto.com
 DOMAIN-SUFFIX,linkease.com
 
-# 猿辅导
-DOMAIN-SUFFIX,yuanfudao.com
-
 ### Z
 # 字节跳动
 DOMAIN-SUFFIX,ecombdapi.com
@@ -360,9 +356,6 @@ DOMAIN-SUFFIX,zhusiot.com
 # 掌上公交
 DOMAIN-SUFFIX,mygolbs.com
 
-# 最美天气
-DOMAIN-SUFFIX,zuimeitianqi.com
-
 ### 0 
 
 ### 1 
@@ -405,12 +398,6 @@ DOMAIN-SUFFIX,3dbody.com
 ### 其他 
 
 ### 特殊
-## NTP 时间同步
-DOMAIN-SUFFIX,pool.ntp.org
-
-## iCloud 邮件
-DOMAIN-SUFFIX,mail.me.com
-
 ## 证书验证
 # GlobalSign
 DOMAIN-SUFFIX,globalsign.com

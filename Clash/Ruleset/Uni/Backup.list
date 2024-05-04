@@ -20,6 +20,17 @@ DOMAIN-SUFFIX,banyuetanapp.com
 # 直播中国
 DOMAIN-SUFFIX,yueshitv.com
 
+# Blued
+DOMAIN-SUFFIX,blued.com
+DOMAIN-SUFFIX,bldimg.com
+
+# 猿辅导
+DOMAIN-SUFFIX,yuanfudao.com
+
+# 友盟
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+
 # Flingtrainer
 DOMAIN-SUFFIX,flingtrainer.com
 
