@@ -171,6 +171,17 @@ DST-PORT,65535
 # 屏蔽长虹电视开机广告
 DOMAIN-SUFFIX,huan.tv
 DOMAIN-SUFFIX,chiq-cloud.com
+# -
+DOMAIN,pay.sboot.cn
+DOMAIN,scs.openspeech.cn
+DOMAIN,sdkauth.hpplay.cn
+DOMAIN,itv2-up.openspeech.cn
+DOMAIN,mdp-appconf-in.heytapdl.com
+DOMAIN,gslb.hpplay.cn
+DOMAIN,rp.hpplay.cn
+DOMAIN,tvapp.hpplay.cn
+DOMAIN,t002.ottcn.com
+DOMAIN,smart-tv.cn
 
 # 阿里
 DOMAIN-SUFFIX,pcs-sdk-server.alibaba.com
