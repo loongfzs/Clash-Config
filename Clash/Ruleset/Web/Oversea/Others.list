@@ -57,11 +57,6 @@ DOMAIN-SUFFIX,limbopro.com
 ### E 
 
 ### F
-## Mozilla
-# Firefox
-DOMAIN-SUFFIX,firefox.com
-DOMAIN-SUFFIX,mozilla.net
-DOMAIN-SUFFIX,mozilla.org
 
 ### G
 # Github
@@ -96,6 +91,10 @@ DOMAIN-SUFFIX,imgur.com
 
 # IP-API
 DOMAIN-SUFFIX,ip-api.com
+
+# IT DOG
+DOMAIN-SUFFIX,itdog.plus
+DOMAIN-SUFFIX,lvhai.org
 
 ### J
 # jQuery,a fast, small, and feature-rich JavaScript library

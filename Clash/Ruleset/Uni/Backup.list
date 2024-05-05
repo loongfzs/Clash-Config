@@ -7,14 +7,6 @@ DOMAIN-SUFFIX,myqnapcloud.com
 
 # 新途径在线
 DOMAIN-SUFFIX,xtj.pub
-# 中公教育
-DOMAIN-SUFFIX,eoffcn.com
-DOMAIN-SUFFIX,offcn.com
-DOMAIN-SUFFIX,offcncloud.com
-# 华图教育
-DOMAIN-SUFFIX,huatu.com
-# 半月谈
-DOMAIN-SUFFIX,banyuetanapp.com
 
 # 中国广电
 # 直播中国
@@ -31,14 +23,25 @@ DOMAIN-SUFFIX,yuanfudao.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 
+DOMAIN-SUFFIX,139js.com
+DOMAIN-SUFFIX,zone139.com
+DOMAIN-SUFFIX,cmccsim.com
+DOMAIN-SUFFIX,cmicapm.com
+
+# 中国联通
+DOMAIN-SUFFIX,10010.com
+
 # Flingtrainer
 DOMAIN-SUFFIX,flingtrainer.com
 
-# Mozilla
-DOMAIN-SUFFIX,mozilla.community
+## Mozilla
+# Firefox
+DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
-# firefox
+# Mozilla
+DOMAIN-SUFFIX,mozilla.community
+# Firefox
 DOMAIN-SUFFIX,firefoxusercontent.com
 # Pocket
 DOMAIN-SUFFIX,getpocket.com
@@ -77,6 +80,9 @@ ruleset=REJECT,https://raw.githubusercontent.com/loongfzs/Clash-Config/main/Clas
 
 DOMAIN-SUFFIX,ubisoftconnect.com
 DOMAIN-SUFFIX,ubisoft.com
+
+# nvidia遥测收集 (https://www.nvidia.com/en-us/geforce/forums/geforce-experience/14/285175/why-does-nvidia-need-to-spy-on-me-35000-times-a-da/)
+DOMAIN,events.gfe.nvidia.com
 
 custom_proxy_group=✅ 代理`select`美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States`新加坡|狮城|SG|Singapore`港|HK|HongKong|Hong Kong`.*
 custom_proxy_group=📀 视听`select`(?!.*(SGB|RUS|AUS|MUS)).(新加坡|狮城|SG|Singapore)`台湾|新北|台北|台中|彰化|TW|Taiwan

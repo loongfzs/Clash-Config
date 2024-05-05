@@ -57,6 +57,9 @@ DOMAIN-SUFFIX,hdslb.com
 # 百词斩
 DOMAIN-SUFFIX,baicizhan.com
 
+# 半月谈
+DOMAIN-SUFFIX,banyuetanapp.com
+
 ### C
 # 彩云天气
 DOMAIN-SUFFIX,caiyunapp.com
@@ -75,6 +78,9 @@ DOMAIN-SUFFIX,coolapk.com
 
 # CSDN
 DOMAIN-SUFFIX,csdn.net
+
+# 长城汽车
+DOMAIN-SUFFIX,beantechyun.com
 
 ### D
 # 滴滴
@@ -129,6 +135,9 @@ DOMAIN-SUFFIX,huxiucdn.com
 
 # 航旅纵横
 DOMAIN-SUFFIX,umetrip.com
+
+# 华图教育
+DOMAIN-SUFFIX,huatu.com
 
 ### I 
 # IPIP
@@ -221,6 +230,7 @@ DOMAIN-SUFFIX,qunarzz.com
 DOMAIN-SUFFIX,qunarcdn.com
 
 # 全球网测
+DOMAIN-SUFFIX,cnspeedtest.com
 DOMAIN-SUFFIX,duoweisoft.com
 
 ### R 
@@ -333,20 +343,13 @@ DOMAIN-SUFFIX,abchina.com
 
 # 中国移动
 DOMAIN-SUFFIX,139.com
-DOMAIN-SUFFIX,139js.com
 DOMAIN-SUFFIX,chinamobile.com
-DOMAIN-SUFFIX,zone139.com
-DOMAIN-SUFFIX,cmccsim.com
-DOMAIN-SUFFIX,cmicapm.com
 
 # 咪咕
 DOMAIN-SUFFIX,cmread.com
 DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,migucloud.com
-
-# 中国联通
-DOMAIN-SUFFIX,10010.com
 
 # 知乎
 DOMAIN-SUFFIX,vzuu.com
@@ -358,6 +361,11 @@ DOMAIN-SUFFIX,zhusiot.com
 
 # 掌上公交
 DOMAIN-SUFFIX,mygolbs.com
+
+# 中公教育
+DOMAIN-SUFFIX,eoffcn.com
+DOMAIN-SUFFIX,offcn.com
+DOMAIN-SUFFIX,offcncloud.com
 
 ### 0 
 

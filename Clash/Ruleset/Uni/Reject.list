@@ -192,9 +192,6 @@ DOMAIN,pcapp-data-collect.youku.com
 DOMAIN,c.msn.com
 DOMAIN,browser.events.data.msn.com
 
-# nvidia遥测收集 (https://www.nvidia.com/en-us/geforce/forums/geforce-experience/14/285175/why-does-nvidia-need-to-spy-on-me-35000-times-a-da/)
-DOMAIN,events.gfe.nvidia.com
-
 # === 禁止一键登录（One-click login）===
 # 电信
 DOMAIN-SUFFIX,id6.me
