@@ -309,6 +309,10 @@ DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,ddnsto.com
 DOMAIN-SUFFIX,linkease.com
 
+# 友盟
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+
 ### Z
 # 字节跳动
 DOMAIN-SUFFIX,ecombdapi.com
