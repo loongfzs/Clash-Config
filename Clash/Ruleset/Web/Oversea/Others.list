@@ -30,6 +30,9 @@ DOMAIN-SUFFIX,akamaistream.net
 DOMAIN-SUFFIX,edgekey.net
 
 ### B
+# Box
+DOMAIN-SUFFIX,box.com
+DOMAIN-SUFFIX,boxcdn.net
 
 ### C 
 # Cloudflare
@@ -55,6 +58,9 @@ DOMAIN-SUFFIX,duckduckgo.com
 # 毒奶
 DOMAIN-SUFFIX,limbopro.com
 
+# DeepL
+DOMAIN-SUFFIX,deepl.com
+
 ### E 
 
 ### F
@@ -66,6 +72,10 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+
+# Gitbook
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,framerusercontent.com
 
 # Goodnotes
 DOMAIN-SUFFIX,goodnotes.com
