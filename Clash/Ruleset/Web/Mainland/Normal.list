@@ -163,7 +163,6 @@ DOMAIN-SUFFIX,jijidown.com
 ### K 
 # 酷狗音乐
 DOMAIN-SUFFIX,kugou.com
-DOMAIN-SUFFIX,tencentmusic.com
 
 # 快递100
 DOMAIN-SUFFIX,kuaidi100.com
@@ -253,6 +252,9 @@ DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,cdntips.net
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,tencent-cloud.com
+
+# 腾讯音乐集团（TME）
+DOMAIN-SUFFIX,tencentmusic.com
 
 # 通信人家园
 DOMAIN-SUFFIX,txrjy.com
