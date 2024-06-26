@@ -150,11 +150,6 @@ DOMAIN-SUFFIX,omdbapi.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.com
 
-# Pornhub
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,doppiocdn.org
-
 ### Q 
 # Quora
 DOMAIN-SUFFIX,quora.com
@@ -204,10 +199,6 @@ DOMAIN-SUFFIX,wikipedia.org
 ### X 
 # Xmind
 DOMAIN-SUFFIX,xmind.app
-
-# Xvideos
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,xvideos-cdn.com
 
 ### Y 
 # Yahoo
