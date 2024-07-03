@@ -170,13 +170,9 @@ DOMAIN-SUFFIX,kuaidi100.com
 # 快懂百科
 DOMAIN-SUFFIX,baike.com
 
-# 快手
-DOMAIN-SUFFIX,etoote.com
-DOMAIN-SUFFIX,gifshow.com
-DOMAIN-SUFFIX,kuaishou.com
-DOMAIN-SUFFIX,kwaicdn.com
-DOMAIN-SUFFIX,kwimgs.com
-DOMAIN-SUFFIX,yximgs.com
+# Keep
+DOMAIN-SUFFIX,gotokeep.com
+DOMAIN-SUFFIX,keepcdn.com
 
 ### L 
 # 蓝点网
