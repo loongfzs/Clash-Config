@@ -296,6 +296,10 @@ DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,c-ctrip.com
 
+# 迅雷
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,sandai.com
+
 # 星域CDN
 DOMAIN-SUFFIX,xycdn.com
 
@@ -393,9 +397,6 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,qihucdn.com
 
-# 3Dbody
-DOMAIN-SUFFIX,3dbody.com
-
 ### 4 
 
 ### 5 
@@ -409,6 +410,15 @@ DOMAIN-SUFFIX,3dbody.com
 ### 9 
 
 ### 其他 
+## 局域网
+# 本地地址
+DOMAIN-SUFFIX,lan
+# RFC6762
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,localhost
+DOMAIN-SUFFIX,in-addr.arpa
+# 内网域名
+DOMAIN-SUFFIX,internal
 
 ### 特殊
 ## 证书验证
@@ -417,6 +427,19 @@ DOMAIN-SUFFIX,globalsign.com
 
 # Sectigo China
 DOMAIN-SUFFIX,sectigochina.com
+
+## NTP时间同步
+# Amazon Time Sync
+DOMAIN,time.aws.com
+
+# pool.ntp.org
+DOMAIN-SUFFIX,pool.ntp.org
+
+## P2P下载
+# BitTorrent协议
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
 
 ### 测试
 # Test(https://ip.skk.moe/split-tunnel)

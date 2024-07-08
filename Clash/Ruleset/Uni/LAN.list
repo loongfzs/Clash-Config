@@ -13,14 +13,6 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# 本地地址
-DOMAIN-SUFFIX,lan
-# RFC6762
-DOMAIN-SUFFIX,local
-DOMAIN-SUFFIX,localhost
-DOMAIN-SUFFIX,in-addr.arpa
-# 自定义局域网
-DOMAIN-SUFFIX,internal
 # LocalLan CIDR
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve

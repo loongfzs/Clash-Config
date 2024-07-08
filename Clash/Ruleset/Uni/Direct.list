@@ -18,8 +18,6 @@ DOMAIN,tianqi.2345.com
 DOMAIN,img1.2345.com
 DOMAIN,tianqi-stream.2345cdn.net
 
-# 连接测试
-DOMAIN,captive.apple.com
 # Microsoft NCSI
 # https://learn.microsoft.com/en-US/troubleshoot/windows-client/networking/internet-explorer-edge-open-connect-corporate-public-network
 DOMAIN-SUFFIX,msftncsi.com
@@ -31,6 +29,3 @@ DOMAIN,time.windows.com
 
 # Cloudflare Time Services
 DOMAIN,time.cloudflare.com
-
-# Amazon Time Sync
-DOMAIN,time.aws.com
