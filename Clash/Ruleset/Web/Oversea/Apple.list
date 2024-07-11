@@ -16,7 +16,7 @@
 # https://support.apple.com/zh-cn/HT210060
 IP-CIDR,17.0.0.0/8,no-resolve
 
-# 在fallback-filter列表！
+# Fallback-filter
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-dns.net

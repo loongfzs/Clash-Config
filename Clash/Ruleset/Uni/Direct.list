@@ -26,6 +26,3 @@ IP-CIDR6,2a01:111:2003::52/128,no-resolve
 
 # Windows Time service
 DOMAIN,time.windows.com
-
-# Cloudflare Time Services
-DOMAIN,time.cloudflare.com

@@ -14,11 +14,11 @@
 ## SRC-PORT,7777 #匹配数据源端口
 
 # Google CN
-# 在fallback-filter列表
+# Fallback-filter
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,google.cn
 
 # 微软
-# 在fallback-filter列表
+# Fallback-filter
 DOMAIN-SUFFIX,msn.cn

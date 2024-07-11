@@ -12,10 +12,7 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-### A 
-# ASUS
-DOMAIN-SUFFIX,asus.com
-
+### A
 # AWS
 DOMAIN-SUFFIX,aws.com
 DOMAIN-SUFFIX,amazon.com
@@ -26,15 +23,12 @@ DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaistream.net
-# 在fallback-filter列表
+# Fallback-filter
 DOMAIN-SUFFIX,edgekey.net
 
 ### B
-# Box
-DOMAIN-SUFFIX,box.com
-DOMAIN-SUFFIX,boxcdn.net
 
-### C 
+### C
 # Cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
@@ -61,7 +55,7 @@ DOMAIN-SUFFIX,limbopro.com
 # DeepL
 DOMAIN-SUFFIX,deepl.com
 
-### E 
+### E
 
 ### F
 
@@ -73,23 +67,11 @@ DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 
-# Gitbook
-DOMAIN-SUFFIX,gitbook.com
-DOMAIN-SUFFIX,framerusercontent.com
-
-# Goodnotes
-DOMAIN-SUFFIX,goodnotes.com
-DOMAIN-SUFFIX,goodnotescloud.com
-DOMAIN-SUFFIX,goodnotesplatform.com
-
-### H 
+### H
 # Hcaptcha
 DOMAIN-SUFFIX,hcaptcha.com
 
-### I 
-# Intel
-DOMAIN-SUFFIX,intel.com
-
+### I
 # Internet Archive
 DOMAIN-SUFFIX,archive.org
 
@@ -103,19 +85,15 @@ DOMAIN-SUFFIX,imgur.com
 # IP-API
 DOMAIN-SUFFIX,ip-api.com
 
-# IT DOG
-DOMAIN-SUFFIX,itdog.plus
-DOMAIN-SUFFIX,lvhai.org
-
 ### J
 # jQuery,a fast, small, and feature-rich JavaScript library
 DOMAIN-SUFFIX,jquery.com
 
-### K 
+### K
 
 ### L
 
-### M 
+### M
 # 名字生成器
 DOMAIN-SUFFIX,qmsjmfb.com
 
@@ -134,9 +112,6 @@ DOMAIN-SUFFIX,mayoclinichealthsystem.org
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 
-# Nvidia
-DOMAIN-SUFFIX,nvidia.com
-
 ### O
 # Ookla
 DOMAIN-SUFFIX,downdetector.com
@@ -150,89 +125,76 @@ DOMAIN-SUFFIX,omdbapi.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.com
 
-### Q 
+### Q
 # Quora
 DOMAIN-SUFFIX,quora.com
 
 # Quantumult X APP
 DOMAIN-SUFFIX,quantumult.app
 
-### R 
+### R
 # Reddit
 DOMAIN-SUFFIX,redditstatic.com
 
-# RevenueCat
-DOMAIN-SUFFIX,revenuecat.com
-
-### S 
+### S
 # SMS-activate
 DOMAIN-SUFFIX,sms-activate.org
 
 # Sukka
 DOMAIN-SUFFIX,skk.moe
 
-### T 
+### T
 # Tor
 DOMAIN-SUFFIX,torproject.org
-
-# Twitch
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
 
 # X(Twitter)
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 
-### U 
+### U
 
-### V 
+### V
 # V2EX
 DOMAIN-SUFFIX,v2ex.com
 
-### W 
+### W
 # Wikipedia 维基百科
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 
-### X 
+### X
 # Xmind
 DOMAIN-SUFFIX,xmind.app
 
-### Y 
-# Yahoo
-DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,yimg.com
-DOMAIN-SUFFIX,yusercontent.com
+### Y
 
 ### Z
 
-### 0 
+### 0
 
-### 1 
+### 1
 # 1Password
 DOMAIN-SUFFIX,1password.com
 
-### 2 
+### 2
 
-### 3 
+### 3
 
-### 4 
+### 4
 
-### 5 
+### 5
 
-### 6 
+### 6
 
-### 7 
+### 7
 
-### 8 
+### 8
 
-### 9 
+### 9
 
 ### 其他
 
-### 特殊 
+### 特殊
 # 证书验证
 # Amazon Trust Services
 DOMAIN-SUFFIX,amazontrust.com

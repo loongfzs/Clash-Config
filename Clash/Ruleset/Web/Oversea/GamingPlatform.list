@@ -44,7 +44,7 @@ DOMAIN-SUFFIX,gog-statics.com
 
 # Sony
 # https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
-# 在fallback-filter列表
+# Fallback-filter
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com

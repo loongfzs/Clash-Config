@@ -270,7 +270,7 @@ dns:
       - '+.sonyentertainmentnetwork.com'
       - '+.playstation.com'
       - '+.playstation.net'
-      # DNS
+      # Akamai
       - '+.edgekey.net'
   # Lookup domains via specific nameservers
     nameserver-policy:

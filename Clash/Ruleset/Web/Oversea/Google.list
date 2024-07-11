@@ -12,7 +12,7 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# 在fallback-filter列表
+# Fallback-filter
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ggpht.com
