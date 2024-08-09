@@ -13,13 +13,6 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# 阿里公共DNS
-DOMAIN-SUFFIX,alidns.com
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,223.6.6.6/32,no-resolve
-IP-CIDR6,2400:3200::1/128,no-resolve
-IP-CIDR6,2400:3200:baba::1/128,no-resolve
-
 # DNSPod
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,dot.pub
