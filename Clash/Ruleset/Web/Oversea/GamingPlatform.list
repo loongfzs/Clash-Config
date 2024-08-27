@@ -64,9 +64,5 @@ DOMAIN-SUFFIX,tnt-ea.com
 # R星游戏
 DOMAIN-SUFFIX,rockstargames.com
 
-# B社
+# 贝塞斯达
 DOMAIN-SUFFIX,bethesda.net
-
-# Hitman
-DOMAIN-SUFFIX,ioi.dk
-DOMAIN-SUFFIX,hitman.io
