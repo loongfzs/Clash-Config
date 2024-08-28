@@ -82,9 +82,6 @@ DOMAIN-SUFFIX,media-imdb.com
 # Imgur 图床
 DOMAIN-SUFFIX,imgur.com
 
-# IP-API
-DOMAIN-SUFFIX,ip-api.com
-
 ### J
 # jQuery,a fast, small, and feature-rich JavaScript library
 DOMAIN-SUFFIX,jquery.com
