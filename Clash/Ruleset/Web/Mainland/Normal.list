@@ -2,7 +2,7 @@
 
 ## 规则编写示例
 ## 排序在上的规则优先生效
-## PROCESS-NAME,curl #匹配本机进程（仅在电脑端生效）
+## PROCESS-NAME,curl #匹配本机进程
 ## DOMAIN-SUFFIX,google.com #匹配域名后缀
 ## DOMAIN-KEYWORD,google #匹配域名关键字
 ## DOMAIN,google.com #匹配域名
@@ -184,8 +184,6 @@ DOMAIN-SUFFIX,mxbc.net
 ### N
 
 ### O
-# Ookla Speedtest
-DOMAIN-SUFFIX,speedtest.net
 
 ### P
 # 拼多多
@@ -330,6 +328,9 @@ DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,migucloud.com
 
+# 中国电信
+DOMAIN-SUFFIX,21cn.com
+
 # 知乎
 DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,zhihu.com
@@ -373,15 +374,6 @@ DOMAIN-SUFFIX,qihucdn.com
 ### 9
 
 ### 其他
-## 局域网
-# 本地地址
-DOMAIN-SUFFIX,lan
-# RFC6762
-DOMAIN-SUFFIX,local
-DOMAIN-SUFFIX,localhost
-DOMAIN-SUFFIX,in-addr.arpa
-# 内网域名
-DOMAIN-SUFFIX,internal
 
 ### 特殊
 ## 证书验证
@@ -390,13 +382,6 @@ DOMAIN-SUFFIX,globalsign.com
 
 # Sectigo China
 DOMAIN-SUFFIX,sectigochina.com
-
-## NTP时间同步
-# Amazon Time Sync
-DOMAIN,time.aws.com
-
-# pool.ntp.org
-DOMAIN-SUFFIX,pool.ntp.org
 
 ## P2P下载
 # BitTorrent协议

@@ -1,0 +1,123 @@
+## === 不受欢迎的软件 ===
+## +++ only in clash +++
+
+## 规则编写示例
+## 排序在上的规则优先生效
+## PROCESS-NAME,curl #匹配本机进程
+## DOMAIN-SUFFIX,google.com #匹配域名后缀
+## DOMAIN-KEYWORD,google #匹配域名关键字
+## DOMAIN,google.com #匹配域名
+## IP-CIDR,127.0.0.0/8 #匹配数据目标IP，同时解析对应域名
+## IP-CIDR,223.5.5.5/32,no-resolve #匹配数据目标IP，不解析域名
+## SRC-IP-CIDR,192.168.1.201/32 #匹配数据发起IP
+## DST-PORT,80 #匹配数据目标端口
+## SRC-PORT,7777 #匹配数据源端口
+
+# 手机APP去广告
+# 阿里统计
+DOMAIN,amdc.m.taobao.com
+
+# 屏蔽百度APP
+DOMAIN,boxer.baidu.com
+
+# 12306广告平台
+DOMAIN,ad.12306.cn
+
+#######################################################################################################
+# 流氓大王2345
+DOMAIN-SUFFIX,2345.com
+DOMAIN-SUFFIX,2345.cc
+DOMAIN-SUFFIX,2345.cn
+DOMAIN-SUFFIX,2345.net
+DOMAIN-SUFFIX,2345cdn.net
+
+# 360
+DOMAIN-SUFFIX,360safe.com
+
+# 小鸟壁纸
+DOMAIN-SUFFIX,shanhutech.cn
+
+# 鲁大师
+DOMAIN-SUFFIX,ludashi.com
+DOMAIN-SUFFIX,monidashi.cn
+
+# 金山
+DOMAIN-SUFFIX,ijinshan.com
+DOMAIN-SUFFIX,duba.net
+DOMAIN-SUFFIX,pc120.com
+DOMAIN-SUFFIX,duba.com
+DOMAIN-SUFFIX,cmcmcdn.com
+DOMAIN-SUFFIX,zhhainiao.com
+DOMAIN-SUFFIX,liebao.cn
+DOMAIN-SUFFIX,drivergenius.com
+
+# 快压
+DOMAIN-SUFFIX,kkdownload.com
+
+# abc看图
+DOMAIN-SUFFIX,7654.com
+DOMAIN-SUFFIX,abckantu.com
+
+# 电脑管家
+DOMAIN-SUFFIX,guanjia.qq.com
+DOMAIN-SUFFIX,gj.qq.com
+
+# 驱动人生
+DOMAIN-SUFFIX,updrv.com
+
+# 屏蔽思杰马克丁
+# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Marketing.list
+
+# 火狐（国内版）
+DOMAIN-SUFFIX,firefox.com.cn
+
+# 重橙
+# https://www.zhihu.com/question/281163698/answer/441388130
+DOMAIN-SUFFIX,flash.cn
+DOMAIN-SUFFIX,izhongcheng.cn
+DOMAIN,geo2.adobe.com
+
+# 屏蔽WIFI万能钥匙
+DOMAIN-SUFFIX,wifi.com
+DOMAIN-SUFFIX,51y5.net
+DOMAIN-SUFFIX,wifi188.com
+DOMAIN-SUFFIX,lsttnews.com
+DOMAIN-SUFFIX,ieeewifi.com
+DOMAIN-SUFFIX,wkanx.com
+# 连尚开放平台
+DOMAIN-SUFFIX,lianmeng.link
+
+# 安天移动
+DOMAIN-SUFFIX,avlinsight.com
+DOMAIN-SUFFIX,avlsec.com
+DOMAIN-SUFFIX,avlyun.cn
+DOMAIN-SUFFIX,avlyun.com
+DOMAIN-SUFFIX,avlyun.net
+DOMAIN-SUFFIX,avlyun.org
+# 非法端口
+DST-PORT,65535
+
+# APP去广告
+# 屏蔽长虹电视开机广告
+DOMAIN-SUFFIX,huan.tv
+DOMAIN-SUFFIX,chiq-cloud.com
+# -
+DOMAIN,pay.sboot.cn
+DOMAIN,scs.openspeech.cn
+DOMAIN,sdkauth.hpplay.cn
+DOMAIN,itv2-up.openspeech.cn
+DOMAIN,mdp-appconf-in.heytapdl.com
+DOMAIN,gslb.hpplay.cn
+DOMAIN,rp.hpplay.cn
+DOMAIN,tvapp.hpplay.cn
+DOMAIN,t002.ottcn.com
+DOMAIN,smart-tv.cn
+
+# 阿里
+DOMAIN-SUFFIX,pcs-sdk-server.alibaba.com
+# 优酷 https://github.com/Fndroid/clash_for_windows_pkg/issues/3823
+DOMAIN,pcapp-data-collect.youku.com
+
+# 微软
+DOMAIN,c.msn.com
+DOMAIN,browser.events.data.msn.com

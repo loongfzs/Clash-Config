@@ -1,9 +1,9 @@
-## === 节点选择白名单 ===
+## === 代理白名单 ===
 ## +++ only in clash +++
 
 ## 规则编写示例
 ## 排序在上的规则优先生效
-## PROCESS-NAME,curl #匹配本机进程（仅在电脑端生效）
+## PROCESS-NAME,curl #匹配本机进程
 ## DOMAIN-SUFFIX,google.com #匹配域名后缀
 ## DOMAIN-KEYWORD,google #匹配域名关键字
 ## DOMAIN,google.com #匹配域名

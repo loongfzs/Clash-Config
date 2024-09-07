@@ -1,9 +1,9 @@
-## === Process 直连 ===
+## === 公共DNS服务器 ===
 ## +++ only in clash +++
 
 ## 规则编写示例
 ## 排序在上的规则优先生效
-## PROCESS-NAME,curl #匹配本机进程（仅在电脑端生效）
+## PROCESS-NAME,curl #匹配本机进程
 ## DOMAIN-SUFFIX,google.com #匹配域名后缀
 ## DOMAIN-KEYWORD,google #匹配域名关键字
 ## DOMAIN,google.com #匹配域名
@@ -13,8 +13,14 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# ddnstod
-PROCESS-NAME,ddnstod
+# DNSPod
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dot.pub
+IP-CIDR,1.12.12.12/32,no-resolve
+IP-CIDR,120.53.53.53/32,no-resolve
 
-# SmartDNS
-PROCESS-NAME,smartdns
+# AliDNS
+DOMAIN-SUFFIX,alidns.com
+
+# OneDNS
+DOMAIN-SUFFIX,onedns.net

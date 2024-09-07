@@ -2,7 +2,7 @@
 
 ## 规则编写示例
 ## 排序在上的规则优先生效
-## PROCESS-NAME,curl #匹配本机进程（仅在电脑端生效）
+## PROCESS-NAME,curl #匹配本机进程
 ## DOMAIN-SUFFIX,google.com #匹配域名后缀
 ## DOMAIN-KEYWORD,google #匹配域名关键字
 ## DOMAIN,google.com #匹配域名
@@ -55,6 +55,14 @@ DOMAIN-SUFFIX,limbopro.com
 # DeepL
 DOMAIN-SUFFIX,deepl.com
 
+# Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+
 ### E
 
 ### F
@@ -81,6 +89,9 @@ DOMAIN-SUFFIX,media-imdb.com
 
 # Imgur 图床
 DOMAIN-SUFFIX,imgur.com
+
+# IP-API
+DOMAIN-SUFFIX,ip-api.com
 
 ### J
 # jQuery,a fast, small, and feature-rich JavaScript library
