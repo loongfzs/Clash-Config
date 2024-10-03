@@ -162,6 +162,14 @@ DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,gotokeep.com
 DOMAIN-SUFFIX,keepcdn.com
 
+# 快手
+DOMAIN-SUFFIX,etoote.com
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,kwaicdn.com
+DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,yximgs.com
+
 ### L 
 # 蓝点网
 DOMAIN-SUFFIX,landiannews.com
@@ -246,6 +254,8 @@ DOMAIN-SUFFIX,shuangliusc.com
 ### U
 
 ### V
+# vivo
+##################
 
 ### W
 

@@ -14,7 +14,7 @@
 ## SRC-PORT,7777 #匹配数据源端口
 
 # Google CN
-# Fallback-filter
+# Fallback-filter  # google cn +.gstatic.cn +.google.cn +.googleapis.cn
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,google.cn

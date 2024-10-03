@@ -15,6 +15,17 @@
 # Test(https://ip.skk.moe/split-tunnel)
 DOMAIN,4.ip.skk.moe
 
+# 手机APP去广告
+# 阿里统计
+DOMAIN,amdc.m.taobao.com
+
+# 屏蔽百度APP
+DOMAIN,boxer.baidu.com
+
+# 12306广告平台
+DOMAIN,ad.12306.cn
+
+#######################################################################################################
 # 隐私保护及去广告
 # 阿里
 DOMAIN-SUFFIX,log.aliyuncs.com

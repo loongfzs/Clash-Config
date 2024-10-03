@@ -13,17 +13,6 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# 手机APP去广告
-# 阿里统计
-DOMAIN,amdc.m.taobao.com
-
-# 屏蔽百度APP
-DOMAIN,boxer.baidu.com
-
-# 12306广告平台
-DOMAIN,ad.12306.cn
-
-#######################################################################################################
 # 流氓大王2345
 DOMAIN-SUFFIX,2345.com
 DOMAIN-SUFFIX,2345.cc
