@@ -14,12 +14,10 @@
 ## SRC-PORT,7777 #匹配数据源端口
 
 # Google Public DNS
-DOMAIN-SUFFIX,google
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 
 # Cloudflare DNS
-DOMAIN-SUFFIX,cloudflare-dns.com
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.0.0.1/32,no-resolve
 

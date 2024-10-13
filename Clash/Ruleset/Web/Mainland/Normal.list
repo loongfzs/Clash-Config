@@ -16,22 +16,50 @@
 DOMAIN-SUFFIX,cn
 
 ### A
-# 阿里巴巴补充
-DOMAIN-SUFFIX,alibabachengdun.com
+# 阿里
+DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibaba-inc.com
-DOMAIN-SUFFIX,taopiaopiao.com
-# 阿里云
-DOMAIN-SUFFIX,myalicdn.com
-# 阿里云盘
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alicloudccp.com
+DOMAIN-SUFFIX,aliexpress.com
+DOMAIN-SUFFIX,aliimg.com
+DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alipan.com
-# 菜鸟
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alisoft.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyuncdn.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,cainiao.com
-# 优酷
 DOMAIN-SUFFIX,cibntv.net
-# 飞猪旅行
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,fliggy.com
-# 闲鱼
 DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,hichina.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,mxhichina.com
+DOMAIN-SUFFIX,myalicdn.com
+DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,taopiaopiao.com
+DOMAIN-SUFFIX,tbcache.com
+DOMAIN-SUFFIX,tbcdn.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com
 
 # 爱奇艺
 DOMAIN-SUFFIX,iqiyi.com
@@ -41,8 +69,18 @@ DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,qy.net
 
 ### B
-# 百度智能云
+# 百度
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidubcr.com
+DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,baidustatic.com
+DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bcelive.com
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,jomodns.com
+DOMAIN-SUFFIX,yunjiasu-cdn.net
 
 # 贝锐
 DOMAIN-SUFFIX,oray.com
@@ -58,11 +96,6 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,baicizhan.com
 
 ### C
-# 彩云天气
-DOMAIN-SUFFIX,caiyunapp.com
-DOMAIN-SUFFIX,caiyuncdn.com
-DOMAIN-SUFFIX,colorfulclouds.net
-
 # CCTV
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
@@ -235,6 +268,13 @@ DOMAIN-SUFFIX,duoweisoft.com
 DOMAIN-SUFFIX,peopleapp.com
 
 ### S
+# 搜狗
+DOMAIN-SUFFIX,sogou.com
+DOMAIN-SUFFIX,sogoucdn.com
+
+# 搜狐
+DOMAIN-SUFFIX,sohu.com
+
 # 硕方打印
 DOMAIN-SUFFIX,supvan.com
 
@@ -242,13 +282,31 @@ DOMAIN-SUFFIX,supvan.com
 DOMAIN-SUFFIX,sf-express.com
 
 ### T
-# 腾讯云
+# 腾讯
 DOMAIN-SUFFIX,cdntips.net
+DOMAIN-SUFFIX,foxmail.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,myapp.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,qqurl.com
+DOMAIN-SUFFIX,smtcdns.com
+DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,tencent-cloud.com
-
-# 腾讯音乐集团（TME）
+DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencentmind.com
 DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,tfogc.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weiyun.com
 
 # 通信人家园
 DOMAIN-SUFFIX,txrjy.com
@@ -273,6 +331,16 @@ DOMAIN-SUFFIX,shuangliusc.com
 ##################
 
 ### W
+# 网易
+DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,127.net
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,163jiasu.com
+DOMAIN-SUFFIX,163yun.com
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,ydstatic.com
+DOMAIN-SUFFIX,youdao.com
 
 ### X
 # 新浪微博
@@ -313,24 +381,65 @@ DOMAIN-SUFFIX,umengcloud.com
 
 ### Z
 # 字节跳动
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,bdxiguaimg.com
+DOMAIN-SUFFIX,bdxiguastatic.com
+DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,bytedns.net
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytemastatic.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,bytexservice.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,dailygn.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,feiliao.com
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,huoshan.com
+DOMAIN-SUFFIX,huoshanzhibo.com
+DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,kspkg.com
 DOMAIN-SUFFIX,ndcpp.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiao13.com
+DOMAIN-SUFFIX,toutiaoapi.com
+DOMAIN-SUFFIX,toutiaocdn.com
+DOMAIN-SUFFIX,toutiaocdn.net
+DOMAIN-SUFFIX,toutiaocloud.com
+DOMAIN-SUFFIX,toutiaohao.com
+DOMAIN-SUFFIX,toutiaohao.net
+DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,toutiaovod.com
-DOMAIN-SUFFIX,volcsirius.com
-DOMAIN-SUFFIX,volcsiriusbd.com
-# 火山引擎
-# 官网
+DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,volcengine.com
 DOMAIN-SUFFIX,volccdn.com
-# 镜像站
 DOMAIN-SUFFIX,volces.com
-# 字节跳动小程序SDK
-DOMAIN-SUFFIX,ctobsnssdk.com
-# 日志
 DOMAIN-SUFFIX,volceapplog.com
-# 接口
 DOMAIN-SUFFIX,volcengineapi.com
+DOMAIN-SUFFIX,volcsirius.com
+DOMAIN-SUFFIX,volcsiriusbd.com
+DOMAIN-SUFFIX,weilayun.com
+DOMAIN-SUFFIX,wukong.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,zijieimg.com
+DOMAIN-SUFFIX,zjbyte.com
+DOMAIN-SUFFIX,zjcdn.com
 
 # 站长工具
 DOMAIN-SUFFIX,chinaz.com
@@ -401,12 +510,21 @@ DOMAIN-SUFFIX,qihucdn.com
 ### 其他
 
 ### 特殊
-## 证书验证
-# GlobalSign
-DOMAIN-SUFFIX,globalsign.com
+## 公共直连CDN
+DOMAIN-SUFFIX,baomitu.com
+DOMAIN-SUFFIX,bootcss.com
+DOMAIN-SUFFIX,jiasule.com
+DOMAIN-SUFFIX,staticfile.org
+DOMAIN-SUFFIX,upaiyun.com
 
-# Sectigo China
-DOMAIN-SUFFIX,sectigochina.com
+## DNS
+# AliDNS
+DOMAIN-SUFFIX,alidns.com
+# DNSPod
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dot.pub
+# OneDNS
+DOMAIN-SUFFIX,onedns.net
 
 ## P2P下载
 # BitTorrent协议

@@ -30,6 +30,8 @@ DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns.kwd.inkuai.com
 # JD
 DOMAIN,dns.jd.com
+# Kugou 酷狗音乐
+DOMAIN,httpdns.kg.qq.com
 # NetEase
 DOMAIN,httpdns.n.netease.com
 DOMAIN,httpdns.music.163.com

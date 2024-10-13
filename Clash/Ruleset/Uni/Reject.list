@@ -15,22 +15,14 @@
 # Test(https://ip.skk.moe/split-tunnel)
 DOMAIN,4.ip.skk.moe
 
-# 手机APP去广告
+# 阿里
+DOMAIN-SUFFIX,log.aliyuncs.com
 # 阿里统计
 DOMAIN,amdc.m.taobao.com
+DOMAIN,h-adashx.ut.taobao.com
 
 # 屏蔽百度APP
 DOMAIN,boxer.baidu.com
-
-# 12306广告平台
-DOMAIN,ad.12306.cn
-
-#######################################################################################################
-# 隐私保护及去广告
-# 阿里
-DOMAIN-SUFFIX,log.aliyuncs.com
-# 统计
-# DOMAIN,h-adashx.ut.taobao.com
 
 # 哔哩哔哩
 # PCDN
@@ -66,6 +58,9 @@ DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,rqd.qq.com
 DOMAIN-SUFFIX,e.qq.com
+# P2P
+DOMAIN-SUFFIX,p2p.qq.com
+DOMAIN-SUFFIX,p.tencentmusic.com
 
 # 站点统计
 DOMAIN-SUFFIX,ad-survey.com
@@ -96,9 +91,5 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,mixpanel.com
 
-# Weixin
-DOMAIN,dns.weixin.qq.com
-DOMAIN,dns.weixin.qq.com.cn
-
-# TXT下载网广告
-# DOMAIN-SUFFIX,upasqyw.com
+# 12306广告平台
+DOMAIN,ad.12306.cn

@@ -13,12 +13,12 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# Google CN
-# Fallback-filter  # google cn +.gstatic.cn +.google.cn +.googleapis.cn
+# 谷歌中国
+# Fallback-filter
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,google.cn
 
-# 微软
+# 微软中国
 # Fallback-filter
 DOMAIN-SUFFIX,msn.cn

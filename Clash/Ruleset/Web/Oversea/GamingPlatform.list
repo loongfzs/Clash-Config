@@ -71,3 +71,12 @@ DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
+
+# Xbox
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxab.net
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservice.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,gamepass.com

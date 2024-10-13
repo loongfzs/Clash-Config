@@ -12,27 +12,27 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# 苹果 IP 地址块 
-# https://support.apple.com/zh-cn/HT210060
-IP-CIDR,17.0.0.0/8,no-resolve
-
 # Fallback-filter
+DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+# DOMAIN-SUFFIX,apple.com.cn
+# DOMAIN-SUFFIX,icloud.com.cn
 
-DOMAIN-SUFFIX,apzones.com
-DOMAIN-SUFFIX,apple-livephotoskit.com
-
-DOMAIN-SUFFIX,apple
+# IP 地址
+# https://support.apple.com/zh-cn/HT210060
+IP-CIDR,17.0.0.0/8,no-resolve

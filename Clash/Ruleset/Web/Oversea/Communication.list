@@ -1,4 +1,4 @@
-## === Telegram ===
+## === 通讯服务（communication） ===
 
 ## 规则编写示例
 ## 排序在上的规则优先生效
@@ -15,14 +15,14 @@
 # Test(https://ip.skk.moe/split-tunnel)
 DOMAIN,3.ip.skk.moe
 
+# Telegram
+DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,cdn-telegram.org
-
 # https://core.telegram.org/resources/cidr.txt
 IP-CIDR,91.108.56.0/22,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
