@@ -15,9 +15,7 @@
 # Test(https://ip.skk.moe/split-tunnel)
 DOMAIN,2.ip.skk.moe
 
-# === Steam 游戏平台 ===
-# https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list
-# https://steamcommunity.com/discussions/forum/1/154644349172660302/
+# Steam 游戏平台 https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list https://steamcommunity.com/discussions/forum/1/154644349172660302/
 DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com
@@ -42,8 +40,7 @@ DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,gog-statics.com
 
-# Sony
-# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
+# Sony https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
 # Fallback-filter
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstationnetwork.com
@@ -51,11 +48,10 @@ DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,playstation.net
 
-# 任天堂 switch
-# https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset/Extra/Game
+# 任天堂 switch https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Nintendo.list
 DOMAIN-KEYWORD,nintendo
 
-# EA游戏平台
+# EA游戏平台 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Origin.list
 DOMAIN-SUFFIX,ea.com
 DOMAIN-SUFFIX,origin.com
 # 聊天/好友服务
@@ -72,7 +68,7 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 
-# Xbox
+# Xbox https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Xbox.list
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,xboxab.net

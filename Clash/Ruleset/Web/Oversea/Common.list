@@ -208,10 +208,16 @@ DOMAIN-SUFFIX,qmsjmfb.com
 DOMAIN-SUFFIX,mayoclinic.org
 DOMAIN-SUFFIX,mayoclinichealthsystem.org
 
+# MediSearch
+DOMAIN-SUFFIX,medisearch.io
+
 ### N
 # Notion
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
+
+# NVIDIA
+DOMAIN-SUFFIX,nvidia.com
 
 ### O
 # Ookla
@@ -279,9 +285,12 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
 
+# RoboForm
+DOMAIN-SUFFIX,roboform.com
+
 ### S
 # SMS-activate
-DOMAIN-SUFFIX,sms-activate.org
+DOMAIN-SUFFIX,sms-activate.io
 
 # Sukka
 DOMAIN-SUFFIX,skk.moe
@@ -291,7 +300,6 @@ DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,torproject.org
 
 # Twitch
-DOMAIN-KEYWORD,ttvnw
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net

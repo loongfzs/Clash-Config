@@ -13,7 +13,7 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# steam游戏下载
+# Steam游戏下载
 DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steampipe-kr.akamaized.net
 DOMAIN-SUFFIX,steampipe-partner.akamaized.net
@@ -29,6 +29,6 @@ DOMAIN,dlassets.xboxlive.com
 
 # R星游戏下载
 
-# b社游戏下载
+# Bethesda游戏下载
 DOMAIN,download.cdp.bethesda.net
 DOMAIN,content.cdp.bethesda.net

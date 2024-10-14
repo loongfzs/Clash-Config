@@ -306,6 +306,7 @@ DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weiyun.com
 
 # 通信人家园
@@ -328,6 +329,9 @@ DOMAIN-SUFFIX,shuangliusc.com
 
 ### V
 # vivo
+DOMAIN-SUFFIX,vivo.com
+DOMAIN-SUFFIX,wwstat.com
+
 ##################
 
 ### W
@@ -397,6 +401,7 @@ DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytexservice.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,dailygn.com
+DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com

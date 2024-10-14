@@ -14,11 +14,6 @@
 ## SRC-PORT,7777 #匹配数据源端口
 
 # 本地地址
-IP-CIDR6,fc00::/7,no-resolve
-IP-CIDR6,fe80::/10,no-resolve
-IP-CIDR6,fd00::/8,no-resolve
-
-# 本地地址
 DOMAIN-SUFFIX,lan
 # RFC6762
 DOMAIN-SUFFIX,local
@@ -26,3 +21,8 @@ DOMAIN-SUFFIX,localhost
 DOMAIN-SUFFIX,in-addr.arpa
 # 内网域名
 DOMAIN-SUFFIX,internal
+
+# LocalLan CIDR
+IP-CIDR6,fc00::/7,no-resolve
+IP-CIDR6,fe80::/10,no-resolve
+IP-CIDR6,fd00::/8,no-resolve
