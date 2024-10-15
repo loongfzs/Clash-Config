@@ -50,7 +50,6 @@ DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myalicdn.com
-DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,taopiaopiao.com
@@ -98,6 +97,9 @@ DOMAIN-SUFFIX,baicizhan.com
 # CCTV
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
+
+# CSDN
+DOMAIN-SUFFIX,csdn.net
 
 # 潮汐APP
 DOMAIN-SUFFIX,moreless.io
@@ -316,8 +318,10 @@ DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,qcloudimg.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
+DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,soso.com
@@ -412,8 +416,13 @@ DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 
+# 有赞
+DOMAIN-SUFFIX,youzan.com
+DOMAIN-SUFFIX,youzanyun.com
+
 ### Z
 # 字节跳动
+DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
@@ -448,8 +457,6 @@ DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,kspkg.com
 DOMAIN-SUFFIX,ndcpp.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,searchpstatp.com
 DOMAIN-SUFFIX,snssdk.com
@@ -493,12 +500,13 @@ DOMAIN-SUFFIX,abchina.com
 # 中国移动
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,chinamobile.com
-
 # 咪咕
 DOMAIN-SUFFIX,cmread.com
 DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,migucloud.com
+# 中移物联网
+DOMAIN-SUFFIX,komect.com
 
 # 中国电信
 DOMAIN-SUFFIX,21cn.com

@@ -34,7 +34,8 @@
 # DOMAIN,time.nist.gov
 
 # Amazon Time Sync
-DOMAIN,time.aws.com
+# ※ 当引用Oversea/Common.list时，此项可关闭
+# DOMAIN,time.aws.com
 
 # pool.ntp.org
 DOMAIN-SUFFIX,pool.ntp.org

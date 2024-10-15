@@ -15,21 +15,27 @@
 # Test(https://ip.skk.moe/split-tunnel)
 DOMAIN,2.ip.skk.moe
 
-# Steam 游戏平台 https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list https://steamcommunity.com/discussions/forum/1/154644349172660302/
-DOMAIN-SUFFIX,steam-api.com
-DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,valvesoftware.com
+# Bethesda 贝塞斯达
+DOMAIN-SUFFIX,bethesda.net
 
-# Ubisoft
-DOMAIN-KEYWORD,ubisoft
-DOMAIN-SUFFIX,ubi.com
-DOMAIN-SUFFIX,ubi.li
+# Blizzard
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
+
+# Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+
+# EA游戏平台 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Origin.list
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,origin.com
+# 聊天/好友服务
+DOMAIN-SUFFIX,tnt-ea.com
 
 # EPIC 虚幻游戏平台
 DOMAIN-SUFFIX,epicgames.com
@@ -48,25 +54,27 @@ DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,playstation.net
 
-# 任天堂 switch https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Nintendo.list
-DOMAIN-KEYWORD,nintendo
+# Steam 游戏平台 https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list https://steamcommunity.com/discussions/forum/1/154644349172660302/
+DOMAIN-SUFFIX,steam-api.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,valvesoftware.com
 
-# EA游戏平台 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Origin.list
-DOMAIN-SUFFIX,ea.com
-DOMAIN-SUFFIX,origin.com
-# 聊天/好友服务
-DOMAIN-SUFFIX,tnt-ea.com
+# Nintendo 任天堂 https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Nintendo.list
+DOMAIN-KEYWORD,nintendo
 
 # R星游戏
 DOMAIN-SUFFIX,rockstargames.com
 
-# 贝塞斯达
-DOMAIN-SUFFIX,bethesda.net
-
-# Blizzard
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,battlenet.com
-DOMAIN-SUFFIX,blizzard.com
+# Ubisoft
+DOMAIN-KEYWORD,ubisoft
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubi.li
 
 # Xbox https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Xbox.list
 DOMAIN-SUFFIX,xbox.com

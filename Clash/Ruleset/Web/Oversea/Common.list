@@ -13,10 +13,14 @@
 ## SRC-PORT,7777 #匹配数据源端口
 
 ### A
+# Adblock Plus
+DOMAIN-SUFFIX,adblockplus.org
+
 # AWS
 DOMAIN-SUFFIX,aws.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,cloudfront.net
 
 # Akamai
 DOMAIN-SUFFIX,akamaized.net
@@ -33,17 +37,8 @@ DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,cloudflarewarp.com
 DOMAIN-SUFFIX,pages.dev
-DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
-
-# CDN
-DOMAIN-SUFFIX,azurewebsites.net
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,fastly.net
-DOMAIN-SUFFIX,jsdelivr.com
-DOMAIN-SUFFIX,jsdelivr.net
 
 ### D
 # Duckduckgo
@@ -55,17 +50,11 @@ DOMAIN-SUFFIX,limbopro.com
 # DeepL
 DOMAIN-SUFFIX,deepl.com
 
-# Discord
-DOMAIN-SUFFIX,discord.co
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discord.media
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
-
 ### E
 
 ### F
+# Fastly
+DOMAIN-SUFFIX,fastly.net
 
 ### G
 # Google
@@ -94,7 +83,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,withgoogle.com
@@ -138,68 +126,50 @@ DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,akadns.net
-DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azureedge.net
-DOMAIN-SUFFIX,azureiotcentral.com
-DOMAIN-SUFFIX,azurerms.com
+DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,cloudapp.net
-DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,footprintdns.com
-DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,lync.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoft.net
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsoftonline.com
-DOMAIN-SUFFIX,msappproxy.net
+DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,msauthimages.net
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,msft.net
 DOMAIN-SUFFIX,msftauth.net
-DOMAIN-SUFFIX,msftauthimages.net
-DOMAIN-SUFFIX,msftidentity.com
-DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,msftstatic.com
 DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,msocdn.com
-DOMAIN-SUFFIX,msocsp.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,onenote.net
-DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,sway-cdn.com
-DOMAIN-SUFFIX,sway-extensions.com
-DOMAIN-SUFFIX,sway.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,windowsazure.com
 
 # Meta(Facebook Instagram)
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
+
+# Mozilla Corporation
+DOMAIN-SUFFIX,firefox.com
 
 # 名字生成器
 DOMAIN-SUFFIX,qmsjmfb.com
@@ -239,37 +209,16 @@ DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.com
 
 # Pixiv
-DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 
 # Porn
-DOMAIN-SUFFIX,8teenxxx.com
-DOMAIN-SUFFIX,ahcdn.com
-DOMAIN-SUFFIX,bcvcdn.com
-DOMAIN-SUFFIX,bongacams.com
-DOMAIN-SUFFIX,chaturbate.com
-DOMAIN-SUFFIX,dditscdn.com
-DOMAIN-SUFFIX,livejasmin.com
 DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
-DOMAIN-SUFFIX,rdtcdn.com
-DOMAIN-SUFFIX,redtube.com
-DOMAIN-SUFFIX,sb-cd.com
-DOMAIN-SUFFIX,spankbang.com
-DOMAIN-SUFFIX,t66y.com
-DOMAIN-SUFFIX,xhamster.com
-DOMAIN-SUFFIX,xnxx-cdn.com
 DOMAIN-SUFFIX,xnxx.com
-DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xnxx-cdn.com
 DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,ypncdn.com
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,xvideos-cdn.com
 
 ### Q
 # Quora
@@ -280,7 +229,6 @@ DOMAIN-SUFFIX,quantumult.app
 
 ### R
 # Reddit
-DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
@@ -308,10 +256,7 @@ DOMAIN-SUFFIX,twitchcdn.net
 
 # X(Twitter)
 DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twimg.org
-DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,x.com
 
@@ -359,24 +304,24 @@ DOMAIN-SUFFIX,1password.com
 ### 其他
 
 ### 特殊
-# 证书验证
+## 证书验证
 # Amazon Trust Services
 DOMAIN-SUFFIX,amazontrust.com
-
+# Comodo UserTrust
+DOMAIN-SUFFIX,usertrust.com
 # DigiCert
 DOMAIN-SUFFIX,digicert.com
-
 # Let's Encrypt
 DOMAIN-SUFFIX,lencr.org
-
 # ocsp-certum
 DOMAIN-SUFFIX,ocsp-certum.com
-
 # Sectigo
 DOMAIN-SUFFIX,sectigo.com
 
-# Comodo UserTrust
-DOMAIN-SUFFIX,usertrust.com
+## CDN
+# jsDelivr
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
 
 ### 测试
 DOMAIN-SUFFIX,whoer.net
