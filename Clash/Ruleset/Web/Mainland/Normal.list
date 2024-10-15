@@ -78,7 +78,6 @@ DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
@@ -178,11 +177,17 @@ DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jcloudstatic.com
 DOMAIN-SUFFIX,jcloudstatic.net
 
+# 金山云
+DOMAIN-SUFFIX,ks-live.com
+
 # 尽简衣橱
 DOMAIN-SUFFIX,jinjian.tech
 
 # 唧唧
 DOMAIN-SUFFIX,jijidown.com
+
+# 及刻
+DOMAIN-SUFFIX,clickwifi.net
 
 ### K 
 # 酷狗音乐
@@ -199,9 +204,24 @@ DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,etoote.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,kwaicdn.com
 DOMAIN-SUFFIX,kwimgs.com
 DOMAIN-SUFFIX,yximgs.com
+# 快手内容分发
+DOMAIN-SUFFIX,aisee.tv
+DOMAIN-SUFFIX,ssrcdn.com
+DOMAIN-SUFFIX,xxpkg.com
+DOMAIN-SUFFIX,live-voip.com
+DOMAIN-SUFFIX,video-voip.com
+# 快手商城
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,eckwai.com
+DOMAIN-SUFFIX,oskwai.com
+DOMAIN-SUFFIX,paykwai.com
+DOMAIN-SUFFIX,shukwai.com
+DOMAIN-SUFFIX,wsukwai.com
 
 ### L 
 # 蓝点网
@@ -225,7 +245,7 @@ DOMAIN-SUFFIX,mxbc.net
 ### N
 
 ### O
-# Oppo智能手机
+# Oppo智能手机 https://security.oppo.com/cn/noticeDetail?notice_only_key=20221659515571953
 # DOMAIN-SUFFIX,oppo.com
 # DOMAIN-SUFFIX,myoppo.com
 # DOMAIN-SUFFIX,opposhop.cn
@@ -253,6 +273,7 @@ DOMAIN-SUFFIX,yangkeduo.com
 # 七牛云
 DOMAIN-SUFFIX,hiecheimaetu.com
 DOMAIN-SUFFIX,qnqcdn.net
+DOMAIN-SUFFIX,ubeethiesemo.com
 
 # 去哪儿旅行
 DOMAIN-SUFFIX,qunar.com
@@ -280,6 +301,9 @@ DOMAIN-SUFFIX,supvan.com
 
 # 顺丰快递
 DOMAIN-SUFFIX,sf-express.com
+
+# 什么值得买
+DOMAIN-SUFFIX,smzdm.com
 
 ### T
 # 腾讯
@@ -375,6 +399,11 @@ DOMAIN-SUFFIX,sandai.com
 # 星域CDN
 DOMAIN-SUFFIX,xycdn.com
 
+# 小猿搜题
+DOMAIN-SUFFIX,yfdurl.com
+DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,yuantiku.com
+
 ### Y
 # 雨时（和风天气）
 DOMAIN-SUFFIX,qweather.com
@@ -388,6 +417,7 @@ DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
+DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
@@ -418,7 +448,10 @@ DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,kspkg.com
 DOMAIN-SUFFIX,ndcpp.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,searchpstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiao13.com
@@ -527,7 +560,6 @@ DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,alidns.com
 # DNSPod
 DOMAIN-SUFFIX,doh.pub
-DOMAIN-SUFFIX,dot.pub
 # OneDNS
 DOMAIN-SUFFIX,onedns.net
 

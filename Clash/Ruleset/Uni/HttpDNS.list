@@ -24,10 +24,13 @@ DOMAIN,httpsdns.baidu.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpdns.baidubce.com
 DOMAIN,httpdns.bcelive.com
+# DNSPod
+DOMAIN-SUFFIX,httpdns.pro
 # Huawei
 DOMAIN,httpdns.c.cdnhwc2.com
 # 快手
 DOMAIN,httpdns.kwd.inkuai.com
+DOMAIN,kuaishou.httpdns.pro
 # JD
 DOMAIN,dns.jd.com
 # Kugou 酷狗音乐
@@ -54,6 +57,8 @@ DOMAIN,httpdns.upyun.com
 IP-CIDR,203.107.1.0/24,no-resolve
 # BaiduBCE
 IP-CIDR,186.76.76.200/32,no-resolve
+# DNSPod
+IP-CIDR,119.29.29.98/31,no-resolve
 # JD
 IP-CIDR,101.124.19.122/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
@@ -78,5 +83,3 @@ IP-CIDR6,240e:928:1400:10::25/128,no-resolve
 # Zhihu
 IP-CIDR,118.89.204.198/23,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
-# 腾讯云
-IP-CIDR,119.29.29.98/31,no-resolve
