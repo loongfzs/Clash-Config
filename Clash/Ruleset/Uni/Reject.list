@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,umsns.com
 
 # Google
 DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,ads.google.com
 DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,analytics.google.com

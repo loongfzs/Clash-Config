@@ -129,8 +129,8 @@ dns:
   nameserver:
     #- 'https://doh.pub/dns-query'
     - 'https://doh.360.cn/dns-query'
-    #- 'https://dns.alidns.com/dns-query'
-    - 'https://doh-pure.onedns.net/dns-query'
+    - 'https://dns.alidns.com/dns-query'
+    #- 'https://doh-pure.onedns.net/dns-query'
   fallback:
     #- 'https://dns.quad9.net/dns-query'
     - 'https://mozilla.cloudflare-dns.com/dns-query'
