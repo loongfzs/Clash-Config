@@ -52,8 +52,6 @@ DST-PORT,445
 # APN/XMPP 
 # https://support.apple.com/zh-cn/102266
 # https://support.apple.com/zh-cn/HT202944
-DST-PORT,2195
-DST-PORT,2196
 DST-PORT,2197
 DST-PORT,5223
 

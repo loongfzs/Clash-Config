@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,fliggy.com
 DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,hichina.com
+DOMAIN-SUFFIX,ialicdn.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myalicdn.com
@@ -70,6 +71,7 @@ DOMAIN-SUFFIX,qy.net
 ### B
 # 百度
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidubce.com
 DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidustatic.com
@@ -325,6 +327,7 @@ DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,soso.com
+DOMAIN-SUFFIX,tcdnos.com
 DOMAIN-SUFFIX,tencent-cloud.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
@@ -444,6 +447,7 @@ DOMAIN-SUFFIX,dailygn.com
 DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
