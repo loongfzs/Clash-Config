@@ -255,6 +255,8 @@ dns:
       - '+.playstation.net'
       # Akamai
       - '+.edgekey.net'
+      # AppShare
+      - '+.muge.info'
   # Lookup domains via specific nameservers
     nameserver-policy:
       # Windows FQDN

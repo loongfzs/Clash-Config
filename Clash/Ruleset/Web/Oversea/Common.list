@@ -30,6 +30,10 @@ DOMAIN-SUFFIX,akamaistream.net
 # Fallback-filter
 DOMAIN-SUFFIX,edgekey.net
 
+# AppShare
+# Fallback-filter
+DOMAIN-SUFFIX,muge.info
+
 ### B
 
 ### C
