@@ -131,6 +131,16 @@ DOMAIN,loongfzshome.dynv6.net
 DOMAIN-SUFFIX,2q10.com
 DOMAIN-SUFFIX,appcloudcdn.com
 
+# DJI大疆
+DOMAIN-SUFFIX,dji.com
+DOMAIN-SUFFIX,djicdn.com
+DOMAIN-SUFFIX,djicorp.com
+DOMAIN-SUFFIX,djigate.com
+DOMAIN-SUFFIX,djiits.com
+DOMAIN-SUFFIX,djiops.com
+DOMAIN-SUFFIX,djiservice.org
+DOMAIN-SUFFIX,skypixel.com
+
 ### E
 
 ### F 
@@ -511,6 +521,7 @@ DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,migucloud.com
 # 中移物联网
+DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,komect.com
 
 # 中国电信

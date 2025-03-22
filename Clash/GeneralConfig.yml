@@ -209,6 +209,7 @@ dns:
       - '+.microsoft.net'
       - '+.microsoftapp.net'
       - '+.microsoftonline.com'
+      - '+.microsoftpersonalcontent.com'
       - '+.microsofttranslator.com'
       - '+.microsoft-falcon.io'
       - '+.msauth.net'
