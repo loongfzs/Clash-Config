@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,rqd.qq.com
 DOMAIN-SUFFIX,e.qq.com
 # P2P
 DOMAIN-SUFFIX,p2p.qq.com
+DOMAIN-SUFFIX,p2ptun.qq.com
 DOMAIN-SUFFIX,p.tencentmusic.com
 
 # 站点统计
