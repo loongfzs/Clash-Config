@@ -156,6 +156,10 @@ DOMAIN-SUFFIX,guoqi365.com
 
 # 个推
 DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,getui.net
+
+# 广发银行
+DOMAIN-SUFFIX,95508.com
 
 ### H 
 # 华为
@@ -433,6 +437,9 @@ DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,youzan.com
 DOMAIN-SUFFIX,youzanyun.com
 
+# 易有云
+DOMAIN-SUFFIX,linkease.com
+
 ### Z
 # 字节跳动
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
@@ -537,6 +544,9 @@ DOMAIN-SUFFIX,zhusiot.com
 
 # 掌上公交
 DOMAIN-SUFFIX,mygolbs.com
+
+# 中原银行
+DOMAIN-SUFFIX,zyebank.com
 
 ### 0
 
