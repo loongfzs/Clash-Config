@@ -123,10 +123,6 @@ DOMAIN-SUFFIX,xiaojukeji.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
 
-# DDNS
-DOMAIN,fzscellular.dynv6.net
-DOMAIN,loongfzshome.dynv6.net
-
 # Days Matter 倒数日
 DOMAIN-SUFFIX,2q10.com
 DOMAIN-SUFFIX,appcloudcdn.com
@@ -204,9 +200,6 @@ DOMAIN-SUFFIX,jinjian.tech
 # 唧唧
 DOMAIN-SUFFIX,jijidown.com
 
-# 及刻
-DOMAIN-SUFFIX,clickwifi.net
-
 ### K 
 # 酷狗音乐
 DOMAIN-SUFFIX,kugou.com
@@ -254,11 +247,18 @@ DOMAIN-SUFFIX,mtyun.com
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,sankuai.com
+
 # 猫眼
 DOMAIN-SUFFIX,maoyan.com
 
 # 蜜雪冰城
 DOMAIN-SUFFIX,mxbc.net
+
+# 咪咕文化
+DOMAIN-SUFFIX,cmread.com
+DOMAIN-SUFFIX,migufun.com
+DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,migucloud.com
 
 ### N
 
@@ -522,11 +522,7 @@ DOMAIN-SUFFIX,abchina.com
 # 中国移动
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,chinamobile.com
-# 咪咕
-DOMAIN-SUFFIX,cmread.com
-DOMAIN-SUFFIX,migufun.com
-DOMAIN-SUFFIX,miguvideo.com
-DOMAIN-SUFFIX,migucloud.com
+
 # 中移物联网
 DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,komect.com
@@ -580,8 +576,6 @@ DOMAIN-SUFFIX,qihucdn.com
 ### 9
 
 ### 其他
-
-### 特殊
 ## 公共直连CDN
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
@@ -589,6 +583,7 @@ DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
+### 特殊
 ## DNS
 # AliDNS
 DOMAIN-SUFFIX,alidns.com
@@ -596,12 +591,6 @@ DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,doh.pub
 # OneDNS
 DOMAIN-SUFFIX,onedns.net
-
-## P2P下载
-# BitTorrent协议
-DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
 
 ### 测试
 # Test(https://ip.skk.moe/split-tunnel)

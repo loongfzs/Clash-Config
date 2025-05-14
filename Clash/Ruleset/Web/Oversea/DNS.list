@@ -38,3 +38,12 @@ IP-CIDR,94.140.14.15/32,no-resolve
 IP-CIDR,94.140.15.16/32,no-resolve
 IP-CIDR,94.140.14.140/32,no-resolve
 IP-CIDR,94.140.14.141/32,no-resolve
+
+# NextDNS
+DOMAIN-SUFFIX,nextdns.io
+IP-CIDR,45.90.30.0/32,no-resolve
+IP-CIDR,45.90.28.0/32,no-resolve
+
+# DNS SB
+DOMAIN-SUFFIX,dns.sb
+DOMAIN-SUFFIX,doh.sb

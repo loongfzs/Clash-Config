@@ -65,7 +65,9 @@ DOMAIN-SUFFIX,fastly.net
 # Fallback-filter
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,goog
@@ -87,9 +89,12 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,withgoogle.com
+IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
 
 # Github
 DOMAIN-SUFFIX,github.com

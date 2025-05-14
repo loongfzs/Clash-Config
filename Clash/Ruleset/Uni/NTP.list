@@ -11,9 +11,11 @@
 ## IP-CIDR,223.5.5.5/32,no-resolve #匹配数据目标IP，不解析域名
 
 # 阿里云公共 NTP 服务器
+# ※ 当引用Uni\Port.list或Mainland\Normal.list时，此项可关闭
 # DOMAIN,ntp.aliyun.com
 
 # 腾讯云公共 NTP 服务器
+# ※ 当引用Uni\Port.list或Mainland\Normal.list时，此项可关闭
 # DOMAIN,ntp.tencent.com
 
 # 高通中国提供 NTP 服务
@@ -25,9 +27,11 @@
 # DOMAIN,time.ys7.com
 
 # 微软 Windows NTP 服务器
+# ※ 当引用Oversea/Common.list时，此项可关闭
 # DOMAIN,time.windows.com
 
 # Cloudflare NTP 服务器
+# ※ 当引用Oversea/Common.list时，此项可关闭
 # DOMAIN,time.cloudflare.com
 
 # 美国标准技术研究院 NTP 服务器
