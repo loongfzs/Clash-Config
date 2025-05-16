@@ -66,12 +66,9 @@ log-level: debug
 #   'alpha.clash.dev': '::1'
 hosts:
    'www.huaweimobilewifi.com': 192.168.8.1
-   #'ipv6.msftconnecttest.com': '2a01:111:2003::52'
-   'onu01.internal': 192.168.1.1
-   'cuonu00.internal': 192.168.1.1
-   #'router.internal': 100.64.10.18
-   #'innerspeedtest.internal': 100.69.21.97
-   #'router.internal': 172.18.210.253
+   '*.internal': 192.168.11.1
+   'onu.internal': 192.168.1.1
+   'storage.internal': 192.168.11.11
 #profile:
   # Store the `select` results in $HOME/.config/clash/.cache
   # set false If you don't want this behavior
@@ -219,6 +216,8 @@ dns:
       - '+.msedge.net'
       - '+.msftauth.net'
       - '+.msftstatic.com'
+      - '+.msftconnecttest.com'
+      - '+.msftncsi.com'
       - '+.msn.com'
       - '+.office.com'
       - '+.office.net'
