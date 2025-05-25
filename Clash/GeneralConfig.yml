@@ -66,9 +66,9 @@ log-level: debug
 #   'alpha.clash.dev': '::1'
 hosts:
    'www.huaweimobilewifi.com': 192.168.8.1
-   '*.internal': 192.168.11.1
+   '*.internal': 172.16.0.1
    'onu.internal': 192.168.1.1
-   'storage.internal': 192.168.11.11
+   'storage.internal': 172.16.0.11
 #profile:
   # Store the `select` results in $HOME/.config/clash/.cache
   # set false If you don't want this behavior
@@ -127,15 +127,19 @@ dns:
     - 'https://dns.alidns.com/dns-query'
     - 'https://doh-pure.onedns.net/dns-query'
   fallback:
-    #- 'https://dns.quad9.net/dns-query'
-    - 'https://mozilla.cloudflare-dns.com/dns-query'
-    - 'https://dns.google/dns-query'
+    - 'https://dns.quad9.net/dns-query'
+    - 'https://doh.opendns.com/dns-query'
+    #- 'https://dns.adguard-dns.com/dns-query'
+    #- 'https://mozilla.cloudflare-dns.com/dns-query'
+    #- 'https://dns.google/dns-query'
   fallback-filter:
     geoip: true
     geoip-code: CN
     ipcidr:
       # https://en.wikipedia.org/wiki/Reserved_IP_addresses
-      - 240.0.0.0/3
+      - ::/128
+      - ::1/128
+      - 2001::/32
       - 0.0.0.0/8
       - 127.0.0.0/8
       - 169.254.0.0/16
@@ -145,6 +149,7 @@ dns:
       - 198.18.0.0/15
       - 198.51.100.0/24
       - 203.0.113.0/24
+      - 240.0.0.0/3
       - 255.255.255.255/32
     domain:
       # 一定要对齐，不然会出BUG
