@@ -582,6 +582,8 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
+# 网宿科技
+DOMAIN-SUFFIX,cdnmg.com
 
 ### 特殊
 ## DNS
