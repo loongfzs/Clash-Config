@@ -108,16 +108,33 @@ dns:
     # https://raw.githubusercontent.com/LM-Firefly/Rules/master/Subconverter-base/all-base.tpl
     # === LAN ===
     - '*.lan'
+    - '*.localdomain'
+    - '*.example'
+    - '*.invalid'
+    - '*.localhost'
+    - '*.test'
+    - '*.local'
+    - '*.home.arpa'
+    - '*.internal'
     # === Windows 10 Connnect Detection ===
     - '*.msftconnecttest.com'
     - '*.msftncsi.com'
     # === NTP Service ===
     - 'ntp.*.com'
+    - 'time.*.com'
     - time-ios.apple.com
     - time-macos.apple.com
-    - 'time.*.com'
-    - 'time.*.gov'
     - '*.pool.ntp.org'
+    # === P2P ===
+    - 'stun.*.*'
+    - 'stun.*.*.*'
+    - '*.*.*.srv.nintendo.net'
+    - '*.*.stun.playstation.net'
+    - xbox.*.*.microsoft.com
+    - '*.*.xboxlive.com'
+    - '*.ipv6.microsoft.com'
+    - teredo.*.*.*
+    - teredo.*.*
   default-nameserver:
     - 223.5.5.5
     - 119.29.29.29
@@ -264,9 +281,8 @@ dns:
       - '+.muge.info'
   # Lookup domains via specific nameservers
     nameserver-policy:
-      # Windows FQDN
-      '+.msftconnecttest.com': '223.5.5.5'
-      '+.msftncsi.com': '223.5.5.5'
+      'ipv6.msftconnecttest.com': '223.5.5.5'
+      'ipv6.msftncsi.com': '223.5.5.5'
 #cfw tun mode配置
 #失效
 # 1. clash DNS 请求逻辑：

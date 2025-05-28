@@ -16,6 +16,7 @@
 DOMAIN,4.ip.skk.moe
 
 # 阿里
+DOMAIN,amdc.m.taobao.com
 DOMAIN-SUFFIX,log.aliyuncs.com
 # 阿里统计
 DOMAIN,h-adashx.ut.taobao.com
@@ -39,6 +40,10 @@ DOMAIN,nsclick.baidu.com
 DOMAIN,tcbox.baidu.com
 DOMAIN,pimlog.baidu.com
 DOMAIN,ug.baidu.com
+
+# 哔哩哔哩
+# PCDN
+DOMAIN-SUFFIX,biliapi.net
 
 # 腾讯
 DOMAIN-SUFFIX,beacon.qq.com

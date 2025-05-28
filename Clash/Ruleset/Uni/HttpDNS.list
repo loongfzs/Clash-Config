@@ -23,6 +23,8 @@ DOMAIN,httpsdns.baidu.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpdns.baidubce.com
 DOMAIN,httpdns.bcelive.com
+# Bilibili 哔哩哔哩
+DOMAIN,httpdns.bilivideo.com
 # DNSPod
 DOMAIN-SUFFIX,httpdns.pro
 # Huawei
