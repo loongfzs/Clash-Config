@@ -256,13 +256,6 @@ DOMAIN-SUFFIX,skk.moe
 # Tor
 DOMAIN-SUFFIX,torproject.org
 
-# Twitch
-DOMAIN-SUFFIX,ext-twitch.tv
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
-
 # X(Twitter)
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.com
