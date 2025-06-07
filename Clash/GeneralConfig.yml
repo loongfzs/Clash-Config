@@ -283,6 +283,7 @@ dns:
     nameserver-policy:
       'ipv6.msftconnecttest.com': '223.5.5.5'
       'ipv6.msftncsi.com': '223.5.5.5'
+      'dns.msftncsi.com': '223.5.5.5'
 #cfw tun mode配置
 #失效
 # 1. clash DNS 请求逻辑：

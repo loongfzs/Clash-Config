@@ -89,8 +89,5 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,mixpanel.com
 
-# 防止Tg转圈圈
-IP-CIDR,95.161.76.100/31,no-resolve
-
 # 12306广告平台
 DOMAIN,ad.12306.cn
