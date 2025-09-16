@@ -261,7 +261,7 @@ dns:
       - '+.apple.news'
       - '+.appstore.com'
       - '+.apzones.com'
-      - '+.cdn-apple.com'
+      # - '+.cdn-apple.com'
       - '+.icloud-content.com'
       - '+.icloud.com'
       - '+.itunes.com'
