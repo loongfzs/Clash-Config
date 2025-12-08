@@ -10,5 +10,5 @@ Pure self-use rules!
 
 ![](http://profile-counter.glitch.me/loongfzs/count.svg)
 
-【最近更新：2025年12月5日】
-【版本 V_602】
+【最近更新：2025年12月8日】
+【版本 V_603】

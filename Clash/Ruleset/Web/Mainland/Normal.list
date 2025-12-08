@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloudccp.com
@@ -112,6 +113,7 @@ DOMAIN-SUFFIX,coolapk.com
 
 # 长城汽车
 DOMAIN-SUFFIX,beantechyun.com
+DOMAIN-SUFFIX,gwmapp-h.com
 
 ### D
 # 滴滴
@@ -130,6 +132,7 @@ DOMAIN-SUFFIX,appcloudcdn.com
 
 # DJI大疆
 DOMAIN-SUFFIX,dji.com
+DOMAIN-SUFFIX,dji.net
 DOMAIN-SUFFIX,djicdn.com
 DOMAIN-SUFFIX,djicorp.com
 DOMAIN-SUFFIX,djigate.com
@@ -333,6 +336,7 @@ DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,my-imcloud.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qcloudimg.com
@@ -567,6 +571,11 @@ DOMAIN-SUFFIX,qihucdn.com
 ### 4
 
 ### 5
+# 58同城
+DOMAIN-SUFFIX,58.com
+DOMAIN-SUFFIX,anjuke.com
+DOMAIN-SUFFIX,anjukestatic.com
+DOMAIN-SUFFIX,ajkimg.com
 
 ### 6
 
