@@ -16,6 +16,9 @@
 # Adblock Plus
 DOMAIN-SUFFIX,adblockplus.org
 
+# ASUS
+DOMAIN-SUFFIX,asus.com
+
 # AWS
 DOMAIN-SUFFIX,aws.com
 DOMAIN-SUFFIX,amazon.com
@@ -41,6 +44,7 @@ DOMAIN-SUFFIX,muge.info
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,workers.dev
 
@@ -120,6 +124,9 @@ DOMAIN-SUFFIX,imgur.com
 # IP-API
 DOMAIN-SUFFIX,ip-api.com
 
+# ITDOG
+DOMAIN-SUFFIX,itdog.plus
+
 ### J
 # jQuery,a fast, small, and feature-rich JavaScript library
 DOMAIN-SUFFIX,jquery.com
@@ -127,6 +134,8 @@ DOMAIN-SUFFIX,jquery.com
 ### K
 
 ### L
+Landrop
+DOMAIN-SUFFIX,landrop.app
 
 ### M
 # Microsoft
@@ -154,6 +163,7 @@ DOMAIN-SUFFIX,microsoftpersonalcontent.com
 DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,msftauth.net
@@ -166,9 +176,17 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
+
+# Visual Studio Code
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,exp-tas.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vscodeedu.com
 
 # Meta(Facebook Instagram)
 DOMAIN-SUFFIX,cdninstagram.com
@@ -271,6 +289,9 @@ DOMAIN-SUFFIX,skk.moe
 ### T
 # Tor
 DOMAIN-SUFFIX,torproject.org
+
+# Twilio
+DOMAIN-SUFFIX,twilio.com
 
 # X(Twitter)
 DOMAIN-SUFFIX,t.co

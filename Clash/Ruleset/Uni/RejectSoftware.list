@@ -109,4 +109,4 @@ DOMAIN,pcapp-data-collect.youku.com
 
 # 微软
 DOMAIN,c.msn.com
-DOMAIN,browser.events.data.msn.com
+# DOMAIN,browser.events.data.msn.com

@@ -232,6 +232,7 @@ dns:
       - '+.microsofttranslator.com'
       - '+.microsoft-falcon.io'
       - '+.msauth.net'
+      - '+.msftauthimages.net'
       - '+.msecnd.net'
       - '+.msedge.net'
       - '+.msftauth.net'
@@ -246,7 +247,6 @@ dns:
       - '+.sharepoint.com'
       - '+.sharepointonline.com'
       - '+.skype.com'
-      - '+.visualstudio.com'
       - '+.windows.com'
       - '+.windows.net'
       # Apple
