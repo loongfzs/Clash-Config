@@ -277,8 +277,6 @@ dns:
       - '+.playstation.net'
       # Akamai
       - '+.edgekey.net'
-      # AppShare
-      - '+.muge.info'
   # Lookup domains via specific nameservers
     nameserver-policy:
       'ipv6.msftconnecttest.com': '223.5.5.5'
