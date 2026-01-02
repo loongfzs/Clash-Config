@@ -12,9 +12,6 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# Test(https://ip.skk.moe/split-tunnel)
-DOMAIN,2.ip.skk.moe
-
 # Bethesda 贝塞斯达
 DOMAIN-SUFFIX,bethesda.net
 

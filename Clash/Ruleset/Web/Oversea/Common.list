@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,deepl.com
 ### F
 # Fastly
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastly.com
 
 ### G
 # Google
@@ -117,9 +118,6 @@ DOMAIN-SUFFIX,media-imdb.com
 # Imgur 图床
 DOMAIN-SUFFIX,imgur.com
 
-# IP-API
-DOMAIN-SUFFIX,ip-api.com
-
 # ITDOG
 DOMAIN-SUFFIX,itdog.plus
 
@@ -174,6 +172,7 @@ DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsupdate.com
 
 # Visual Studio Code
 DOMAIN-SUFFIX,vscode-cdn.net
@@ -357,6 +356,18 @@ DOMAIN-SUFFIX,sectigo.com
 # jsDelivr
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
+
+# IP测试
+# ipify API
+DOMAIN-SUFFIX,ipify.org
+# ip.sb
+DOMAIN-SUFFIX,ip.sb
+# lvhai.org
+DOMAIN-SUFFIX,lvhai.org
+# IP-API
+DOMAIN-SUFFIX,ip-api.com
+# IPPure
+DOMAIN-SUFFIX,ippure.com
 
 ### 测试
 DOMAIN-SUFFIX,whoer.net

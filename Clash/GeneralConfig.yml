@@ -249,6 +249,7 @@ dns:
       - '+.skype.com'
       - '+.windows.com'
       - '+.windows.net'
+      - '+.windowsupdate.com'
       # Apple
       - '+.apple'
       - '+.aaplimg.com'

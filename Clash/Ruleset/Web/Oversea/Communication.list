@@ -12,9 +12,6 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# Test(https://ip.skk.moe/split-tunnel)
-DOMAIN,3.ip.skk.moe
-
 # Telegram
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,t.me
