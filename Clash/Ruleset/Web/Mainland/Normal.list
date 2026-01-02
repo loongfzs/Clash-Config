@@ -328,6 +328,9 @@ DOMAIN-SUFFIX,sf-express.com
 # 什么值得买
 DOMAIN-SUFFIX,smzdm.com
 
+# 深圳市爱听卓乐文化科技有限公司
+DOMAIN-SUFFIX,tingmall.com
+
 ### T
 # 腾讯
 DOMAIN-SUFFIX,cdntips.net
@@ -406,6 +409,11 @@ DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
+
+# 小天才儿童手表
+DOMAIN-SUFFIX,eebbk.net
+DOMAIN-SUFFIX,okii.com
+DOMAIN-SUFFIX,tiancaixing.com
 
 # 下厨房
 DOMAIN-SUFFIX,xiachufang.com

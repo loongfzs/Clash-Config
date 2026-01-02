@@ -145,8 +145,8 @@ dns:
     #- 'https://doh-pure.onedns.net/dns-query'
   fallback:
     - 'https://dns.quad9.net/dns-query'
-    - 'https://doh.opendns.com/dns-query'
-    #- 'https://dns.adguard-dns.com/dns-query'
+    #- 'https://doh.opendns.com/dns-query'
+    - 'https://dns.adguard-dns.com/dns-query'
     #- 'https://mozilla.cloudflare-dns.com/dns-query'
     #- 'https://dns.google/dns-query'
   fallback-filter:
@@ -261,7 +261,7 @@ dns:
       - '+.apple.news'
       - '+.appstore.com'
       - '+.apzones.com'
-      # - '+.cdn-apple.com'
+      - '+.cdn-apple.com'
       - '+.icloud-content.com'
       - '+.icloud.com'
       - '+.itunes.com'
