@@ -1,8 +1,8 @@
-HKG@香港
-HongKong@香港
-Hong Kong@香港
-TWN@台湾
-Taiwan@台湾
+HKG@中国香港
+HongKong@中国香港
+Hong Kong@中国香港
+TWN@中国台湾
+Taiwan@中国台湾
 SGP@新加坡
 Singapore@新加坡
 KOR@韩国

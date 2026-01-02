@@ -1,5 +1,5 @@
-HKG@亚洲-华南-香港 HKG
-TWN@亚洲-华东-台湾 TWN
+HKG@亚洲-华南-中国香港 HKG
+TWN@亚洲-华东-中国台湾 TWN
 SGP@亚洲-东南亚-新加坡 SGP
 KOR@亚洲-东亚-韩国 KOR
 JPN@亚洲-东亚-日本 JPN

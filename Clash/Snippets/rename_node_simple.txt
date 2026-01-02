@@ -1,6 +1,6 @@
-HongKong@香港
-Hong Kong@香港
-Taiwan@台湾
+HongKong@中国香港
+Hong Kong@中国香港
+Taiwan@中国台湾
 Singapore@新加坡
 South Korea@韩国
 Japan@日本

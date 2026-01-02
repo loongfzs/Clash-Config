@@ -368,6 +368,8 @@ DOMAIN-SUFFIX,lvhai.org
 DOMAIN-SUFFIX,ip-api.com
 # IPPure
 DOMAIN-SUFFIX,ippure.com
+# IPinfo
+DOMAIN-SUFFIX,ipinfo.io
 
 ### 测试
 DOMAIN-SUFFIX,whoer.net
