@@ -615,3 +615,29 @@ DOMAIN-SUFFIX,onedns.net
 
 # ipleak
 DOMAIN-SUFFIX,ipleak.net
+
+## 订阅转换（后端）
+# sub-web作者提供
+DOMAIN-SUFFIX,wcc.best
+# subconverter作者提供
+DOMAIN-SUFFIX,xeton.dev
+# 品云提供
+DOMAIN-SUFFIX,id9.cc
+# 边缘提供
+DOMAIN-SUFFIX,bianyuan.xyz
+# 奶昔提供
+DOMAIN-SUFFIX,nexconvert.com
+# lhie1提供
+DOMAIN-SUFFIX,dler.io
+# 猫熊提供
+DOMAIN-SUFFIX,maoxiongnet.com
+# 歪兔提供
+DOMAIN-SUFFIX,sublink.dev
+# 920.im提供
+DOMAIN-SUFFIX,xjz.im
+# sub.ops.ci
+DOMAIN-SUFFIX,ops.ci
+# AMY
+DOMAIN-SUFFIX,amyconvert.com
+# IMM
+DOMAIN-SUFFIX,immconvert.com
