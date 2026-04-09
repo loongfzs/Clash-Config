@@ -125,20 +125,11 @@ dns:
     - time-ios.apple.com
     - time-macos.apple.com
     - '*.pool.ntp.org'
-    # === P2P ===
-    - 'stun.*.*'
-    - 'stun.*.*.*'
-    - '*.*.*.srv.nintendo.net'
-    - '*.*.stun.playstation.net'
-    - xbox.*.*.microsoft.com
-    - '*.*.xboxlive.com'
-    - '*.ipv6.microsoft.com'
-    - teredo.*.*.*
-    - teredo.*.*
   default-nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
+    - 101.226.4.6
+    - 52.80.66.66
   nameserver:
+    #- system
     #- 'https://doh.pub/dns-query'
     - 'https://doh.360.cn/dns-query'
     - 'https://dns.alidns.com/dns-query'
@@ -262,7 +253,7 @@ dns:
       - '+.apple.news'
       - '+.appstore.com'
       - '+.apzones.com'
-      - '+.cdn-apple.com'
+      # - '+.cdn-apple.com'
       - '+.icloud-content.com'
       - '+.icloud.com'
       - '+.itunes.com'
