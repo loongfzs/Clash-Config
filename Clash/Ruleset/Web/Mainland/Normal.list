@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloudccp.com
@@ -45,6 +44,7 @@ DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,fliggy.com
 DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,hichina.com
@@ -52,14 +52,19 @@ DOMAIN-SUFFIX,ialicdn.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myalicdn.com
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,taopiaopiao.com
 DOMAIN-SUFFIX,tbcache.com
+DOMAIN-SUFFIX,tbcdn.cn
 DOMAIN-SUFFIX,tbcdn.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tongyi.com
 DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,xiami.com
+DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 
@@ -239,6 +244,10 @@ DOMAIN-SUFFIX,paykwai.com
 DOMAIN-SUFFIX,shukwai.com
 DOMAIN-SUFFIX,wsukwai.com
 
+# Kaspersky中国区
+# 激活
+DOMAIN,activation-v2.kaspersky.com
+
 ### L 
 # 蓝点网
 DOMAIN-SUFFIX,landiannews.com
@@ -269,20 +278,20 @@ DOMAIN-SUFFIX,migucloud.com
 
 ### O
 # Oppo智能手机 https://security.oppo.com/cn/noticeDetail?notice_only_key=20221659515571953
-# DOMAIN-SUFFIX,oppo.com
-# DOMAIN-SUFFIX,myoppo.com
-# DOMAIN-SUFFIX,opposhop.cn
-# DOMAIN-SUFFIX,coloros.com
-# DOMAIN-SUFFIX,nearme.com
-# DOMAIN-SUFFIX,oppomobile.com
-# DOMAIN-SUFFIX,oppofind.com
-# DOMAIN-SUFFIX,myoas.com
-# DOMAIN-SUFFIX,heytap.com
-# DOMAIN-SUFFIX,heytapmobi.com
-# DOMAIN-SUFFIX,realme.com
-# DOMAIN-SUFFIX,realme.net
-# DOMAIN-SUFFIX,xiniaoyun.com
-# DOMAIN-SUFFIX,yeahzee.com
+DOMAIN-SUFFIX,oppo.com
+DOMAIN-SUFFIX,myoppo.com
+DOMAIN-SUFFIX,coloros.com
+DOMAIN-SUFFIX,nearme.com
+DOMAIN-SUFFIX,oppomobile.com
+DOMAIN-SUFFIX,oppofind.com
+DOMAIN-SUFFIX,myoas.com
+DOMAIN-SUFFIX,heytap.com
+DOMAIN-SUFFIX,heytapmobi.com
+DOMAIN-SUFFIX,realme.com
+DOMAIN-SUFFIX,realme.net
+DOMAIN-SUFFIX,xiniaoyun.com
+DOMAIN-SUFFIX,yeahzee.com
+DOMAIN-SUFFIX,allawntech.com
 
 ### P
 # 拼多多
@@ -494,6 +503,7 @@ DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,kspkg.com
 DOMAIN-SUFFIX,ndcpp.com
 DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,searchpstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
