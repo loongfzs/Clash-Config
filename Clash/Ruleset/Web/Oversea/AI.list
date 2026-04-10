@@ -1,4 +1,4 @@
-## === 测速 ===
+## === AI(美国) ===
 
 ## 规则编写示例
 ## 排序在上的规则优先生效
@@ -12,9 +12,5 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
-# Cloudflare Speedtest
-DOMAIN,speed.cloudflare.com
-
-# Ookla Speedtest
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,ooklaserver.net
+# grok
+DOMAIN-SUFFIX,grok.com

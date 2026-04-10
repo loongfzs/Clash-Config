@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ech.com
+DOMAIN-SUFFIX,cloudflaremirrors.com
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,workers.dev
 
@@ -261,6 +262,9 @@ DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
 
+# PeeringDB
+DOMAIN-SUFFIX,peeringdb.com
+
 ### Q
 # Quora
 DOMAIN-SUFFIX,quora.com
@@ -373,6 +377,3 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ippure.com
 # IPinfo
 DOMAIN-SUFFIX,ipinfo.io
-
-### 测试
-DOMAIN-SUFFIX,whoer.net
