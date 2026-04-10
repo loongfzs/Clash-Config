@@ -54,6 +54,9 @@ DOMAIN-SUFFIX,limbopro.com
 # DeepL
 DOMAIN-SUFFIX,deepl.com
 
+# Daum（Kakao 运营）
+DOMAIN-SUFFIX,daumcdn.net
+
 ### E
 
 ### F

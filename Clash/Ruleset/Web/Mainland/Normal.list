@@ -292,6 +292,7 @@ DOMAIN-SUFFIX,realme.net
 DOMAIN-SUFFIX,xiniaoyun.com
 DOMAIN-SUFFIX,yeahzee.com
 DOMAIN-SUFFIX,allawntech.com
+DOMAIN-SUFFIX,finzfin.com
 
 ### P
 # 拼多多
@@ -319,6 +320,10 @@ DOMAIN-SUFFIX,duoweisoft.com
 ### R
 # 人民日报
 DOMAIN-SUFFIX,peopleapp.com
+
+# 荣耀手机
+DOMAIN-SUFFIX,hihonor.com
+DOMAIN-SUFFIX,hihonorcloud.com
 
 ### S
 # 搜狗
@@ -579,6 +584,7 @@ DOMAIN-SUFFIX,zyebank.com
 DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360.net
+DOMAIN-SUFFIX,360tpcdn.com
 DOMAIN-SUFFIX,360tres.com
 DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,qhres.com
@@ -625,6 +631,9 @@ DOMAIN-SUFFIX,onedns.net
 
 # ipleak
 DOMAIN-SUFFIX,ipleak.net
+
+# 订阅
+DOMAIN-SUFFIX,prodigal4936.com
 
 ## 订阅转换（后端）
 # sub-web作者提供
