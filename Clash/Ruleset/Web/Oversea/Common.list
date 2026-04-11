@@ -288,6 +288,9 @@ DOMAIN-SUFFIX,sms-activate.io
 # Sukka
 DOMAIN-SUFFIX,skk.moe
 
+# Ookla Speedtest
+DOMAIN-SUFFIX,speedtest.net
+
 ### T
 # Tor
 DOMAIN-SUFFIX,torproject.org
