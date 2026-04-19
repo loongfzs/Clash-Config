@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,tbcache.com
 DOMAIN-SUFFIX,tbcdn.cn
 DOMAIN-SUFFIX,tbcdn.com
 DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,tongyi.com
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,xiami.com
@@ -243,6 +244,9 @@ DOMAIN,activation-v2.kaspersky.com
 # 蓝点网
 DOMAIN-SUFFIX,landiannews.com
 DOMAIN-SUFFIX,lancdn.com
+
+# 蓝奏云网盘
+DOMAIN-SUFFIX,lanosso.com
 
 ### M
 # 美团
@@ -467,6 +471,7 @@ DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
 DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,byte-test.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedns.net
@@ -567,6 +572,9 @@ DOMAIN-SUFFIX,zyebank.com
 ### 0
 
 ### 1
+# 123云盘
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,cjjd19.com
 
 ### 2
 

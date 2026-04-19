@@ -34,6 +34,12 @@ mode: rule
 # 5 个级别：silent / error / warning / info / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
 log-level: debug
 
+# Clash.Meta特性
+# 统一延迟
+unified-delay: true
+# TCP并发
+tcp-concurrent: true
+
 # Clash 的 RESTful API
 #external-controller: '127.0.0.1:9090'
 
@@ -99,50 +105,62 @@ hosts:
        #- 240.0.0.0/4
 dns:
   enable: true
-  listen: 0.0.0.0:53
+  prefer-h3: true
+  cache-algorithm: arc
+  listen: '0.0.0.0:1053'
   ipv6: true
+  use-hosts: true
+  use-system-hosts: true
+  respect-rules: false
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  use-hosts: true
   fake-ip-filter:
     # https://raw.githubusercontent.com/LM-Firefly/Rules/master/Subconverter-base/all-base.tpl
     # === LAN ===
-    - '*.lan'
-    - '*.localdomain'
-    - '*.example'
-    - '*.invalid'
-    - '*.localhost'
-    - '*.test'
-    - '*.local'
-    - '*.home.arpa'
-    - '*.internal'
+    - '+.lan'
+    - '+.localdomain'
+    - '+.example'
+    - '+.invalid'
+    - '+.localhost'
+    - '+.test'
+    - '+.local'
+    - '+.home.arpa'
+    - '+.internal'
     # === Windows 10 Connnect Detection ===
-    - '*.msftconnecttest.com'
-    - '*.msftncsi.com'
+    - '+.msftconnecttest.com'
+    - '+.msftncsi.com'
     # === NTP Service ===
     - 'ntp.*.com'
     - 'time.*.com'
     - time-ios.apple.com
     - time-macos.apple.com
-    - '*.pool.ntp.org'
+    - '+.pool.ntp.org'
   default-nameserver:
-    - 101.226.4.6
-    - 52.80.66.66
+    - 114.114.114.114
+    - 223.5.5.5
   nameserver:
     #- system
-    #- 'https://doh.pub/dns-query'
     - 'https://doh.360.cn/dns-query'
     - 'https://dns.alidns.com/dns-query'
+    #- 'https://doh.pub/dns-query'
     #- 'https://doh-pure.onedns.net/dns-query'
   fallback:
     - 'https://dns.quad9.net/dns-query'
+    - 'https://anycast.dns.nextdns.io'
     #- 'https://doh.opendns.com/dns-query'
-    - 'https://dns.adguard-dns.com/dns-query'
     #- 'https://mozilla.cloudflare-dns.com/dns-query'
     #- 'https://dns.google/dns-query'
+  proxy-server-nameserver:
+    #- system
+    - 'https://doh.360.cn/dns-query'
+    - 'https://dns.alidns.com/dns-query'
+    #- 'https://doh.pub/dns-query'
+    #- 'https://doh-pure.onedns.net/dns-query'
   fallback-filter:
     geoip: true
     geoip-code: CN
+    geosite:
+      - gfw
     ipcidr:
       # https://en.wikipedia.org/wiki/Reserved_IP_addresses
       - ::/128
@@ -271,9 +289,8 @@ dns:
       - '+.edgekey.net'
   # Lookup domains via specific nameservers
     nameserver-policy:
-      'ipv6.msftconnecttest.com': '223.5.5.5'
-      'ipv6.msftncsi.com': '223.5.5.5'
-      'dns.msftncsi.com': '223.5.5.5'
+      '+.msftconnecttest.com': 'https://dns.alidns.com/dns-query'
+      '+.msftncsi.com': 'https://dns.alidns.com/dns-query'
 #cfw tun mode配置
 #失效
 # 1. clash DNS 请求逻辑：
