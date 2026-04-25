@@ -84,3 +84,6 @@ DOMAIN-SUFFIX,mixpanel.com
 
 # 12306广告平台
 DOMAIN,ad.12306.cn
+
+# 广告平台
+DOMAIN-SUFFIX,rayjump.com
