@@ -1,0 +1,68 @@
+## === 公共DNS服务器（用于回退） ===
+## +++ only in clash +++
+
+## 规则编写示例
+## 排序在上的规则优先生效
+## PROCESS-NAME,curl #匹配本机进程
+## DOMAIN-SUFFIX,google.com #匹配域名后缀
+## DOMAIN-KEYWORD,google #匹配域名关键字
+## DOMAIN,google.com #匹配域名
+## IP-CIDR,127.0.0.0/8 #匹配数据目标IP，同时解析对应域名
+## IP-CIDR,223.5.5.5/32,no-resolve #匹配数据目标IP，不解析域名
+## SRC-IP-CIDR,192.168.1.201/32 #匹配数据发起IP
+## DST-PORT,80 #匹配数据目标端口
+## SRC-PORT,7777 #匹配数据源端口
+
+# ASTRACAT
+DOMAIN,frd4wvnobp.cloudflare-gateway.com
+
+# CERT-EE
+DOMAIN,dns.cert.ee
+
+# CIRA Canadian Shield
+DOMAIN,private.canadianshield.cira.ca
+
+# Control D
+DOMAIN,freedns.controld.com
+
+# CZ.NIC ODVR
+DOMAIN,odvr.nic.cz
+
+# DeCloud Us
+DOMAIN,dns.decloudus.com
+
+# Digitale Gesellschaft
+DOMAIN,dns.digitale-gesellschaft.ch
+
+# DNS4EU
+DOMAIN,unfiltered.joindns4.eu
+
+# DNS for Family
+DOMAIN,dns-doh.dnsforfamily.com
+
+# DNS Forge
+DOMAIN,dnsforge.de
+
+# HaGeZi
+DOMAIN,root.hagezi.org
+
+# Jupitr DNS
+DOMAIN,dns.jupitrdns.com
+
+# Libre DNS
+DOMAIN,doh.libredns.gr
+
+# Marbled Fennec
+DOMAIN,dns.marbledfennec.net
+
+# NWPS.fi
+DOMAIN,public.ns.nwps.fi
+
+# OpenBLD.net
+DOMAIN,ada.openbld.net
+
+# RabbitDNS
+DOMAIN,dns.rabbitdns.org
+
+# Switch Public DNS
+DOMAIN,dns.switch.ch

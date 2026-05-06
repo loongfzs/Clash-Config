@@ -216,6 +216,10 @@ DOMAIN-SUFFIX,notion.so
 # NVIDIA
 DOMAIN-SUFFIX,nvidia.com
 
+# NIKE
+# Fallback-filter
+DOMAIN-SUFFIX,nike.com
+
 ### O
 # Ookla
 DOMAIN-SUFFIX,downdetector.com

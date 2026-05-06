@@ -152,9 +152,9 @@ dns:
     #- 'https://dns.google/dns-query'
   proxy-server-nameserver:
     #- system
-    - 'https://doh.360.cn/dns-query'
+    #- 'https://doh.360.cn/dns-query'
     - 'https://dns.alidns.com/dns-query'
-    #- 'https://doh.pub/dns-query'
+    - 'https://doh.pub/dns-query'
     #- 'https://doh-pure.onedns.net/dns-query'
   fallback-filter:
     geoip: true
@@ -287,6 +287,8 @@ dns:
       - '+.playstation.net'
       # Akamai
       - '+.edgekey.net'
+      # Nike
+      - '+.nike.com'
   # Lookup domains via specific nameservers
     nameserver-policy:
       '+.msftconnecttest.com': 'https://dns.alidns.com/dns-query'
