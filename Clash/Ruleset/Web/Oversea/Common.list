@@ -372,6 +372,9 @@ DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
 
+# BootstrapCDN
+DOMAIN-SUFFIX,bootstrapcdn.com
+
 # IP测试
 # ipify API
 DOMAIN-SUFFIX,ipify.org
