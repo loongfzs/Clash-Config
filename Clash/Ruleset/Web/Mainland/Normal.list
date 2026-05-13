@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,ele.me
@@ -103,6 +104,12 @@ DOMAIN-SUFFIX,hdslb.com
 
 # 百词斩
 DOMAIN-SUFFIX,baicizhan.com
+
+# 百家云
+DOMAIN-SUFFIX,baijiayun.com
+
+# Bootstrap中文网
+DOMAIN-SUFFIX,bootcss.com
 
 ### C
 # CCTV
@@ -340,6 +347,10 @@ DOMAIN-SUFFIX,smzdm.com
 # 深圳市爱听卓乐文化科技有限公司
 DOMAIN-SUFFIX,tingmall.com
 
+# Staticfile CDN
+DOMAIN-SUFFIX,staticfile.org
+DOMAIN-SUFFIX,staticfile.net
+
 ### T
 # 腾讯
 DOMAIN-SUFFIX,cdntips.net
@@ -409,6 +420,10 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,youdao.com
 
+# 网宿科技
+DOMAIN-SUFFIX,cdnmg.com
+DOMAIN-SUFFIX,wangsu.com
+
 ### X
 # 新浪微博
 DOMAIN-SUFFIX,weibo.com
@@ -462,6 +477,9 @@ DOMAIN-SUFFIX,youzanyun.com
 
 # 易有云
 DOMAIN-SUFFIX,linkease.com
+
+# 又拍云
+DOMAIN-SUFFIX,upaiyun.com
 
 ### Z
 # 字节跳动
@@ -610,14 +628,6 @@ DOMAIN-SUFFIX,ajkimg.com
 ### 9
 
 ### 其他
-## 公共直连CDN
-DOMAIN-SUFFIX,baomitu.com
-DOMAIN-SUFFIX,bootcss.com
-DOMAIN-SUFFIX,jiasule.com
-DOMAIN-SUFFIX,staticfile.org
-DOMAIN-SUFFIX,upaiyun.com
-# 网宿科技
-DOMAIN-SUFFIX,cdnmg.com
 
 ### 特殊
 ## DNS
@@ -625,11 +635,6 @@ DOMAIN-SUFFIX,cdnmg.com
 DOMAIN-SUFFIX,alidns.com
 # DNSPod
 DOMAIN-SUFFIX,doh.pub
-# OneDNS
-DOMAIN-SUFFIX,onedns.net
-
-# ipleak
-DOMAIN-SUFFIX,ipleak.net
 
 # 订阅
 DOMAIN-SUFFIX,prodigal4936.com

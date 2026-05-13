@@ -126,6 +126,9 @@ DOMAIN-SUFFIX,imgur.com
 # ITDOG
 DOMAIN-SUFFIX,itdog.plus
 
+# IPLEAK
+DOMAIN-SUFFIX,ipleak.net
+
 ### J
 # jQuery,a fast, small, and feature-rich JavaScript library
 DOMAIN-SUFFIX,jquery.com
@@ -197,6 +200,8 @@ DOMAIN-SUFFIX,instagram.com
 
 # Mozilla Corporation
 DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
 
 # 名字生成器
 DOMAIN-SUFFIX,qmsjmfb.com
