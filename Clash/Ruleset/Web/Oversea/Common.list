@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,daumcdn.net
 # Fastly
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly-edge.com
 
 ### G
 # Google
