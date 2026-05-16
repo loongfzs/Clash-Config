@@ -231,6 +231,7 @@ dns:
       - '+.linkedin.com'
       - '+.live.com'
       - '+.live.net'
+      - '+.microsoft'
       - '+.microsoft.com'
       - '+.microsoft.net'
       - '+.microsoftapp.net'
