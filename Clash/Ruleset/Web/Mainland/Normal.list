@@ -201,7 +201,6 @@ DOMAIN-SUFFIX,jcloudstatic.com
 DOMAIN-SUFFIX,jcloudstatic.net
 
 # 金山云
-DOMAIN-SUFFIX,ksyna.com
 DOMAIN-SUFFIX,ks-live.com
 
 # 尽简衣橱
@@ -356,6 +355,7 @@ DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,clngaa.com
 DOMAIN-SUFFIX,bscstorage.net
 DOMAIN-SUFFIX,eccdnx.com
+DOMAIN-SUFFIX,ksyna.com
 DOMAIN-SUFFIX,pinyuncloud.com
 DOMAIN-SUFFIX,tnkjmec.com
 DOMAIN-SUFFIX,8686c.com
