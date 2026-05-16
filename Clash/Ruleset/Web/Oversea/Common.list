@@ -201,6 +201,8 @@ DOMAIN-SUFFIX,instagram.com
 
 # Mozilla Corporation
 DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,mozaws.net
+DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
@@ -317,6 +319,8 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,x.com
 
 ### U
+# UNPKG
+DOMAIN-SUFFIX,unpkg.com
 
 ### V
 # V2EX
@@ -332,6 +336,9 @@ DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,xmind.app
 
 ### Y
+# Yandex
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yastatic.net
 
 ### Z
 

@@ -12,6 +12,14 @@
 ## DST-PORT,80 #匹配数据目标端口
 ## SRC-PORT,7777 #匹配数据源端口
 
+# 反作弊平台
+# EAC
+DOMAIN-SUFFIX,easy.ac
+DOMAIN-SUFFIX,eac-cdn.com
+
+# BattlEye
+DOMAIN-SUFFIX,battleye.com
+
 # Bethesda 贝塞斯达
 DOMAIN-SUFFIX,bethesda.net
 
@@ -42,6 +50,10 @@ DOMAIN-SUFFIX,epicgames.dev
 # GOG游戏平台
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,gog-statics.com
+
+# Hitman
+DOMAIN-SUFFIX,ioi.dk
+DOMAIN-SUFFIX,hitman.io
 
 # Sony https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
 # Fallback-filter
