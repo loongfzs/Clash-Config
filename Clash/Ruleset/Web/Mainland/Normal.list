@@ -89,6 +89,7 @@ DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,jomodns.com
+DOMAIN-SUFFIX,shifen.com
 DOMAIN-SUFFIX,xdrtc.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
@@ -417,6 +418,9 @@ DOMAIN-SUFFIX,shuangliusc.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,wwstat.com
 
+# Bosheng 的网络技术分享
+DOMAIN-SUFFIX,vsean.net
+
 ##################
 
 ### W
@@ -433,6 +437,7 @@ DOMAIN-SUFFIX,youdao.com
 
 # 网宿科技
 DOMAIN-SUFFIX,cdnmg.com
+DOMAIN-SUFFIX,cdngtm.com
 DOMAIN-SUFFIX,wangsu.com
 
 ### X
@@ -491,6 +496,10 @@ DOMAIN-SUFFIX,linkease.com
 
 # 又拍云
 DOMAIN-SUFFIX,upaiyun.com
+
+# 云盾
+DOMAIN-SUFFIX,yundun.com
+DOMAIN-SUFFIX,yunduns.com
 
 ### Z
 # 字节跳动

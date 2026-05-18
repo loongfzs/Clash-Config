@@ -1,4 +1,5 @@
 ## === 常用网站 ===
+# 同步 Fallback-filter
 
 ## 规则编写示例
 ## 排序在上的规则优先生效
@@ -20,29 +21,63 @@ DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,asus.com
 
 # AWS
+DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,aws.com
+DOMAIN-SUFFIX,amazon
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudfront.net
 
 # Akamai
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaistream.net
-# Fallback-filter
 DOMAIN-SUFFIX,edgekey.net
+
+# Apkpure
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,winudf.com
+
+# Adidas
+DOMAIN-SUFFIX,adidas.com
 
 ### B
 
 ### C
 # Cloudflare
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ech.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,cloudflare-quic.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflareapps.com
+DOMAIN-SUFFIX,cloudflarebolt.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflaremirrors.com
+DOMAIN-SUFFIX,cloudflareok.com
+DOMAIN-SUFFIX,cloudflarepreview.com
+DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflaressl.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,cloudflaretest.com
+DOMAIN-SUFFIX,cloudflarewarp.com
+DOMAIN-SUFFIX,every1dns.net
+DOMAIN-SUFFIX,pacloudflare.com
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,trycloudflare.com
+DOMAIN-SUFFIX,videodelivery.net
+DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
 
 ### D
@@ -58,6 +93,31 @@ DOMAIN-SUFFIX,deepl.com
 # Daum（Kakao 运营）
 DOMAIN-SUFFIX,daumcdn.net
 
+# Docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerhub.com
+DOMAIN-SUFFIX,compose-spec.io
+
+# Developer
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,elastic.co
+DOMAIN-SUFFIX,elastic.com
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,jitpack.io
+DOMAIN-SUFFIX,maven.org
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,mvnrepository.com
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,redhat.com
+DOMAIN-SUFFIX,sonatype.org
+DOMAIN-SUFFIX,sourcegraph.com
+DOMAIN-SUFFIX,spring.io
+DOMAIN-SUFFIX,spring.net
+DOMAIN-SUFFIX,stackoverflow.com
+
 ### E
 
 ### F
@@ -66,9 +126,15 @@ DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly-edge.com
 
+# Edgecast
+DOMAIN-SUFFIX,edgecastcdn.net
+
+# Foxit Software
+DOMAIN-SUFFIX,foxit.com
+DOMAIN-SUFFIX,connectedpdf.com
+
 ### G
 # Google
-# Fallback-filter
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,g.co
@@ -109,6 +175,10 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubusercontent.com
 
+# Gigabyte
+DOMAIN-SUFFIX,aorus.com
+DOMAIN-SUFFIX,gigabyte.com
+
 ### H
 # Hcaptcha
 DOMAIN-SUFFIX,hcaptcha.com
@@ -123,12 +193,16 @@ DOMAIN-SUFFIX,media-imdb.com
 
 # Imgur 图床
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imgurinc.com
 
 # ITDOG
 DOMAIN-SUFFIX,itdog.plus
 
 # IPLEAK
 DOMAIN-SUFFIX,ipleak.net
+
+# ImmortalWrt
+DOMAIN-SUFFIX,immortalwrt.org
 
 ### J
 # jQuery,a fast, small, and feature-rich JavaScript library
@@ -137,15 +211,14 @@ DOMAIN-SUFFIX,jquery.com
 ### K
 
 ### L
-Landrop
+# Landrop
 DOMAIN-SUFFIX,landrop.app
 
 ### M
 # Microsoft
-# Fallback-filter
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,ax-msedge.net
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azureedge.net
@@ -201,10 +274,25 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,instagram.com
 
 # Mozilla Corporation
+DOMAIN-SUFFIX,bugzilla.org
+DOMAIN-SUFFIX,extensionworkshop.com
 DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN-SUFFIX,mozillademos.org
+DOMAIN-SUFFIX,mozit.cloud
+DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,pocket-image-cache.com
+DOMAIN-SUFFIX,seamonkey-project.org
+DOMAIN-SUFFIX,thunderbird.net
+DOMAIN-SUFFIX,rustup.rs
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,docs.rs
+DOMAIN-SUFFIX,mofoprod.net
 DOMAIN-SUFFIX,mozaws.net
 DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
 
@@ -220,6 +308,9 @@ DOMAIN-SUFFIX,medisearch.io
 
 ### N
 # Notion
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 
@@ -227,8 +318,14 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,nvidia.com
 
 # NIKE
-# Fallback-filter
 DOMAIN-SUFFIX,nike.com
+DOMAIN-SUFFIX,nike.com.hk
+DOMAIN-SUFFIX,nikecdn.com
+DOMAIN-SUFFIX,nikecloud.com
+DOMAIN-SUFFIX,niketracking.com
+DOMAIN-SUFFIX,static-nike.com
+DOMAIN-SUFFIX,swoo.sh
+DOMAIN-SUFFIX,swoosh.com
 
 ### O
 # Ookla
@@ -238,11 +335,8 @@ DOMAIN-SUFFIX,downdetectorapi.com
 # OMDb API
 DOMAIN-SUFFIX,omdbapi.com
 
-# OpenAI
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
+# OpenWrt
+DOMAIN-SUFFIX,openwrt.org
 
 ### P
 # Pinterest
@@ -329,8 +423,18 @@ DOMAIN-SUFFIX,v2ex.com
 
 ### W
 # Wikipedia 维基百科
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
 
 ### X
 # Xmind

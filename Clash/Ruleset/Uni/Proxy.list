@@ -14,11 +14,9 @@
 ## SRC-PORT,7777 #匹配数据源端口
 
 # 谷歌中国
-# Fallback-filter
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,google.cn
 
 # 微软中国
-# Fallback-filter
 DOMAIN-SUFFIX,msn.cn

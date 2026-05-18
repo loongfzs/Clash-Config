@@ -1,4 +1,5 @@
 ## === 游戏平台 ===
+# 同步 Fallback-filter
 
 ## 规则编写示例
 ## 排序在上的规则优先生效
@@ -21,7 +22,10 @@ DOMAIN-SUFFIX,eac-cdn.com
 DOMAIN-SUFFIX,battleye.com
 
 # Bethesda 贝塞斯达
+DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
+DOMAIN-SUFFIX,bethesdagamestudios.com
+DOMAIN-SUFFIX,bethsoft.com
 
 # Blizzard
 DOMAIN-SUFFIX,battle.net
@@ -44,19 +48,21 @@ DOMAIN-SUFFIX,tnt-ea.com
 
 # EPIC 虚幻游戏平台
 DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,unrealengine.com
 
 # GOG游戏平台
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.qtlglb.com
 
 # Hitman
 DOMAIN-SUFFIX,ioi.dk
 DOMAIN-SUFFIX,hitman.io
 
 # Sony https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
-# Fallback-filter
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
@@ -74,13 +80,17 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,valvesoftware.com
 
 # Nintendo 任天堂 https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Nintendo.list
-DOMAIN-KEYWORD,nintendo
+DOMAIN-SUFFIX,nintendo.co.jp
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendowifi.net
 
 # R星游戏
 DOMAIN-SUFFIX,rockstargames.com
 
 # Ubisoft
-DOMAIN-KEYWORD,ubisoft
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,uplay.com
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubi.li
 
@@ -92,3 +102,6 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxservice.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,gamepass.com
+
+# Valorant
+DOMAIN-SUFFIX,playvalorant.com
