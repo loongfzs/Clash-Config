@@ -336,12 +336,12 @@ dns:
       - '+.office.net'
       - '+.office365.com'
       - '+.onedrive.com'
+      - '+.onenote.net'
       - '+.sharepoint.com'
       - '+.sharepointonline.com'
       - '+.skype.com'
       - '+.windows.com'
       - '+.windows.net'
-      - '+.windowsupdate.com'
 # Visual Studio Code
       - '+.vscode-cdn.net'
       - '+.vscode-unpkg.net'
@@ -456,8 +456,6 @@ dns:
 # RoboForm
       - '+.roboform.com'
 ### S
-# SMS-activate
-      - '+.sms-activate.io'
 # Sukka
       - '+.skk.moe'
 # Ookla Speedtest
@@ -559,7 +557,6 @@ dns:
       - '+.apple.news'
       - '+.appstore.com'
       - '+.apzones.com'
-      #- '+.cdn-apple.com'
       - '+.icloud-content.com'
       - '+.icloud.com'
       - '+.itunes.com'

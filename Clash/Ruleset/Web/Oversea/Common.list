@@ -250,12 +250,12 @@ DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,windowsupdate.com
 
 # Visual Studio Code
 DOMAIN-SUFFIX,vscode-cdn.net
@@ -391,9 +391,6 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,roboform.com
 
 ### S
-# SMS-activate
-DOMAIN-SUFFIX,sms-activate.io
-
 # Sukka
 DOMAIN-SUFFIX,skk.moe
 

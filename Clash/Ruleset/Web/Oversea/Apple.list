@@ -31,8 +31,6 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
-# DOMAIN-SUFFIX,apple.com.cn
-# DOMAIN-SUFFIX,icloud.com.cn
 
 # IP 地址
 ############################################
