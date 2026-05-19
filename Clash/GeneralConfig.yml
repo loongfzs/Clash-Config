@@ -450,6 +450,7 @@ dns:
       - '+.quantumult.app'
 ### R
 # Reddit
+      - '+.redd.it'
       - '+.reddit.com'
       - '+.redditmedia.com'
       - '+.redditstatic.com'
