@@ -80,6 +80,10 @@ DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
 
+# Contentful
+DOMAIN-SUFFIX,contentful.com
+DOMAIN-SUFFIX,ctfassets.net
+
 ### D
 # Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.com
@@ -405,11 +409,8 @@ DOMAIN-SUFFIX,torproject.org
 # Twilio
 DOMAIN-SUFFIX,twilio.com
 
-# X(Twitter)
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,x.com
+# Transcend CDN
+DOMAIN-SUFFIX,transcend-cdn.com
 
 ### U
 # UNPKG
@@ -438,6 +439,12 @@ DOMAIN-SUFFIX,wiktionary.org
 # Xmind
 DOMAIN-SUFFIX,xmind.app
 
+# X(Twitter)
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,x.com
+
 ### Y
 # Yandex
 DOMAIN-SUFFIX,yandex.net
@@ -450,6 +457,7 @@ DOMAIN-SUFFIX,yastatic.net
 ### 1
 # 1Password
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1passwordservices.com
 
 ### 2
 

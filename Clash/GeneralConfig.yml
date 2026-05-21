@@ -191,6 +191,9 @@ dns:
       - '+.videodelivery.net'
       - '+.warp.plus'
       - '+.workers.dev'
+# Contentful
+      - '+.contentful.com'
+      - '+.ctfassets.net'
 ### D
 # Duckduckgo
       - '+.duckduckgo.com'
@@ -466,11 +469,8 @@ dns:
       - '+.torproject.org'
 # Twilio
       - '+.twilio.com'
-# X(Twitter)
-      - '+.t.co'
-      - '+.twimg.com'
-      - '+.twitter.com'
-      - '+.x.com'
+# Transcend CDN
+      - '+.transcend-cdn.com'
 ### U
 # UNPKG
       - '+.unpkg.com'
@@ -494,6 +494,11 @@ dns:
 ### X
 # Xmind
       - '+.xmind.app'
+# X(Twitter)
+      - '+.t.co'
+      - '+.twimg.com'
+      - '+.twitter.com'
+      - '+.x.com'
 ### Y
 # Yandex
       - '+.yandex.net'
@@ -503,6 +508,7 @@ dns:
 ### 1
 # 1Password
       - '+.1password.com'
+      - '+.1passwordservices.com'
 ### 2
 ### 3
 ### 4
