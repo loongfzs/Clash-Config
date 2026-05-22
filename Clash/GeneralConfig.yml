@@ -502,6 +502,8 @@ dns:
       - '+.yandex.net'
       - '+.yastatic.net'
 ### Z
+# zxinc.org（实用工具库）
+      - '+.zxinc.org'
 ### 0
 ### 1
 # 1Password
