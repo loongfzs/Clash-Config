@@ -338,6 +338,9 @@ DOMAIN-SUFFIX,sogoucdn.com
 # 搜狐
 DOMAIN-SUFFIX,sohu.com
 
+# Sukka
+DOMAIN,ipv6-ip.api.skk.moe
+
 # 硕方打印
 DOMAIN-SUFFIX,supvan.com
 

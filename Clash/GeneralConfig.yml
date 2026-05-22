@@ -460,8 +460,6 @@ dns:
 # RoboForm
       - '+.roboform.com'
 ### S
-# Sukka
-      - '+.skk.moe'
 # Ookla Speedtest
       - '+.speedtest.net'
 ### T
