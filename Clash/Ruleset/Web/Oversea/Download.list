@@ -52,6 +52,3 @@ DOMAIN,origin-a.akamaihd.net
 
 # 拳头游戏 下载
 DOMAIN-SUFFIX,dyn.riotcdn.net
-
-# Bethesda 游戏下载
-DOMAIN,download.cdp.bethesda.net
