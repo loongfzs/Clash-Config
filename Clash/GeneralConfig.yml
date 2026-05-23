@@ -459,6 +459,8 @@ dns:
       - '+.redditstatic.com'
 # RoboForm
       - '+.roboform.com'
+# RevenueCat
+      - '+.revenuecat.com'
 ### S
 # Ookla Speedtest
       - '+.speedtest.net'

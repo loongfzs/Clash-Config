@@ -396,6 +396,9 @@ DOMAIN-SUFFIX,redditstatic.com
 # RoboForm
 DOMAIN-SUFFIX,roboform.com
 
+# RevenueCat
+DOMAIN-SUFFIX,revenuecat.com
+
 ### S
 # Ookla Speedtest
 DOMAIN-SUFFIX,speedtest.net
