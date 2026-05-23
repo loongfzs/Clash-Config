@@ -33,6 +33,7 @@ IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 
 # Cloudflare DNS
+DOMAIN-SUFFIX,one.one.one.one
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.0.0.1/32,no-resolve
 
@@ -49,11 +50,69 @@ IP-CIDR,45.11.45.11/32,no-resolve
 # CleanBrowsing
 DOMAIN-SUFFIX,cleanbrowsing.org
 
-# DNSGuard
-DOMAIN-SUFFIX,dnsguard.pub
-
 # SurfsharkDNS
 DOMAIN-SUFFIX,surfsharkdns.com
 
 # WikimediaDNS
 DOMAIN-SUFFIX,wikimedia-dns.org
+
+# ruleset=DIRECT,https://raw.githubusercontent.com/loongfzs/Clash-Config/main/Clash/Ruleset/Web/Mainland/FallbackDNS.list
+# BebasDNS by BebasID
+DOMAIN-SUFFIX,bebasid.com
+
+# Caliph DNS
+DOMAIN-SUFFIX,caliph.dev
+
+# CERT-EE
+DOMAIN-SUFFIX,cert.ee
+
+# CIRA Canadian Shield
+DOMAIN-SUFFIX,cira.ca
+
+# Control D
+DOMAIN-SUFFIX,controld.com
+
+# CZ.NIC ODVR
+DOMAIN-SUFFIX,nic.cz
+
+# DeCloud Us
+DOMAIN-SUFFIX,decloudus.com
+
+# Digitale Gesellschaft
+DOMAIN-SUFFIX,digitale-gesellschaft.ch
+
+# DNS4EU
+DOMAIN-SUFFIX,joindns4.eu
+
+# DNS for Family
+DOMAIN-SUFFIX,dnsforfamily.com
+
+# DNS Forge
+DOMAIN-SUFFIX,dnsforge.de
+
+# DNSGuard
+DOMAIN-SUFFIX,dnsguard.pub
+
+# HaGeZi
+DOMAIN-SUFFIX,hagezi.org
+
+# Jupitr DNS
+DOMAIN-SUFFIX,jupitrdns.com
+
+# Libre DNS
+DOMAIN-SUFFIX,libredns.gr
+
+# Marbled Fennec
+DOMAIN-SUFFIX,marbledfennec.net
+
+# NWPS.fi
+DOMAIN-SUFFIX,nwps.fi
+
+# OpenBLD.net
+DOMAIN-SUFFIX,openbld.net
+
+# RabbitDNS
+DOMAIN-SUFFIX,rabbitdns.org
+
+# Switch Public DNS
+DOMAIN-SUFFIX,switch.ch
