@@ -288,7 +288,7 @@ DOMAIN-SUFFIX,taihe.com
 DOMAIN-SUFFIX,ttplayer.com
 DOMAIN-SUFFIX,youyou.com
 DOMAIN-SUFFIX,youyou001.com
-## >> 作业帮
+# 作业帮
 DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
@@ -974,6 +974,7 @@ DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,sohu.com
 
 # Sukka
+DOMAIN,ipv4-ip.api.skk.moe
 DOMAIN,ipv6-ip.api.skk.moe
 
 # 硕方打印
@@ -1263,6 +1264,7 @@ DOMAIN-SUFFIX,speiyou.com
 DOMAIN-SUFFIX,xesimg.com
 DOMAIN-SUFFIX,xueersi.com
 DOMAIN-SUFFIX,vdyoo.net
+DOMAIN-SUFFIX,talbrain.com
 
 # 下厨房
 DOMAIN-SUFFIX,xiachufang.com
@@ -1636,7 +1638,7 @@ DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,xitu.io
 # 快懂百科
 DOMAIN-SUFFIX,baike.com
-# 脸萌Faceu
+# 脸萌FaceU
 DOMAIN-SUFFIX,2333333333333.com
 DOMAIN-SUFFIX,bqtalk.com
 DOMAIN-SUFFIX,faceu.com
