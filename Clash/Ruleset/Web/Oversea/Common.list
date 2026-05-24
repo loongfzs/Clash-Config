@@ -403,6 +403,10 @@ DOMAIN-SUFFIX,revenuecat.com
 # Ookla Speedtest
 DOMAIN-SUFFIX,speedtest.net
 
+# Spaceship
+DOMAIN-SUFFIX,spaceship.com
+DOMAIN-SUFFIX,spaceship-cdn.com
+
 ### T
 # Tor
 DOMAIN-SUFFIX,torproject.org

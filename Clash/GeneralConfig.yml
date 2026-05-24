@@ -464,6 +464,9 @@ dns:
 ### S
 # Ookla Speedtest
       - '+.speedtest.net'
+# Spaceship
+      - '+.spaceship.com'
+      - '+.spaceship-cdn.com'
 ### T
 # Tor
       - '+.torproject.org'

@@ -1024,6 +1024,9 @@ DOMAIN-SUFFIX,8686c.com
 DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,pphimalayanrt.com
 
+# Spaceship API
+DOMAIN,spaceship.dev
+
 ### T
 # 腾讯
 DOMAIN-SUFFIX,cdntips.net
