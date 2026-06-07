@@ -21,10 +21,14 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,cdn.ubi.com
 
 # Epic Games 游戏下载
+# https://www.epicgames.com/help/technical-support-c-202300000001619/general-support-c-202300000001672/epic-a202300000012358
+DOMAIN,egs-cloudfront-chunks.epicgamescdn.com
+DOMAIN-SUFFIX,epicgamescdn.com
 DOMAIN,download.epicgames.com
 DOMAIN,download2.epicgames.com
 DOMAIN,download3.epicgames.com
 DOMAIN,download4.epicgames.com
+DOMAIN,egdownload.fastly-edge.com
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,epicgames-download1.akamaized.net
 
