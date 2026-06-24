@@ -132,6 +132,9 @@ DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,foxit.com
 DOMAIN-SUFFIX,connectedpdf.com
 
+# 肥羊的服务
+DOMAIN-SUFFIX,v1.mk
+
 ### G
 # Google
 DOMAIN-SUFFIX,1e100.net
@@ -372,6 +375,9 @@ DOMAIN-SUFFIX,ypncdn.com
 
 # PeeringDB
 DOMAIN-SUFFIX,peeringdb.com
+
+# Ping0
+DOMAIN-SUFFIX,ping0.cc
 
 ### Q
 # Quora

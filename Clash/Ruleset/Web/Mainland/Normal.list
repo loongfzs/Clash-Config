@@ -1841,31 +1841,3 @@ DOMAIN-SUFFIX,ajkimg.com
 DOMAIN-SUFFIX,alidns.com
 # DNSPod
 DOMAIN-SUFFIX,doh.pub
-
-## IP测试
-DOMAIN-SUFFIX,ddnspod.com
-DOMAIN-SUFFIX,threep.top
-DOMAIN-SUFFIX,mir6.com
-DOMAIN-SUFFIX,3322.net
-
-## 知名订阅转换后端
-# sub-web作者提供
-DOMAIN-SUFFIX,wcc.best
-# subconverter作者提供
-DOMAIN-SUFFIX,xeton.dev
-# 品云提供
-DOMAIN-SUFFIX,id9.cc
-# 边缘提供
-DOMAIN-SUFFIX,bianyuan.xyz
-# 奶昔提供
-DOMAIN-SUFFIX,nexconvert.com
-# lhie1提供
-DOMAIN-SUFFIX,dler.io
-# 猫熊提供
-DOMAIN-SUFFIX,maoxiongnet.com
-# 歪兔提供
-DOMAIN-SUFFIX,sublink.dev
-# 920.im提供
-DOMAIN-SUFFIX,xjz.im
-# sub.ops.ci
-DOMAIN-SUFFIX,ops.ci

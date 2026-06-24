@@ -237,6 +237,8 @@ dns:
 # Foxit Software
       - '+.foxit.com'
       - '+.connectedpdf.com'
+# 肥羊的服务
+      - '+.v1.mk'
 ### G
 # Google
       - '+.1e100.net'
@@ -446,6 +448,8 @@ dns:
       - '+.ypncdn.com'
 # PeeringDB
       - '+.peeringdb.com'
+# Ping0
+      - '+.ping0.cc'
 ### Q
 # Quora
       - '+.quora.com'
