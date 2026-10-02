@@ -281,6 +281,7 @@ DOMAIN-SUFFIX,dlnel.org
 DOMAIN-SUFFIX,dulife.com
 DOMAIN-SUFFIX,dumall.com
 DOMAIN-SUFFIX,xiaodutv.com
+DOMAIN-SUFFIX,xdrtc.com
 # 太和音乐
 DOMAIN-SUFFIX,dmhmusic.com
 DOMAIN-SUFFIX,qianqian.com
@@ -309,7 +310,7 @@ DOMAIN-SUFFIX,baicizhan.com
 # 百家云
 DOMAIN-SUFFIX,baijiayun.com
 
-# Bootcss（Bootstrap中文网）
+# Bootcss
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,phpcomposer.com
 
@@ -1309,6 +1310,7 @@ DOMAIN-SUFFIX,xycloud.com
 DOMAIN-SUFFIX,yfdurl.com
 DOMAIN-SUFFIX,yuanfudao.com
 DOMAIN-SUFFIX,yuantiku.com
+DOMAIN-SUFFIX,zhenguanyu.com
 
 ### Y
 # 雨时（和风天气）
